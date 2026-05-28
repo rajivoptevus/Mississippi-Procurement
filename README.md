@@ -89,7 +89,7 @@ These files produced the correct final data:
 1.	scraper.py              - Primary data collection 
 2.	db_fix.py               - Full cleanup + Azure upload + DB upsert 
 3.	merge_to_production.py  - Merge to production tables 
-4.	upload_rfps_final.py    - Alternative uploader ✅
+4.	upload_rfps_final.py    - Alternative uploader 
 ________________________________________
 
 Database Schema (Target Tables)
