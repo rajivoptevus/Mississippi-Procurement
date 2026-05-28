@@ -1,0 +1,45 @@
+{
+  "bid_id": 45228,
+  "smart_number": "1941-26-R-IFBD-00041",
+  "rfx_number": "3160008055",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF TRANSPORTATION",
+  "description": "RFX 3160008055 - Cable Barrier Repair- MDOT District III\nProject Number : 310264/301000\nAgency Contract for Cable Barrier Repair\nDistrict III\nMississippi Department of Transportation\n\nBids can be submitted electronically through the MAGIC portal or \n\nSeal",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-15 05:00 UTC",
+  "submission_date": "2026-06-04 05:00 UTC",
+  "opening_date": "2026-06-04 05:00 UTC",
+  "contact_name": "Ashley Harrell",
+  "contact_email": "AHARRELL@MDOT.MS.GOV",
+  "contact_phone": "6019614119",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45228?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008055.PDF?ATTCGET&CLID=02000600000A1FE192E31BC1BE526F6D&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65624,
+      "description": "Attachment A RFX Response in MAGIC",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%20RFX%20RESPONSE%20IN%20MAGIC%20%283%29.PDF?PHIOGET&KPID=0200060000121FD090A9350C4CBECD9E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65623,
+      "description": "Attachment B Magic Supplier Self- Service",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%20MAGIC%20SUPPLIER%20SELF%2D%20SERVICE%20%284%29.PDF?PHIOGET&KPID=0200060000121FD090A9385006488D9F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65625,
+      "description": "RFX 3160008055 District III Cable Barrier Bid Packet",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008055%20DISTRICT%20III%20CABLE%20BARRIER%20BID%20PACKET.PDF?PHIOGET&KPID=02000600000A1FE192E313589B5D0F6D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91371",
+      "category_description": "Serv ConsHeavMainHwy"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:34:06.406783+00:00"
+}

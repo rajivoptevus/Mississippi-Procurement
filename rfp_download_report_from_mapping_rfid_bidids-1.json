@@ -1,0 +1,446 @@
+{
+  "generated_at": "2026-05-26T11:43:17Z",
+  "downloaded_rfps_directory": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps",
+  "scraped_data_directory": "C:\\Scraping\\Mississippi-Procurement\\scraped_data",
+  "total_subdirectories": 8,
+  "report": [
+    {
+      "subdirectory": "3849",
+      "rfp_number": "3849",
+      "bid_id": null,
+      "detail_page_url": null,
+      "scraped_from_website": null,
+      "matched_bid_source_file": null,
+      "downloaded_files": [
+        {
+          "file_name": "3849amend-2021-08-31.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3849\\3849amend-2021-08-31.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "3849amend_2.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3849\\3849amend_2.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "3849rfp06222020.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3849\\3849rfp06222020.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "3849rfp06222020.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3849\\3849rfp06222020.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "3849validvendors-2024-08-07.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3849\\3849validvendors-2024-08-07.pdf",
+          "direct_download_urls": []
+        }
+      ]
+    },
+    {
+      "subdirectory": "3850",
+      "rfp_number": "3850",
+      "bid_id": 38017,
+      "detail_page_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/38017?AppId=1",
+      "scraped_from_website": "https://www.ms.gov",
+      "matched_bid_source_file": "C:\\Scraping\\Mississippi-Procurement\\scraped_data\\BidID_38017\\details.json",
+      "downloaded_files": [
+        {
+          "file_name": "04.08.2026-3850rfpconformed.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3850\\04.08.2026-3850rfpconformed.docx",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120002960.PDF?ATTCGET&CLID=174D924F2D821EDF97CB2183A3454867&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=174D924F2D821EEF96E6BAEC6A9E0FCD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "04.08.2026-3850rfpconformed.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3850\\04.08.2026-3850rfpconformed.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120002960.PDF?ATTCGET&CLID=174D924F2D821EDF97CB2183A3454867&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=174D924F2D821EEF96E6BAEC6A9E0FCD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "3850validvendors-2025-03-26.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3850\\3850validvendors-2025-03-26.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120002960.PDF?ATTCGET&CLID=174D924F2D821EDF97CB2183A3454867&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=174D924F2D821EEF96E6BAEC6A9E0FCD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "instructions for use - msp 12.05.2022.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3850\\instructions for use - msp 12.05.2022.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120002960.PDF?ATTCGET&CLID=174D924F2D821EDF97CB2183A3454867&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=174D924F2D821EEF96E6BAEC6A9E0FCD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "knowledge services valid vendor list.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\3850\\knowledge services valid vendor list.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120002960.PDF?ATTCGET&CLID=174D924F2D821EDF97CB2183A3454867&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=174D924F2D821EEF96E6BAEC6A9E0FCD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subdirectory": "4599",
+      "rfp_number": "4599",
+      "bid_id": 40954,
+      "detail_page_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/40954?AppId=1",
+      "scraped_from_website": "https://www.ms.gov",
+      "matched_bid_source_file": "C:\\Scraping\\Mississippi-Procurement\\scraped_data\\BidID_40954\\details.json",
+      "downloaded_files": [
+        {
+          "file_name": "4599-vendor-conference.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\4599-vendor-conference.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "4599amend2.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\4599amend2.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "4599vendqamemopost.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\4599vendqamemopost.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "attachment a technical specifications.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\attachment a technical specifications.docx",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "attachment a technical specifications.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\attachment a technical specifications.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "attachment a-1 technical specifications.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\attachment a-1 technical specifications.docx",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "attachment a-1 technical specifications.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\attachment a-1 technical specifications.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "psvc purchase agreement .pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\psvc purchase agreement .pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "rfp4599 final.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\rfp4599 final.docx",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        },
+        {
+          "file_name": "rfpp 4599 signed.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4599\\rfpp 4599 signed.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subdirectory": "4671",
+      "rfp_number": "4671",
+      "bid_id": null,
+      "detail_page_url": null,
+      "scraped_from_website": null,
+      "matched_bid_source_file": null,
+      "downloaded_files": [
+        {
+          "file_name": "4671amend1.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4671\\4671amend1.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4671attachmenta.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4671\\4671attachmenta.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4671attachmenta.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4671\\4671attachmenta.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4671attachmentb.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4671\\4671attachmentb.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4671attachmentb.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4671\\4671attachmentb.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4671exhibita.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4671\\4671exhibita.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4671rfp.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4671\\4671rfp.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4671rfp.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4671\\4671rfp.pdf",
+          "direct_download_urls": []
+        }
+      ]
+    },
+    {
+      "subdirectory": "4708",
+      "rfp_number": "4708",
+      "bid_id": 45287,
+      "detail_page_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45287?AppId=1",
+      "scraped_from_website": "https://www.ms.gov",
+      "matched_bid_source_file": "C:\\Scraping\\Mississippi-Procurement\\scraped_data\\BidID_45287\\details.json",
+      "downloaded_files": [
+        {
+          "file_name": "4708ss.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4708\\4708ss.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006830.PDF?ATTCGET&CLID=02000600000A1FE193C83C59BB151373&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SOLE%20SOURCE%20URL.PDF?PHIOGET&KPID=BD4C2DA7C1951EDFA0B5898ABA20D817&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subdirectory": "4726",
+      "rfp_number": "4726",
+      "bid_id": null,
+      "detail_page_url": null,
+      "scraped_from_website": null,
+      "matched_bid_source_file": null,
+      "downloaded_files": [
+        {
+          "file_name": "4726ss.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4726\\4726ss.pdf",
+          "direct_download_urls": []
+        }
+      ]
+    },
+    {
+      "subdirectory": "4733",
+      "rfp_number": "4733",
+      "bid_id": null,
+      "detail_page_url": null,
+      "scraped_from_website": null,
+      "matched_bid_source_file": null,
+      "downloaded_files": [
+        {
+          "file_name": "4733amend1.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733amend1.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733attachmenta.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733attachmenta.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733attachmenta.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733attachmenta.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733attachmentb-1.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733attachmentb-1.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733attachmentb.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733attachmentb.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733attachmentb.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733attachmentb.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733exhibita.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733exhibita.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733exhibita.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733exhibita.pdf",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733rfp.docx",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733rfp.docx",
+          "direct_download_urls": []
+        },
+        {
+          "file_name": "4733rfp.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\4733\\4733rfp.pdf",
+          "direct_download_urls": []
+        }
+      ]
+    },
+    {
+      "subdirectory": "5002",
+      "rfp_number": "5002",
+      "bid_id": 45288,
+      "detail_page_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45288?AppId=1",
+      "scraped_from_website": "https://www.ms.gov",
+      "matched_bid_source_file": "C:\\Scraping\\Mississippi-Procurement\\scraped_data\\BidID_45288\\details.json",
+      "downloaded_files": [
+        {
+          "file_name": "5002ss.pdf",
+          "file_path": "C:\\Scraping\\Mississippi-Procurement\\downloaded_rfps\\5002\\5002ss.pdf",
+          "direct_download_urls": [
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006831.PDF?ATTCGET&CLID=0200060000111FD193C7D830C76ECED8&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            },
+            {
+              "direct_download_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SOLE%20SOURCE%20URL.PDF?PHIOGET&KPID=BD4C2DA7C1951EDFA0B5898ABA20D817&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
+              "parent_website_url": "https://SRM.MAGIC.MS.GOV:443"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

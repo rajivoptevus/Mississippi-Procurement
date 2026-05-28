@@ -1,0 +1,35 @@
+{
+  "bid_id": 40954,
+  "smart_number": "1601-25-R-RFPR-00017",
+  "rfx_number": "3120003121",
+  "rfx_status": "Open",
+  "rfx_type": "Request for Proposal",
+  "agency": "",
+  "description": "General RFP 4599: Beginning Tuesday, March 25, 2025, RFP No. 4599 is being amended to add a Security Cameras and Access Control systems category.  Please see Amendment 2  Security Cameras and Access Control Systems on the ITS website for information on",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2025-03-25 05:00 UTC",
+  "submission_date": "2026-11-30 06:00 UTC",
+  "opening_date": "2026-11-30 06:00 UTC",
+  "contact_name": "Valerie Luckett",
+  "contact_email": "VALERIE.LUCKETT@ITS.MS.GOV",
+  "contact_phone": "6014328218",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/40954?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 58740,
+      "description": "RFP No. 4599 URL",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "65596",
+      "category_description": "Video Captur Devices"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:52:45.266596+00:00"
+}

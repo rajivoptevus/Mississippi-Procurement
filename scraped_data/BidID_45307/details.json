@@ -1,0 +1,35 @@
+{
+  "bid_id": 45307,
+  "smart_number": "2526-20260420114625 Greenville",
+  "rfx_number": "3170035687",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Pre-Bid Conference:\nDate & Time: 5/7/2026 2:00 PM\nDescription: All Bidders are welcome to attend the pre-bid meeting held 2:00 p.m. (CST) on Thursday, May 7, 2026, in the City of Greenville City Council Chambers, 340 Main St., Greenville, Mississippi; \n38",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-05-21 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45307?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035687.PDF?ATTCGET&CLID=02000600000A1FE193F575BEBF56D523&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65818,
+      "description": "SECTION 00075 - ADVERTISEMENT FOR BIDS.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2526%2D20260420114625%20GREENVILLE.PDF?PHIOGET&KPID=02000600000A1FE193F567BCBE20B520&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91345",
+      "category_description": "Serv ConstHeavySewer"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:33:15.315566+00:00"
+}

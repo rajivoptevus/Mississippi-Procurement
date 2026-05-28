@@ -1,0 +1,35 @@
+{
+  "bid_id": 45325,
+  "smart_number": "137-20260421104356 RCBS",
+  "rfx_number": "3170035737",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Notice is hereby given that written sealed term bids for scrub seal, slurry seal, micro-surfacing and micro-surfacing (modified) for the period of July 1, 2026, through December 31, 2026, with an additional six-month period at the option of both parties,",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-05-28 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45325?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035737.PDF?ATTCGET&CLID=0200060000111FD193FB6E04ABAC912D&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65851,
+      "description": "Bid 26-300-3A Scrub Seal Slurry Seal Micro Surfacing.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/137%2D20260421104356%20RCBS.PDF?PHIOGET&KPID=02000600000A1FE193FB6883660D1568&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "74584",
+      "category_description": "RoadMaterSlurrySealS"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:32:10.711053+00:00"
+}

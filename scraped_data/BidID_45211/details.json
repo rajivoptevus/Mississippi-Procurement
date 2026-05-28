@@ -1,0 +1,35 @@
+{
+  "bid_id": 45211,
+  "smart_number": "9250-26-R-RFIN-00038",
+  "rfx_number": "3150006819",
+  "rfx_status": "Open",
+  "rfx_type": "Req. for Information",
+  "agency": "MISSISSIPPI STATE UNIVERSITY",
+  "description": "SOLE SOURCE REQUEST TO PURCHASE iGC-NOVA High Temperature Surface Energy Analyzer",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-07 05:00 UTC",
+  "submission_date": "2026-05-21 05:00 UTC",
+  "opening_date": "2026-05-21 05:00 UTC",
+  "contact_name": "Debra Raines",
+  "contact_email": "draines@procurement.msstate.edu",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45211?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006819.PDF?ATTCGET&CLID=0200060000111FD19294547D1FB506F2&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65583,
+      "description": "Notice",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NOTICE%20256%2D090.PDF?PHIOGET&KPID=0200060000111FD1929452E0C24386F2&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "49043",
+      "category_description": "Lab Eqpmt-Lab & Scie"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:53:46.498496+00:00"
+}

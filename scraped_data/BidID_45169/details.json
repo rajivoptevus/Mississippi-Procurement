@@ -1,0 +1,35 @@
+{
+  "bid_id": 45169,
+  "smart_number": "1130-26-R-IFBD-00051",
+  "rfx_number": "3160007981",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+  "description": "The Mississippi Department of Finance and Administration (DFA), Office of Procurement and Contracts, has issued an Invitation for Bids (IFB) for the purpose of securing a qualified vendor to provide integrated pest control services for the Office of Capit",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-28 05:00 UTC",
+  "submission_date": "2026-06-09 05:00 UTC",
+  "opening_date": "2026-06-09 05:00 UTC",
+  "contact_name": "Terri Ashley",
+  "contact_email": "TERRI.ASHLEY@DFA.MS.GOV",
+  "contact_phone": "6013596580",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45169?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160007981.PDF?ATTCGET&CLID=02000600000A1FE190E50B4E3B06C44D&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65480,
+      "description": "IFB - Int. Pest Services",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160007981%20%2D%20INTEGRATED%20PEST%20MANAGEMENT%20SERVICES%20IFB.PDF?PHIOGET&KPID=0200060000111FE190E4DA9DC5D37E9A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91059",
+      "category_description": "Serv BuildPestCntrl"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:07:37.331782+00:00"
+}

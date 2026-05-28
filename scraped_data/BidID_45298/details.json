@@ -1,0 +1,50 @@
+{
+  "bid_id": 45298,
+  "smart_number": "1301-26-R-IFBD-00063-V01",
+  "rfx_number": "3160008035",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF HEALTH",
+  "description": "The Mississippi State Department of Health (MSDH), Office of Communicable Disease, will accept submissions until 11:00 a.m. CST, Friday, May 29, 2026, from interested bidders in becoming the Third-Party Administrator for the Ryan White Part B Program. The",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-28 05:00 UTC",
+  "submission_date": "2026-05-29 05:00 UTC",
+  "opening_date": "2026-05-29 05:00 UTC",
+  "contact_name": "Hannah Wright",
+  "contact_email": "HANNAH.WRIGHT@MSDH.MS.GOV",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45298?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008035%5FV1.PDF?ATTCGET&CLID=0200060000111FD193E2163BD5941009&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65806,
+      "description": "Advertisement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%20%203160008035%20RYRAN%20WHITE%20PART%20B%20AD.PDF?PHIOGET&KPID=02000600000A1FD19081E0D1F0D17FE3&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65808,
+      "description": "Business Associate Agreement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2026%5F%5FBAA%5F1063E.PDF?PHIOGET&KPID=02000600000A1FD19081F8AC3D2F9FE5&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65807,
+      "description": "IFB RFx- 3160008035 Ryan White Part B Third Party Administrator",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%20RFX%2D3160008035%20RYAN%20WHITE%20PART%20B%20THIRD%20PARTY%20ADMINISTRATOR%20%28TPA%29%20IMPLEMENTATION.PDF?PHIOGET&KPID=02000600000A1FD19081F689CDDF1FE5&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65809,
+      "description": "Question & Answer Report IFB RFx 3160008035",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD193E210A69E40F007&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "95352",
+      "category_description": "Serv InsNotClassifd"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:08:20.613680+00:00"
+}

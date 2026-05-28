@@ -1,0 +1,35 @@
+{
+  "bid_id": 45282,
+  "smart_number": "194-20260423163326 TPSD",
+  "rfx_number": "3170035716",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "The TUPELO PUBLIC SCHOOL DISTRICT will receive sealed bids for the Board \nof Trustees at the Tupelo Public School District, Finance Office at 445 Church \nSt. Tupelo, MS 38804 for the following item on Thursday, May 14, 2026. All bids \nmust be received by",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-12 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45282?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035716.PDF?ATTCGET&CLID=02000600000A1FE193C232EAED011312&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65749,
+      "description": "BD 2627 AD.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/194%2D20260423163326%20TPSD.PDF?PHIOGET&KPID=0200060000111FD193C22D61164A6E82&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91054",
+      "category_description": "Serv BuildPainting"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:37.628660+00:00"
+}

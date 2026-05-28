@@ -1,0 +1,35 @@
+{
+  "bid_id": 44951,
+  "smart_number": "1130-26-R-IFBD-00060",
+  "rfx_number": "3160008014",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+  "description": "Bureau of Building\nGS#103-317 JOC-Dormitory Repairs (Various)\n(Jackson State University)\n",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-16 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": "2026-05-19 05:00 UTC",
+  "contact_name": "Adrian Massey",
+  "contact_email": "ADRIAN.MASSEY@DFA.MS.GOV",
+  "contact_phone": "6012599284",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/44951?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008014.PDF?ATTCGET&CLID=02000600000A1FD18DE77FFF8F085304&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65058,
+      "description": "Bid Ad",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/103%2D317%20CONSTRUCTION%20BID%20AD%2005192026.PDF?PHIOGET&KPID=02000600000A1FD18DE77673D76F3304&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90922",
+      "category_description": "Serv BuildConstNoRe"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:07:42.110928+00:00"
+}

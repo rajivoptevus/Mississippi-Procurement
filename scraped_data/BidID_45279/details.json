@@ -1,0 +1,70 @@
+{
+  "bid_id": 45279,
+  "smart_number": "1941-26-R-IFBD-00039-V03",
+  "rfx_number": "3160008022",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF TRANSPORTATION",
+  "description": "RFX 3160008022 District III Headquarters Modular Office Trailer Lease Contract\n\nAgency Contract for Lease of Modular Officer Trailer\nMississippi Department of Transportation\n\nJuly 1. 2026 through June 30, 2027\n\nBids can be submitted electronically through",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-23 05:00 UTC",
+  "submission_date": "2026-05-20 05:00 UTC",
+  "opening_date": "2026-05-20 05:00 UTC",
+  "contact_name": "Ashley Harrell",
+  "contact_email": "AHARRELL@MDOT.MS.GOV",
+  "contact_phone": "6019614119",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45279?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008022%5FV4.PDF?ATTCGET&CLID=0200060000111FD193C1DC3F131AAE7E&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65745,
+      "description": "Addendum A Yazoo RX3160008022 Modular Office Trailer",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADDENDUM%20A%20YAZOO%20RX3160008022%20MODULAR%20OFFICE%20TRAILER.PDF?PHIOGET&KPID=0200060000111FD193B059BB21AFEDC3&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65739,
+      "description": "Attachment A RFX Response in MAGIC",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%20RFX%20RESPONSE%20IN%20MAGIC.PDF?PHIOGET&KPID=02000600000A1FD18F9A99D6C4845ACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65740,
+      "description": "Attachment B Magic Supplier Self- Service",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%20MAGIC%20SUPPLIER%20SELF%2D%20SERVICE.PDF?PHIOGET&KPID=02000600000A1FD18F9A9AAEB559FACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65741,
+      "description": "Attachment C Specifications",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%20SPECIFICATIONS.PDF?PHIOGET&KPID=02000600000A1FD18F9A9FAA25FF7ACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65742,
+      "description": "Attachment D EEV Certification (7)",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%20EEV%20CERTIFICATION%20%287%29.PDF?PHIOGET&KPID=02000600000A1FD18F9AA17E71C01ACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65743,
+      "description": "Attachment E- Example of Agency Contract",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%2D%20EXAMPLE%20OF%20AGENCY%20CONTRACT.PDF?PHIOGET&KPID=02000600000A1FD18F9AAC645F515ACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65746,
+      "description": "MDOT Standard Contract Addendum",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/MDOT%20STANDARD%20CONTRACT%20ADDENDUM.PDF?PHIOGET&KPID=0200060000111FD193B05ADAB0522DC3&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65744,
+      "description": "RFX 3160008022 Bid Packet D3 Trailer Lease",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008022%20BID%20PACKET%20D3%20TRAILER%20LEASE.PDF?PHIOGET&KPID=02000600000A1FD18F9AADF08B45BACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "97584",
+      "category_description": "Serv RentTrailer"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:09:27.810119+00:00"
+}

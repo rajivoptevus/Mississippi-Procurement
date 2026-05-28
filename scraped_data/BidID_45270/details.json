@@ -1,0 +1,35 @@
+{
+  "bid_id": 45270,
+  "smart_number": "77-20260423082006 DCS",
+  "rfx_number": "3170035699",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Unpriced Proposals will be received by the DeSoto County School Board of Education, 5 East South Street, Hernando, MS \n38632 or electronically at www.centralbidding.com, at the date and time specified on the BID NOTICE. Neither dating of \nthe Unpriced Pro",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45270?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035699.PDF?ATTCGET&CLID=02000600000A1FE193AE6646B25D5237&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65723,
+      "description": "77-20260423082006 DCS",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/77%2D20260423082006%20DCS.PDF?PHIOGET&KPID=0200060000111FD193AE588F811D8DA1&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "80548",
+      "category_description": "SportGoodsFootballeq"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:53.016841+00:00"
+}

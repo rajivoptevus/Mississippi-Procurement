@@ -1,0 +1,40 @@
+{
+  "bid_id": 45293,
+  "smart_number": "1464-26-R-IFBD-00010-V01",
+  "rfx_number": "3160008045",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF WILDLIFE, FISHERIES AND PARKS",
+  "description": "The purchase of a minimum of One Hundred Fifteen Thousand (115,000) and a Maximum of Two Hundred Thousand (200,000) Boat Registration Decals.",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-05 05:00 UTC",
+  "submission_date": "2026-05-20 05:00 UTC",
+  "opening_date": "2026-05-20 05:00 UTC",
+  "contact_name": "John Lee",
+  "contact_email": "JOHNLEE@WFP.MS.GOV",
+  "contact_phone": "6018089266",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45293?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008045%5FV1.PDF?ATTCGET&CLID=02000600000A1FE193DBFE97FFB59422&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65764,
+      "description": "RFx 310008045 Addendum 1 Questions and Answers",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=02000600000A1FE193DBFA962D7C7421&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65763,
+      "description": "RFx 3160008045 Boat Registration Decal",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008045%20BOAT%20REGISTRATION%20DECAL.PDF?PHIOGET&KPID=0200060000111FD19193ACC7A1226114&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "25540",
+      "category_description": "Decals Inv & Other"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:10:59.234056+00:00"
+}

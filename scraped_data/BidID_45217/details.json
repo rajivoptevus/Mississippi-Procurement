@@ -1,0 +1,40 @@
+{
+  "bid_id": 45217,
+  "smart_number": "9250-26-R-IFBD-00004",
+  "rfx_number": "3160008053",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MISSISSIPPI STATE UNIVERSITY",
+  "description": "BID SOLICITATION FOR HVAC AIR FILTER REPLACEMENT",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-13 05:00 UTC",
+  "submission_date": "2026-06-16 05:00 UTC",
+  "opening_date": "2026-06-16 05:00 UTC",
+  "contact_name": "Debra Raines",
+  "contact_email": "draines@procurement.msstate.edu",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45217?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008053.PDF?ATTCGET&CLID=02000600000A1FE192C3D6433A202E16&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65598,
+      "description": "Pricing spreadsheet",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BID%20PRICING%20SPREADSHEET.XLSX?PHIOGET&KPID=02000600000A1FE192AC79C6F40CED03&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65597,
+      "description": "RFP",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%5FMSU2026078%5FCAMPUS%5FSERVICES%5FAIR%5FFILTER%5FREPLACEMENT.PDF?PHIOGET&KPID=02000600000A1FE192AC784CD826ED03&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "03145",
+      "category_description": "AirCon,Heat EpFtrDp"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:53:40.733502+00:00"
+}

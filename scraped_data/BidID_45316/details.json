@@ -1,0 +1,35 @@
+{
+  "bid_id": 45316,
+  "smart_number": "3374-26-R-RFIN-00014-V01",
+  "rfx_number": "3150006841",
+  "rfx_status": "Open",
+  "rfx_type": "Req. for Information",
+  "agency": "MS STATE HOSPITAL",
+  "description": "MOD for MS State Hospital. $90 per hour. Average 24 hours per week. 4 year contract.",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-05-28 05:00 UTC",
+  "opening_date": "2026-05-28 05:00 UTC",
+  "contact_name": "Taneka Moore",
+  "contact_email": "TANEKA.MOORE@MSH.MS.GOV",
+  "contact_phone": "6019615557",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45316?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006841%5FV1.PDF?ATTCGET&CLID=0200060000111FD193FA60A387055123&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65842,
+      "description": "MOD RFx 3150006841",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/MOD%20AD.DOC?PHIOGET&KPID=0200060000111FD193F9F84753A4311E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "94874",
+      "category_description": "Serv HealRelProfMed"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:35:11.843301+00:00"
+}

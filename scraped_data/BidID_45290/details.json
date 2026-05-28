@@ -1,0 +1,35 @@
+{
+  "bid_id": 45290,
+  "smart_number": "222-20260504095206 GCSD",
+  "rfx_number": "3170035718",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "The George County School District (GCSD), located in Lucedale, is soliciting quotations for Managed Print and Copier \nServices. \nSealed bids will be received until 9:00 a.m. on June 5, 2026, at which time they will be opened for review. The bid \nopening w",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-13 05:00 UTC",
+  "submission_date": "2026-06-05 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45290?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035718.PDF?ATTCGET&CLID=0200060000111FD193DB2192163E0FA3&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65760,
+      "description": "RFQ_2026-001_Copier_and_Printer_Services_AD1",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFQ%5F2026%2D001%5FCOPIER%5FAND%5FPRINTER%5FSERVICES%5FAD1.PDF?PHIOGET&KPID=0200060000111FD193DB1C4D18186FA3&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "93927",
+      "category_description": "Serv OffEqMainCpyMac"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:19.845718+00:00"
+}

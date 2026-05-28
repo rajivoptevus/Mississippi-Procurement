@@ -1,0 +1,50 @@
+{
+  "bid_id": 45032,
+  "smart_number": "1301-26-R-IFBD-00052",
+  "rfx_number": "3160007974",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF HEALTH",
+  "description": "The Mississippi State Department of Health (MSDH), Office of Bureau of Acute Care Systems, will accept submissions until 10:00 a.m. CST, Thursday, May 21, 2026, from interested bidders to provide assistance for Registered Nurse(s) (RN) to complete trauma",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-20 05:00 UTC",
+  "submission_date": "2026-05-21 05:00 UTC",
+  "opening_date": "2026-05-21 05:00 UTC",
+  "contact_name": "Hannah Wright",
+  "contact_email": "HANNAH.WRIGHT@MSDH.MS.GOV",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45032?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160007974.PDF?ATTCGET&CLID=0200060000111FE18ED034175339B1E2&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65223,
+      "description": "IFB RFx-3160007974 Trauma Care RN Consultant for MSDH",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%20RFX%2D3160007974%20TRAUMA%20CARE%20RN%20CONSULTANT%20FOR%20MSDH.PDF?PHIOGET&KPID=02000600000A1FD18ECE42442A0CB799&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65222,
+      "description": "RFx 3160007974 Trauma Care RN Consultant for MSDH AD",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160007974%20TRAUMA%20CARE%20RN%20CONSULTANT%20FOR%20MSDH%20AD.PDF?PHIOGET&KPID=02000600000A1FD18ECE3C5E61591799&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65225,
+      "description": "Sample Business Associate Agreement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/[B]%202026%5F%5FBAA%5F1063E.PDF?PHIOGET&KPID=02000600000A1FD18ECE56B867407799&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65224,
+      "description": "Trauma System of Care Rules & Regulations",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/TRAUMA%5FSYSTEM%5FOF%5FCARE%5FRULES%5F%26%5FREGULATIONS.PDF?PHIOGET&KPID=02000600000A1FD18ECE53683E64F799&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "94864",
+      "category_description": "Serv HealRelNursing"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:08:41.984599+00:00"
+}

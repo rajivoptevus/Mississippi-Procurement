@@ -1,0 +1,35 @@
+{
+  "bid_id": 45266,
+  "smart_number": "137-20260421111603 Rankin",
+  "rfx_number": "3170035695",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "The purpose of this Request for Proposals (RFP) is to solicit sealed proposals to establish a \ncontract through competitive negotiation for the purchase of a fully integrated Public Safety \nSoftware Systems for the Rankin County Sheriffs Department (RCSD",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-22 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45266?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035695.PDF?ATTCGET&CLID=02000600000A1FE193AD973EBAA6922B&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65719,
+      "description": "137-20260421111603 Rankin",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/137%2D20260421111603%20RANKIN.PDF?PHIOGET&KPID=0200060000111FD193AD8F4025850D9B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "20857",
+      "category_description": "CPU Softw-Law Enforc"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:55:12.100915+00:00"
+}

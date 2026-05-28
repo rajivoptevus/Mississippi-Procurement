@@ -1,0 +1,35 @@
+{
+  "bid_id": 38017,
+  "smart_number": "1601-25-R-RFPR-00005",
+  "rfx_number": "3120002960",
+  "rfx_status": "Open",
+  "rfx_type": "Request for Proposal",
+  "agency": "",
+  "description": "General RFP 3850: to enhance the existing vendor pool to be used in the Managed Service Provider process for the acquisition of Information Systems Consulting Services for the State of Mississippi.  Proposals accepted until September 30, 2026.",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2024-08-20 05:00 UTC",
+  "submission_date": "2026-09-30 05:00 UTC",
+  "opening_date": "2026-09-30 05:00 UTC",
+  "contact_name": "Valerie Luckett",
+  "contact_email": "VALERIE.LUCKETT@ITS.MS.GOV",
+  "contact_phone": "6014328218",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/38017?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120002960.PDF?ATTCGET&CLID=174D924F2D821EDF97CB2183A3454867&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 54690,
+      "description": "General RFP No. 3850 URL",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=174D924F2D821EEF96E6BAEC6A9E0FCD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91871",
+      "category_description": "Serv ConsultIT"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:52:47.951809+00:00"
+}

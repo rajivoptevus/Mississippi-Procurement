@@ -1,0 +1,40 @@
+{
+  "bid_id": 45222,
+  "smart_number": "1301-26-R-RFPR-00004",
+  "rfx_number": "3120003351",
+  "rfx_status": "Open",
+  "rfx_type": "Request for Proposal",
+  "agency": "MS DEPT OF HEALTH",
+  "description": "Request for RFP Exemption for the procurement of professional services related to the development of a Comprehensive Statewide Health Plan.",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-08 05:00 UTC",
+  "submission_date": "2026-06-04 05:00 UTC",
+  "opening_date": "2026-06-04 05:00 UTC",
+  "contact_name": "Patricia Slack",
+  "contact_email": "PATRICIA.SLACK@MSDH.MS.GOV",
+  "contact_phone": "6013593225",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45222?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003351.PDF?ATTCGET&CLID=0200060000111FD192DE514E39706A61&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65603,
+      "description": "RFP_Comp State Health Plan",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%2DRFX3180002944%2D2026%2D05%2D07%2D15%2D25%2D56.PDF?PHIOGET&KPID=0200060000111FD192DE3E1A9EF60A61&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65604,
+      "description": "Statement of Compliance",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/[B]%20%5FRFP%5FSTATEMENT%5FOF%5FCOMPLIANCE%5F3120002944.PDF?PHIOGET&KPID=0200060000111FD192DE3F9291360A61&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91878",
+      "category_description": "Serv ConsutlMedical"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:08:00.015832+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "bid_id": 45187,
+  "smart_number": "1301-26-R-IFBD-00062",
+  "rfx_number": "3160008033",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF HEALTH",
+  "description": "he Agency wants assistance to provide Cessation Training and Nicotine Dependence Treatment Services.The Contractor will promote and facilitate 2 (two) trainings for Tobacco Treatment Specialists statewide (virtual format), provide support regarding the im",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-04 05:00 UTC",
+  "submission_date": "2026-06-03 05:00 UTC",
+  "opening_date": "2026-06-03 05:00 UTC",
+  "contact_name": "Patricia Youngblood",
+  "contact_email": "PATRICIA.YOUNGBLOOD@MSDH.MS.GOV",
+  "contact_phone": "6013593499",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45187?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008033.PDF?ATTCGET&CLID=0200060000111FD191B207EF0F3B429A&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65531,
+      "description": "Draft Copy",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2026%20%5FBAA%5F1063E%20%281%29.PDF?PHIOGET&KPID=02000600000A1FE191B2057F290FE7EE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65530,
+      "description": "IFB",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%2DRFX%2D3160008033%2DCESSATION%20TRAINING%20AND%20NICOTINE%20DEPENDENCE%20TREATMENT%20SERVICES.PDF?PHIOGET&KPID=02000600000A1FE191B200C7D695C7EE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "92416",
+      "category_description": "Serv EduTrainCoursDe"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:08:07.896880+00:00"
+}

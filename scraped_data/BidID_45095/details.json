@@ -1,0 +1,45 @@
+{
+  "bid_id": 45095,
+  "smart_number": "3372-26-R-RFIN-00018",
+  "rfx_number": "3150006812",
+  "rfx_status": "Open",
+  "rfx_type": "Req. for Information",
+  "agency": "EAST MS STATE HOSPITAL",
+  "description": "RFA for RNs",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-22 05:00 UTC",
+  "submission_date": "2026-05-22 05:00 UTC",
+  "opening_date": "2026-05-22 05:00 UTC",
+  "contact_name": "Andrea Davis",
+  "contact_email": "ADAVIS@EMSH.MS.GOV",
+  "contact_phone": "6015764971",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45095?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006812.PDF?ATTCGET&CLID=0200060000111FE18FB8FA976527965F&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65323,
+      "description": "advertisement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20REQUEST%20FOR%20APPLICATIONS%20RN%202026.DOCX?PHIOGET&KPID=0200060000111FE18E81F3F99879CE84&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65325,
+      "description": "Application",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/CONTRACT%20APPLICATION%2DREVISED%201%2D7%2D2025.PDF?PHIOGET&KPID=0200060000111FE18FB8BCAB8102565B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65324,
+      "description": "RFA",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/REGISTERED%20NURSE%20REQUEST%20FOR%20APPLICATIONS%20WITH%20ATTACHMENT%202026.DOCX?PHIOGET&KPID=0200060000111FE18FB8B3A623DC365B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "94874",
+      "category_description": "Serv HealRelProfMed"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:53:32.281435+00:00"
+}

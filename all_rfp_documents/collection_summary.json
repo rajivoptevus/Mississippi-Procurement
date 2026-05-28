@@ -1,0 +1,1094 @@
+{
+  "total_bids_with_docs": 109,
+  "total_files_copied": 216,
+  "bids": [
+    {
+      "bid_id": "38017",
+      "smart_number": "1601-25-R-RFPR-00005",
+      "rfx_type": "Request for Proposal",
+      "agency": "",
+      "files": [
+        "BidID_38017_1601-25-R-RFPR-00005_001_General RFP No. 3850 URL.pdf"
+      ]
+    },
+    {
+      "bid_id": "40954",
+      "smart_number": "1601-25-R-RFPR-00017",
+      "rfx_type": "Request for Proposal",
+      "agency": "",
+      "files": [
+        "BidID_40954_1601-25-R-RFPR-00017_001_RFP No. 4599 URL.pdf"
+      ]
+    },
+    {
+      "bid_id": "44934",
+      "smart_number": "1130-26-R-IFBD-00058",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+      "files": [
+        "BidID_44934_1130-26-R-IFBD-00058_001_Bid Ad.pdf"
+      ]
+    },
+    {
+      "bid_id": "44951",
+      "smart_number": "1130-26-R-IFBD-00060",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+      "files": [
+        "BidID_44951_1130-26-R-IFBD-00060_001_Bid Ad.pdf"
+      ]
+    },
+    {
+      "bid_id": "44959",
+      "smart_number": "1531-26-R-RFQF-00005",
+      "rfx_type": "RFQ - Formal",
+      "agency": "MS PUBLIC EMPLOYEES RETIREMENT",
+      "files": [
+        "BidID_44959_1531-26-R-RFQF-00005_001_RFQ 3140004550 Disability Determination & Appeals Services 04132.pdf"
+      ]
+    },
+    {
+      "bid_id": "44991",
+      "smart_number": "9275-26-R-IFBD-00019",
+      "rfx_type": "Invitation for Bid",
+      "agency": "UNIV OF MS MEDICAL CENTER",
+      "files": [
+        "BidID_44991_9275-26-R-IFBD-00019_001_IFB 3755 Advertisement.pdf"
+      ]
+    },
+    {
+      "bid_id": "45032",
+      "smart_number": "1301-26-R-IFBD-00052",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF HEALTH",
+      "files": [
+        "BidID_45032_1301-26-R-IFBD-00052_001_IFB RFx-3160007974 Trauma Care RN Consultant for MSDH.pdf",
+        "BidID_45032_1301-26-R-IFBD-00052_002_RFx 3160007974 Trauma Care RN Consultant for MSDH AD.pdf",
+        "BidID_45032_1301-26-R-IFBD-00052_003_Sample Business Associate Agreement.pdf",
+        "BidID_45032_1301-26-R-IFBD-00052_004_Trauma System of Care Rules & Regulations.pdf"
+      ]
+    },
+    {
+      "bid_id": "45042",
+      "smart_number": "313-20260407082919 PHWD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45042_313-20260407082919 PHWD_001_4-901 Advertisement.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45043",
+      "smart_number": "198-20260407084622 TCBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45043_198-20260407084622 TCBS_001_REQUEST FOR QUALIFICATIONS FOR ENGINEERING SERVICES -SS4A CSAP.p.pdf"
+      ]
+    },
+    {
+      "bid_id": "45065",
+      "smart_number": "1181-26-R-IFBD-00001",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF REVENUE",
+      "files": [
+        "BidID_45065_1181-26-R-IFBD-00001_001_IFB - Title Print and Mail Services.pdf"
+      ]
+    },
+    {
+      "bid_id": "45066",
+      "smart_number": "1470-26-R-IFBD-00005",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT ENVIRONMENTAL QUALITY",
+      "files": [
+        "BidID_45066_1470-26-R-IFBD-00005_001_RFx3160007906 MDEQ-IFB04212026.pdf"
+      ]
+    },
+    {
+      "bid_id": "45070",
+      "smart_number": "9280-26-R-RFQI-00007",
+      "rfx_type": "RFQ - Informal",
+      "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+      "files": [
+        "BidID_45070_9280-26-R-RFQI-00007_001_Department Letter.pdf",
+        "BidID_45070_9280-26-R-RFQI-00007_002_Legal Ad.pdf",
+        "BidID_45070_9280-26-R-RFQI-00007_003_Questionaire.pdf",
+        "BidID_45070_9280-26-R-RFQI-00007_004_VENDOR JUSTIFICATION LETTER.pdf"
+      ]
+    },
+    {
+      "bid_id": "45081",
+      "smart_number": "1301-26-R-IFBD-00061-V01",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF HEALTH",
+      "files": [
+        "BidID_45081_1301-26-R-IFBD-00061-V01_001_Copy Business Associate Agreement.pdf",
+        "BidID_45081_1301-26-R-IFBD-00061-V01_002_RFx3160008012-IFB.pdf"
+      ]
+    },
+    {
+      "bid_id": "45095",
+      "smart_number": "3372-26-R-RFIN-00018",
+      "rfx_type": "Req. for Information",
+      "agency": "EAST MS STATE HOSPITAL",
+      "files": [
+        "BidID_45095_3372-26-R-RFIN-00018_002_Application.pdf"
+      ]
+    },
+    {
+      "bid_id": "45097",
+      "smart_number": "75-20260401150731 UM",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45097_75-20260401150731 UM_001_ad for 810.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45114",
+      "smart_number": "82-20260403115724 Newton",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45114_82-20260403115724 Newton_001_15796.024_Section_A-Notice to Contractors.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45115",
+      "smart_number": "3374-26-R-IFBD-00012",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS STATE HOSPITAL",
+      "files": [
+        "BidID_45115_3374-26-R-IFBD-00012_001_Bid Notice.pdf"
+      ]
+    },
+    {
+      "bid_id": "45117",
+      "smart_number": "1130-26-R-NBID-00017",
+      "rfx_type": "Negotiated Bid",
+      "agency": "",
+      "files": [
+        "BidID_45117_1130-26-R-NBID-00017_006_Attachment F- Purchase Summary Attestation.pdf",
+        "BidID_45117_1130-26-R-NBID-00017_007_Attachment G- SOMS Terms and Conditions.pdf",
+        "BidID_45117_1130-26-R-NBID-00017_008_Attachment H- Sample Contract.pdf",
+        "BidID_45117_1130-26-R-NBID-00017_009_Format and Guidelines for Proposals- MRO 2026.pdf"
+      ]
+    },
+    {
+      "bid_id": "45136",
+      "smart_number": "9280-26-R-RFQI-00008",
+      "rfx_type": "RFQ - Informal",
+      "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+      "files": [
+        "BidID_45136_9280-26-R-RFQI-00008_001_Department Letter.pdf",
+        "BidID_45136_9280-26-R-RFQI-00008_002_Legal Ad.pdf",
+        "BidID_45136_9280-26-R-RFQI-00008_003_Questionaire.pdf",
+        "BidID_45136_9280-26-R-RFQI-00008_004_Vendor Letter.pdf"
+      ]
+    },
+    {
+      "bid_id": "45137",
+      "smart_number": "9280-26-R-RFQI-00009",
+      "rfx_type": "RFQ - Informal",
+      "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+      "files": [
+        "BidID_45137_9280-26-R-RFQI-00009_001_Department Letter.pdf",
+        "BidID_45137_9280-26-R-RFQI-00009_002_Legal Ad.pdf",
+        "BidID_45137_9280-26-R-RFQI-00009_003_Questionaire.pdf",
+        "BidID_45137_9280-26-R-RFQI-00009_004_Vendor Letter.pdf"
+      ]
+    },
+    {
+      "bid_id": "45150",
+      "smart_number": "1130-26-R-NBID-00016-V01",
+      "rfx_type": "Negotiated Bid",
+      "agency": "",
+      "files": [
+        "BidID_45150_1130-26-R-NBID-00016-V01_004_Attachment E- Purchase Summary Attestation.pdf",
+        "BidID_45150_1130-26-R-NBID-00016-V01_005_Attachment F- SOMS Terms and Conditions.pdf",
+        "BidID_45150_1130-26-R-NBID-00016-V01_006_Format and Guidelines for Proposals-Toner 2026.pdf",
+        "BidID_45150_1130-26-R-NBID-00016-V01_007_Format and Guidelines for Proposals-Toner 2026 Amended.pdf"
+      ]
+    },
+    {
+      "bid_id": "45169",
+      "smart_number": "1130-26-R-IFBD-00051",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+      "files": [
+        "BidID_45169_1130-26-R-IFBD-00051_001_IFB - Int. Pest Services.pdf"
+      ]
+    },
+    {
+      "bid_id": "45175",
+      "smart_number": "1301-26-R-IFBD-00064",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF HEALTH",
+      "files": [
+        "BidID_45175_1301-26-R-IFBD-00064_001_Advertisement.pdf",
+        "BidID_45175_1301-26-R-IFBD-00064_002_Invitations for Bid.pdf"
+      ]
+    },
+    {
+      "bid_id": "45183",
+      "smart_number": "1130-26-R-IFBD-00057-V02",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+      "files": [
+        "BidID_45183_1130-26-R-IFBD-00057-V02_001_IFB Amendment One.pdf",
+        "BidID_45183_1130-26-R-IFBD-00057-V02_002_IFB for Boiler Maintenance.pdf"
+      ]
+    },
+    {
+      "bid_id": "45186",
+      "smart_number": "1130-26-R-IFBD-00062",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+      "files": [
+        "BidID_45186_1130-26-R-IFBD-00062_001_Bid Ad.pdf"
+      ]
+    },
+    {
+      "bid_id": "45187",
+      "smart_number": "1301-26-R-IFBD-00062",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF HEALTH",
+      "files": [
+        "BidID_45187_1301-26-R-IFBD-00062_001_Draft Copy.pdf",
+        "BidID_45187_1301-26-R-IFBD-00062_002_IFB.pdf"
+      ]
+    },
+    {
+      "bid_id": "45188",
+      "smart_number": "9240-26-R-IFBD-00019",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MISSISSIPPI UNIVERSITY FOR WOMEN",
+      "files": [
+        "BidID_45188_9240-26-R-IFBD-00019_001_OCLC and Library Sole Source letters.pdf"
+      ]
+    },
+    {
+      "bid_id": "45208",
+      "smart_number": "1130-26-R-IFBD-00059",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+      "files": [
+        "BidID_45208_1130-26-R-IFBD-00059_001_Prequal Bid.pdf"
+      ]
+    },
+    {
+      "bid_id": "45209",
+      "smart_number": "1130-26-R-RFPR-00004-V02",
+      "rfx_type": "Request for Proposal",
+      "agency": "",
+      "files": [
+        "BidID_45209_1130-26-R-RFPR-00004-V02_001_Attachment A - RFP Terms and Conditions.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_002_Attachment B - Scope of Work.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_003_Attachment C - RFP Evaluation Plan.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_004_Attachment D - Sample Master Agreement.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_006_Attachment E - Participation Information.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_007_Attachment F - Protest Information.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_008_Attachment G - Offeror Information, Acknowledgements, and Certif.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_011_Attachment H - Offeror Response Worksheet.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_014_Attachment J -  Proposed Modifications to Sample Master Agreemen.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_016_Attachment K- Claim of Business Confidentiality word doc.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_017_NASPO ValuePoint State of MS Fire Truck and Fire Apparatus Reque.pdf",
+        "BidID_45209_1130-26-R-RFPR-00004-V02_018_NASPO ValuePoint State of MS Fire Truck and Fire Apparatus RFP 3.pdf"
+      ]
+    },
+    {
+      "bid_id": "45211",
+      "smart_number": "9250-26-R-RFIN-00038",
+      "rfx_type": "Req. for Information",
+      "agency": "MISSISSIPPI STATE UNIVERSITY",
+      "files": [
+        "BidID_45211_9250-26-R-RFIN-00038_001_Notice.pdf"
+      ]
+    },
+    {
+      "bid_id": "45213",
+      "smart_number": "1450-26-R-IFBD-00010-V01",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF MARINE RESOURCES",
+      "files": [
+        "BidID_45213_1450-26-R-IFBD-00010-V01_001_Advertisement MDMR Staging Site Material Deployment.pdf",
+        "BidID_45213_1450-26-R-IFBD-00010-V01_002_Staging Site Material Deployment_final.pdf"
+      ]
+    },
+    {
+      "bid_id": "45215",
+      "smart_number": "9260-26-R-IFBD-00005",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MISSISSIPPI VALLEY STATE UNIVERSITY",
+      "files": [
+        "BidID_45215_9260-26-R-IFBD-00005_001_Landscaping Rfx.pdf"
+      ]
+    },
+    {
+      "bid_id": "45216",
+      "smart_number": "9280-26-R-IFBD-00047",
+      "rfx_type": "Invitation for Bid",
+      "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+      "files": [
+        "BidID_45216_9280-26-R-IFBD-00047_001_26_44 Bid Packet.pdf",
+        "BidID_45216_9280-26-R-IFBD-00047_002_26_44 Filtration Components_Bid Specifications.pdf",
+        "BidID_45216_9280-26-R-IFBD-00047_003_Bid 26_44 Filtration System OHRC Bid Coversheet.pdf",
+        "BidID_45216_9280-26-R-IFBD-00047_004_Bid 26_44 Legal Ad_SH.pdf"
+      ]
+    },
+    {
+      "bid_id": "45217",
+      "smart_number": "9250-26-R-IFBD-00004",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MISSISSIPPI STATE UNIVERSITY",
+      "files": [
+        "BidID_45217_9250-26-R-IFBD-00004_002_RFP.pdf"
+      ]
+    },
+    {
+      "bid_id": "45221",
+      "smart_number": "9250-26-R-RFIN-00040",
+      "rfx_type": "Req. for Information",
+      "agency": "MISSISSIPPI STATE UNIVERSITY",
+      "files": [
+        "BidID_45221_9250-26-R-RFIN-00040_001_Notice.pdf"
+      ]
+    },
+    {
+      "bid_id": "45222",
+      "smart_number": "1301-26-R-RFPR-00004",
+      "rfx_type": "Request for Proposal",
+      "agency": "MS DEPT OF HEALTH",
+      "files": [
+        "BidID_45222_1301-26-R-RFPR-00004_001_RFP_Comp State Health Plan.pdf",
+        "BidID_45222_1301-26-R-RFPR-00004_002_Statement of Compliance.pdf"
+      ]
+    },
+    {
+      "bid_id": "45223",
+      "smart_number": "9275-26-R-RFIN-00046",
+      "rfx_type": "Req. for Information",
+      "agency": "UNIV OF MS MEDICAL CENTER",
+      "files": [
+        "BidID_45223_9275-26-R-RFIN-00046_002_Notice of Intent - PDF.pdf",
+        "BidID_45223_9275-26-R-RFIN-00046_004_Vendor Sole Source Letter.pdf"
+      ]
+    },
+    {
+      "bid_id": "45225",
+      "smart_number": "9210-26-R-IFBD-00018-V01",
+      "rfx_type": "Invitation for Bid",
+      "agency": "ALCORN STATE UNIVERSITY",
+      "files": [
+        "BidID_45225_9210-26-R-IFBD-00018-V01_001_Addendum.pdf"
+      ]
+    },
+    {
+      "bid_id": "45226",
+      "smart_number": "9210-26-R-IFBD-00019-V01",
+      "rfx_type": "Invitation for Bid",
+      "agency": "ALCORN STATE UNIVERSITY",
+      "files": [
+        "BidID_45226_9210-26-R-IFBD-00019-V01_001_Addendum.pdf"
+      ]
+    },
+    {
+      "bid_id": "45228",
+      "smart_number": "1941-26-R-IFBD-00041",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF TRANSPORTATION",
+      "files": [
+        "BidID_45228_1941-26-R-IFBD-00041_001_Attachment A RFX Response in MAGIC.pdf",
+        "BidID_45228_1941-26-R-IFBD-00041_002_Attachment B Magic Supplier Self- Service.pdf",
+        "BidID_45228_1941-26-R-IFBD-00041_003_RFX 3160008055 District III Cable Barrier Bid Packet.pdf"
+      ]
+    },
+    {
+      "bid_id": "45231",
+      "smart_number": "255-20260501160534 Brandon",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45231_255-20260501160534 Brandon_001_2026 Rankin First Offsite Sewer Improvements.pdf.pdf",
+        "BidID_45231_255-20260501160534 Brandon_002_B-11397- Addendum 3.pdf",
+        "BidID_45231_255-20260501160534 Brandon_003_B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu.pdf",
+        "BidID_45231_255-20260501160534 Brandon_004_B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu.pdf"
+      ]
+    },
+    {
+      "bid_id": "45244",
+      "smart_number": "61-20260415102916 PGSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45244_61-20260415102916 PGSD_001_Advertisement for Bids.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45247",
+      "smart_number": "22-20260415134623 NWMCC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45247_22-20260415134623 NWMCC_001_Ad Bid 26-005-14 -FACILITIES FINE ARTS AUDITORIUM ACOUSTIC UPGRA.pdf"
+      ]
+    },
+    {
+      "bid_id": "45248",
+      "smart_number": "244-20260415150159 MCSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45248_244-20260415150159 MCSD_001_Adv_Legal_Serving Lines.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45249",
+      "smart_number": "7-20260416074521 Jackson",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45249_7-20260416074521 Jackson_001_1 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C.pdf",
+        "BidID_45249_7-20260416074521 Jackson_002_2 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C.pdf",
+        "BidID_45249_7-20260416074521 Jackson_003_City of Jackson Infrastructure Improvements (Creek Clearing) COJ.pdf",
+        "BidID_45249_7-20260416074521 Jackson_004_City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ.pdf",
+        "BidID_45249_7-20260416074521 Jackson_005_City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ.pdf"
+      ]
+    },
+    {
+      "bid_id": "45250",
+      "smart_number": "56-20260416081753 BSMC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45250_56-20260416081753 BSMC_001_LSBP-46(20) Advertisement.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45251",
+      "smart_number": "77-20260416092923 DCS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45251_77-20260416092923 DCS_001_Bid Packer 395-PAPER-DCS262.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45252",
+      "smart_number": "7-20260416095739 Jackson",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45252_7-20260416095739 Jackson_001_7-20260416095739 Jackson.pdf",
+        "BidID_45252_7-20260416095739 Jackson_002_Street_Resurfacing_COJ-RS-01_(2)2 (1).pdf",
+        "BidID_45252_7-20260416095739 Jackson_003_Street_Resurfacing_COJ-RS-01_(3)3.pdf",
+        "BidID_45252_7-20260416095739 Jackson_004_Street_Resurfacing_COJ-RS-01_(4)4.pdf",
+        "BidID_45252_7-20260416095739 Jackson_005_Street_Resurfacing_COJ-RS-01_(5)5.pdf",
+        "BidID_45252_7-20260416095739 Jackson_006_Street_Resurfacing_COJ-RS-01_(6)6.pdf",
+        "BidID_45252_7-20260416095739 Jackson_007_Street_Resurfacing_COJ-RS-03_(1)14.pdf",
+        "BidID_45252_7-20260416095739 Jackson_008_Street_Resurfacing_COJ-RS-03_(2)15.pdf",
+        "BidID_45252_7-20260416095739 Jackson_009_Street_Resurfacing_COJ-RS-03_(3)16.pdf",
+        "BidID_45252_7-20260416095739 Jackson_010_Street_Resurfacing_COJ-RS-03_(4)17.pdf",
+        "BidID_45252_7-20260416095739 Jackson_011_Street_Resurfacing_COJ-RS-03_(5)18.pdf",
+        "BidID_45252_7-20260416095739 Jackson_012_Street_Resurfacing_COJ-RS-03_(6)19.pdf",
+        "BidID_45252_7-20260416095739 Jackson_013_Street_Resurfacing_COJ-RS-03_(6)19.pdf",
+        "BidID_45252_7-20260416095739 Jackson_014_Street_Resurfacing_COJ-RS-04_(1)20.pdf",
+        "BidID_45252_7-20260416095739 Jackson_015_Street_Resurfacing_COJ-RS-04_(2)21.pdf",
+        "BidID_45252_7-20260416095739 Jackson_016_Street_Resurfacing_COJ-RS-04_(2)21.pdf",
+        "BidID_45252_7-20260416095739 Jackson_017_Street_Resurfacing_COJ-RS-04_(3)22.pdf",
+        "BidID_45252_7-20260416095739 Jackson_018_Street_Resurfacing_COJ-RS-04_(4)23.pdf",
+        "BidID_45252_7-20260416095739 Jackson_019_Street_Resurfacing_COJ-RS-04_(5)24.pdf",
+        "BidID_45252_7-20260416095739 Jackson_020_Street_Resurfacing_COJ-RS-04_(5)24.pdf",
+        "BidID_45252_7-20260416095739 Jackson_021_Street_Resurfacing_COJ-RS-05_(1)25.pdf",
+        "BidID_45252_7-20260416095739 Jackson_022_Street_Resurfacing_COJ-RS-05_(2)26.pdf",
+        "BidID_45252_7-20260416095739 Jackson_023_Street_Resurfacing_COJ-RS-05_(2)26.pdf",
+        "BidID_45252_7-20260416095739 Jackson_024_Street_Resurfacing_COJ-RS-05_(3)27.pdf",
+        "BidID_45252_7-20260416095739 Jackson_025_Street_Resurfacing_COJ-RS-05_(4)28.pdf",
+        "BidID_45252_7-20260416095739 Jackson_026_Street_Resurfacing_COJ-RS-05_(5)29.pdf",
+        "BidID_45252_7-20260416095739 Jackson_027_Street_Resurfacing_COJ-RS-05_(5)29.pdf",
+        "BidID_45252_7-20260416095739 Jackson_028_Street_Resurfacing_COJ-RS-06_(1)30.pdf",
+        "BidID_45252_7-20260416095739 Jackson_029_Street_Resurfacing_COJ-RS-06_(2)31.pdf",
+        "BidID_45252_7-20260416095739 Jackson_030_Street_Resurfacing_COJ-RS-06_(3)32.pdf",
+        "BidID_45252_7-20260416095739 Jackson_031_Street_Resurfacing_COJ-RS-06_(4)33.pdf",
+        "BidID_45252_7-20260416095739 Jackson_032_Street_Resurfacing_COJ-RS-06_(5)34.pdf",
+        "BidID_45252_7-20260416095739 Jackson_033_Street_Resurfacing_COJ-RS-06_(6)35.pdf",
+        "BidID_45252_7-20260416095739 Jackson_034_Street_Resurfacing_COJ-RS-06_(6)35.pdf",
+        "BidID_45252_7-20260416095739 Jackson_035_Street_Resurfacing_COJ-RS-07_(1)36.pdf",
+        "BidID_45252_7-20260416095739 Jackson_036_Street_Resurfacing_COJ-RS-07_(2)37.pdf",
+        "BidID_45252_7-20260416095739 Jackson_037_Street_Resurfacing_COJ-RS-07_(3)38.pdf",
+        "BidID_45252_7-20260416095739 Jackson_038_Street_Resurfacing_COJ-RS-07_(3)38.pdf",
+        "BidID_45252_7-20260416095739 Jackson_039_Street_Resurfacing_COJ-RS-07_(4)39.pdf",
+        "BidID_45252_7-20260416095739 Jackson_040_Street_Resurfacing_COJ-RS-07_(5)40.pdf",
+        "BidID_45252_7-20260416095739 Jackson_041_Street_Resurfacing_COJ-RS-07_(6)41.pdf",
+        "BidID_45252_7-20260416095739 Jackson_042_Street_Resurfacing_COJ_-RS-02_(7)13.pdf"
+      ]
+    },
+    {
+      "bid_id": "45253",
+      "smart_number": "78-20260416102552 BSIC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45253_78-20260416102552 BSIC_001_78-20260416102552 BSIC.pdf"
+      ]
+    },
+    {
+      "bid_id": "45254",
+      "smart_number": "367-20260416105918 ACBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45254_367-20260416105918 ACBS_001_367-20260416105918 ACBS.pdf"
+      ]
+    },
+    {
+      "bid_id": "45255",
+      "smart_number": "364-20260416110550 Canton",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45255_364-20260416110550 Canton_001_364-20260416110550 Canton.pdf"
+      ]
+    },
+    {
+      "bid_id": "45256",
+      "smart_number": "61-20260416112813 Bay St Louis",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45256_61-20260416112813 Bay St Louis_001_61-20260416112813 Bay St Louis.pdf"
+      ]
+    },
+    {
+      "bid_id": "45257",
+      "smart_number": "113-20260416143240 DCBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45257_113-20260416143240 DCBS_001_113-20260416143240 DCBS.pdf"
+      ]
+    },
+    {
+      "bid_id": "45258",
+      "smart_number": "1454-20260417103630 JMAA",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45258_1454-20260417103630 JMAA_001_JAN Rbilitation of Runway 16L-34R - Legal Notice.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45259",
+      "smart_number": "191-20260417143215 WSI",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45259_191-20260417143215 WSI_001_Agency Bid Bank ITB - RW Pump Replacement.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45260",
+      "smart_number": "49-20260421102445 BPSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45260_49-20260421102445 BPSD_001_SY26 RFP Speech Therapy.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45261",
+      "smart_number": "49-20260421103014 BPSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45261_49-20260421103014 BPSD_001_SY26 RFP ASL Interpreter.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45263",
+      "smart_number": "49-20260421103356 BPSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45263_49-20260421103356 BPSD_001_49-20260421103356 BPSD.pdf"
+      ]
+    },
+    {
+      "bid_id": "45264",
+      "smart_number": "49-20260421103643 BPSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45264_49-20260421103643 BPSD_001_BCBA RFP 26 Kellogg Grant.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45265",
+      "smart_number": "49-20260421103906 BPSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45265_49-20260421103906 BPSD_001_49-20260421103906 BPSD.pdf"
+      ]
+    },
+    {
+      "bid_id": "45266",
+      "smart_number": "137-20260421111603 Rankin",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45266_137-20260421111603 Rankin_001_137-20260421111603 Rankin.pdf"
+      ]
+    },
+    {
+      "bid_id": "45267",
+      "smart_number": "75-20260421113102 UM",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45267_75-20260421113102 UM_001_ADVERTISEMENT BF 1272.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45268",
+      "smart_number": "124-20260421115231 Winona",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45268_124-20260421115231 Winona_001_124-20260421115231 Winona.pdf"
+      ]
+    },
+    {
+      "bid_id": "45269",
+      "smart_number": "1428-20260422152859 Clarksdale",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45269_1428-20260422152859 Clarksdale_001_1428-20260422152859 Clarksdale.pdf"
+      ]
+    },
+    {
+      "bid_id": "45270",
+      "smart_number": "77-20260423082006 DCS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45270_77-20260423082006 DCS_001_77-20260423082006 DCS.pdf"
+      ]
+    },
+    {
+      "bid_id": "45274",
+      "smart_number": "124-20260421115050 Pittsboro",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45274_124-20260421115050 Pittsboro_001_CALHOUN COUNTY AIRPORT ADV.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45275",
+      "smart_number": "164-20260421150936 OSSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45275_164-20260421150936 OSSD_001_003-ADVERTISEMENT-Asbestos Abatement UE.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45278",
+      "smart_number": "1941-26-R-IFBD-00038-V03",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF TRANSPORTATION",
+      "files": [
+        "BidID_45278_1941-26-R-IFBD-00038-V03_001_Addendum A RFX3160008021 Hazelhurst Project Office.pdf",
+        "BidID_45278_1941-26-R-IFBD-00038-V03_002_Attachment A RFX Response in MAGIC (8).pdf",
+        "BidID_45278_1941-26-R-IFBD-00038-V03_003_Attachment B Magic Supplier Self- Service (7).pdf",
+        "BidID_45278_1941-26-R-IFBD-00038-V03_004_Attachment C Specifications.pdf",
+        "BidID_45278_1941-26-R-IFBD-00038-V03_005_Attachment D EEV Certification (7).pdf",
+        "BidID_45278_1941-26-R-IFBD-00038-V03_006_Attachment E-Example of Agency Contract.pdf",
+        "BidID_45278_1941-26-R-IFBD-00038-V03_007_MDOT Standard Contract Addendum.pdf",
+        "BidID_45278_1941-26-R-IFBD-00038-V03_008_RFX 3160008021 Bid Packet Huzelhurst Project Office Trailer Leas.pdf"
+      ]
+    },
+    {
+      "bid_id": "45279",
+      "smart_number": "1941-26-R-IFBD-00039-V03",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF TRANSPORTATION",
+      "files": [
+        "BidID_45279_1941-26-R-IFBD-00039-V03_001_Addendum A Yazoo RX3160008022 Modular Office Trailer.pdf",
+        "BidID_45279_1941-26-R-IFBD-00039-V03_002_Attachment A RFX Response in MAGIC.pdf",
+        "BidID_45279_1941-26-R-IFBD-00039-V03_003_Attachment B Magic Supplier Self- Service.pdf",
+        "BidID_45279_1941-26-R-IFBD-00039-V03_004_Attachment C Specifications.pdf",
+        "BidID_45279_1941-26-R-IFBD-00039-V03_005_Attachment D EEV Certification (7).pdf",
+        "BidID_45279_1941-26-R-IFBD-00039-V03_006_Attachment E- Example of Agency Contract.pdf",
+        "BidID_45279_1941-26-R-IFBD-00039-V03_007_MDOT Standard Contract Addendum.pdf",
+        "BidID_45279_1941-26-R-IFBD-00039-V03_008_RFX 3160008022 Bid Packet D3 Trailer Lease.pdf"
+      ]
+    },
+    {
+      "bid_id": "45280",
+      "smart_number": "363-20260429103540 MGCCC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45280_363-20260429103540 MGCCC_001_Bryant Maintenance Adv.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45281",
+      "smart_number": "75-20260423145208 UM",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45281_75-20260423145208 UM_001_ITSS 475 - VALT 1-E Camera License.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45282",
+      "smart_number": "194-20260423163326 TPSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45282_194-20260423163326 TPSD_001_BD 2627 AD.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45283",
+      "smart_number": "384-20260424115406 BMCU",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45283_384-20260424115406 BMCU_001_Legal notice to Bidders - REQUEST FOR QUOTATIONS Tables and Chai.pdf"
+      ]
+    },
+    {
+      "bid_id": "45284",
+      "smart_number": "1389-20260423135412 BSSC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45284_1389-20260423135412 BSSC_001_SCAN_2026_4_23_18_59_9_76943.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45285",
+      "smart_number": "2-20260428153405 MSU",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45285_2-20260428153405 MSU_001_AD for RFP MSU2026069 RFP.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45286",
+      "smart_number": "1398-20260429094847 KWL",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45286_1398-20260429094847 KWL_001_BID NOTICE - Articulating Telescoping Aerial Device April 2026.p.pdf"
+      ]
+    },
+    {
+      "bid_id": "45287",
+      "smart_number": "1601-26-R-RFIN-00053",
+      "rfx_type": "Req. for Information",
+      "agency": "",
+      "files": [
+        "BidID_45287_1601-26-R-RFIN-00053_001_Sole Source No. 4708 URL.pdf"
+      ]
+    },
+    {
+      "bid_id": "45288",
+      "smart_number": "1601-26-R-RFIN-00054",
+      "rfx_type": "Req. for Information",
+      "agency": "",
+      "files": [
+        "BidID_45288_1601-26-R-RFIN-00054_001_Sole Source No. 5002 URL.pdf"
+      ]
+    },
+    {
+      "bid_id": "45290",
+      "smart_number": "222-20260504095206 GCSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45290_222-20260504095206 GCSD_001_RFQ_2026-001_Copier_and_Printer_Services_AD1.pdf"
+      ]
+    },
+    {
+      "bid_id": "45291",
+      "smart_number": "1398-20260429100412 KWL",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45291_1398-20260429100412 KWL_001_BID NOTICE - Backhoe April 2026.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45292",
+      "smart_number": "3541-20260506145608 Baldwyn",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45292_3541-20260506145608 Baldwyn_001_Farmers Market Bid.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45293",
+      "smart_number": "1464-26-R-IFBD-00010-V01",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF WILDLIFE, FISHERIES AND PARKS",
+      "files": [
+        "BidID_45293_1464-26-R-IFBD-00010-V01_001_RFx 310008045 Addendum 1 Questions and Answers.pdf",
+        "BidID_45293_1464-26-R-IFBD-00010-V01_002_RFx 3160008045 Boat Registration Decal.pdf"
+      ]
+    },
+    {
+      "bid_id": "45295",
+      "smart_number": "339-20260513151333 Oktibbeha",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45295_339-20260513151333 Oktibbeha_001_Section 900 corrected.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45296",
+      "smart_number": "56-20260430104715 JTTWA",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45296_56-20260430104715 JTTWA_001_02 Advertisement for Bids.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45298",
+      "smart_number": "1301-26-R-IFBD-00063-V01",
+      "rfx_type": "Invitation for Bid",
+      "agency": "MS DEPT OF HEALTH",
+      "files": [
+        "BidID_45298_1301-26-R-IFBD-00063-V01_001_Advertisement.pdf",
+        "BidID_45298_1301-26-R-IFBD-00063-V01_002_Business Associate Agreement.pdf",
+        "BidID_45298_1301-26-R-IFBD-00063-V01_003_IFB RFx- 3160008035 Ryan White Part B Third Party Administrator.pdf",
+        "BidID_45298_1301-26-R-IFBD-00063-V01_004_Question & Answer Report IFB RFx 3160008035.pdf"
+      ]
+    },
+    {
+      "bid_id": "45299",
+      "smart_number": "160-20260415123419 MCSD",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45299_160-20260415123419 MCSD_001_MC Press Box 00.1113 Advertisement for Bids_04-15-26.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45300",
+      "smart_number": "75-20260415161329 UM",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45300_75-20260415161329 UM_001_ADVERTISEMENT - RFP 813.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45301",
+      "smart_number": "56-20260416090241 BSWC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45301_56-20260416090241 BSWC_001_SAP-74(23)M Advertisement.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45302",
+      "smart_number": "44-20260416153622 HCPHC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45302_44-20260416153622 HCPHC_001_00090 Advertisement - HCPHC-REVISED.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45304",
+      "smart_number": "357-20260420114111 Madison",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45304_357-20260420114111 Madison_001_Sec-A - Runway Rehab..pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45305",
+      "smart_number": "65-20260417134036 LAA",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45305_65-20260417134036 LAA_001_11375_Advertisement for Bids.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45306",
+      "smart_number": "357-20260420114410 Madison",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45306_357-20260420114410 Madison_001_Sec-A - Apron Expansion.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45307",
+      "smart_number": "2526-20260420114625 Greenville",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45307_2526-20260420114625 Greenville_001_SECTION 00075 - ADVERTISEMENT FOR BIDS.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45308",
+      "smart_number": "2526-20260420145327 Greenville",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45308_2526-20260420145327 Greenville_001_Section 00075_Advertisement for Bids.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45310",
+      "smart_number": "9280-26-R-IFBD-00049",
+      "rfx_type": "Invitation for Bid",
+      "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+      "files": [
+        "BidID_45310_9280-26-R-IFBD-00049_001_USM RFP 26-43 M.pdf"
+      ]
+    },
+    {
+      "bid_id": "45311",
+      "smart_number": "9280-26-R-IFBD-00050",
+      "rfx_type": "Invitation for Bid",
+      "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+      "files": [
+        "BidID_45311_9280-26-R-IFBD-00050_001_USM RFP 26-46 Reed Green Renovation.pdf"
+      ]
+    },
+    {
+      "bid_id": "45317",
+      "smart_number": "147-20260420145257 Richland",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45317_147-20260420145257 Richland_001_00 11 17 - C-111_Advertisement for Bid.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45318",
+      "smart_number": "338-20260420164643 MTC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45318_338-20260420164643 MTC_001_Dental Insurance.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45319",
+      "smart_number": "338-20260420165144 MTC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45319_338-20260420165144 MTC_001_Voluntary Group Accident Insurance.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45320",
+      "smart_number": "19-20260421081759 Potts Camp",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45320_19-20260421081759 Potts Camp_001_00 11 13 Invitation for Bids CDBG 10190.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45321",
+      "smart_number": "338-20260421084831 MTC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45321_338-20260421084831 MTC_001_Voluntary Group Term Life Insurance.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45322",
+      "smart_number": "338-20260421085134 MTC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45322_338-20260421085134 MTC_001_Voluntary Group Vision Insurance.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45323",
+      "smart_number": "338-20260421085306 MTC",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45323_338-20260421085306 MTC_001_Cafeteria Plan Administrator Services.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45324",
+      "smart_number": "137-20260421103813 RCBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45324_137-20260421103813 RCBS_001_Bid 26-300-2A Asphalt.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45325",
+      "smart_number": "137-20260421104356 RCBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45325_137-20260421104356 RCBS_001_Bid 26-300-3A Scrub Seal Slurry Seal Micro Surfacing.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45326",
+      "smart_number": "137-20260421104829 RCBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45326_137-20260421104829 RCBS_001_Bid 26 300 5A Poly Culverts.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45327",
+      "smart_number": "137-20260421105307 RCBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45327_137-20260421105307 RCBS_001_Bid 26 300 6A Crushed Aggregates.pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45328",
+      "smart_number": "137-20260421105458 RCBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45328_137-20260421105458 RCBS_001_Bid 26 300 7A Gravel .pdf.pdf"
+      ]
+    },
+    {
+      "bid_id": "45329",
+      "smart_number": "124-20260421114206 CCBS",
+      "rfx_type": "MDA - RFx",
+      "agency": "MPTAP",
+      "files": [
+        "BidID_45329_124-20260421114206 CCBS_001_CR 318 & CR 382 ADVERTISEMENT.pdf.pdf"
+      ]
+    }
+  ]
+}

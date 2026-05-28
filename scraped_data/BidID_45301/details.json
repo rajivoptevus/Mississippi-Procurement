@@ -1,0 +1,35 @@
+{
+  "bid_id": 45301,
+  "smart_number": "56-20260416090241 BSWC",
+  "rfx_number": "3170035725",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Sealed bids will be received by the Board of Supervisors of Walthall County Mississippi at the Walthall County Courthouse, \n200 Ball Avenue, Tylertown, Mississippi, until 10:00 A.M. on the 27th day of May 2026 and shortly   \nthereafter publicly opened for",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-13 05:00 UTC",
+  "submission_date": "2026-05-27 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45301?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035725.PDF?ATTCGET&CLID=02000600000A1FE193E259D4B165946A&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65812,
+      "description": "SAP-74(23)M Advertisement.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/56%2D20260416090241%20BSWC.PDF?PHIOGET&KPID=0200060000111FD193E2515D16F9100A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91371",
+      "category_description": "Serv ConsHeavMainHwy"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:53:57.947042+00:00"
+}

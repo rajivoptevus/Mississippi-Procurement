@@ -1,0 +1,35 @@
+{
+  "bid_id": 45268,
+  "smart_number": "124-20260421115231 Winona",
+  "rfx_number": "3170035697",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Sealed bids subject to the conditions and provisions presented herein will be received until\n WEDNESDAY, MAY 20, 2026 @ 10:00AM and then publicly opened and read at the Economic \nDevelopment Partnership of Montgomery County office located at 701 Summit St",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-20 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45268?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035697.PDF?ATTCGET&CLID=02000600000A1FE193ADFE4E9E7D922D&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65721,
+      "description": "124-20260421115231 Winona",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/124%2D20260421115231%20WINONA.PDF?PHIOGET&KPID=0200060000111FD193ADF71FD1CF6D9C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90910",
+      "category_description": "Serv BuildConstAirFa"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:55:05.831941+00:00"
+}

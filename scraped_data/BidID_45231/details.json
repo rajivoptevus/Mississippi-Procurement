@@ -1,0 +1,50 @@
+{
+  "bid_id": 45231,
+  "smart_number": "255-20260501160534 Brandon",
+  "rfx_number": "3170035638",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Separate written sealed BIDS for a General Contract for the furnishing of all labor and materials for the construction of:\n\n2026 RANKIN FIRST OFFSITE SEWER IMPROVEMENTS\n\nwill be received by the mayor and Board of Alderman of the CITY OF BRANDON herein aft",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-08 05:00 UTC",
+  "submission_date": "2026-05-15 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45231?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035638.PDF?ATTCGET&CLID=0200060000111FD192E52720C8374AE6&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65634,
+      "description": "2026 Rankin First Offsite Sewer Improvements.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/255%2D20260501160534%20BRANDON.PDF?PHIOGET&KPID=0200060000111FD192E51CC7EF0CEAE6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65635,
+      "description": "B-11397- Addendum 3",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/B%2D11397%2D%20ADDENDUM%203.PDF?PHIOGET&KPID=0200060000111FD192E51DAEF0E80AE6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65632,
+      "description": "B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/B%2D11397%5F%2D%5F2026%5FRANKIN%5FFIRST%5FOFFSITE%5FSEWER%5FIMPROVEMENTS%5F%2D%5FADDENDUM%5F%231%5FPACKET2.PDF?PHIOGET&KPID=0200060000111FD192E51F50FBFA8AE6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65633,
+      "description": "B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/B%2D11397%5F%2D%5F2026%5FRANKIN%5FFIRST%5FOFFSITE%5FSEWER%5FIMPROVEMENTS%5F%2D%5FADDENDUM%5F%232%5FPACKET3.PDF?PHIOGET&KPID=0200060000111FD192E52102B6F94AE6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91345",
+      "category_description": "Serv ConstHeavySewer"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:06:48.773676+00:00"
+}

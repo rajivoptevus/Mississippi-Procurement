@@ -1,0 +1,910 @@
+2026-05-15 14:06:28,100 [INFO] ============================================================
+2026-05-15 14:06:28,100 [INFO] Mississippi — URL Attachment Resolver
+2026-05-15 14:06:28,100 [INFO] Scanning: C:\Scraping\Mississippi-Procurement\scraped_data
+2026-05-15 14:06:28,100 [INFO] ============================================================
+2026-05-15 14:06:28,100 [INFO] Already resolved: 0 URLs
+2026-05-15 14:06:28,116 [INFO] Found 115 BidID folders
+2026-05-15 14:06:28,118 [INFO] 
+  BidID_38017 / 001_General RFP No. 3850 URL.pdf
+2026-05-15 14:06:28,156 [INFO]     URL-only PDF detected. URLs found: 1
+2026-05-15 14:06:28,156 [INFO]       → https://www.its.ms.gov/procurement/RFPs_and_sole_sources_advertised
+2026-05-15 14:06:28,156 [INFO]     Scraping: https://www.its.ms.gov/procurement/RFPs_and_sole_sources_advertised
+2026-05-15 14:06:29,941 [INFO]     Found 11 PDF links on https://www.its.ms.gov/procurement/RFPs_and_sole_sources_adv
+2026-05-15 14:06:29,942 [INFO]     Downloading 11 PDFs...
+2026-05-15 14:06:29,942 [INFO]       [1] → resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf
+2026-05-15 14:06:32,052 [INFO]         ✓ resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf (190,376 bytes)
+2026-05-15 14:06:32,052 [INFO]       [2] → resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf
+2026-05-15 14:06:35,930 [INFO]         ✓ resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf (474,718 bytes)
+2026-05-15 14:06:35,930 [INFO]       [3] → resolved_003_Appropriate and Acceptable Use of IT Resources.pdf
+2026-05-15 14:06:41,466 [INFO]         ✓ resolved_003_Appropriate and Acceptable Use of IT Resources.pdf (505,083 bytes)
+2026-05-15 14:06:41,468 [INFO]       [4] → resolved_004_Domain Name.pdf
+2026-05-15 14:06:42,873 [INFO]         ✓ resolved_004_Domain Name.pdf (72,397 bytes)
+2026-05-15 14:06:42,873 [INFO]       [5] → resolved_005_Procurement Handbook.pdf
+2026-05-15 14:07:02,273 [INFO]         ✓ resolved_005_Procurement Handbook.pdf (3,031,146 bytes)
+2026-05-15 14:07:02,275 [INFO]       [6] → resolved_006_Strategic Master Plan for IT.pdf
+2026-05-15 14:07:10,817 [INFO]         ✓ resolved_006_Strategic Master Plan for IT.pdf (1,537,553 bytes)
+2026-05-15 14:07:10,817 [INFO]       [7] → resolved_007_State Data Centers.pdf
+2026-05-15 14:07:18,875 [INFO]         ✓ resolved_007_State Data Centers.pdf (1,110,608 bytes)
+2026-05-15 14:07:18,877 [INFO]       [8] → resolved_008_ITS Annual Report.pdf
+2026-05-15 14:07:28,987 [INFO]         ✓ resolved_008_ITS Annual Report.pdf (1,426,308 bytes)
+2026-05-15 14:07:28,987 [INFO]       [9] → resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf
+2026-05-15 14:07:32,134 [INFO]         ✓ resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf (476,225 bytes)
+2026-05-15 14:07:32,134 [INFO]       [10] → resolved_010_ITS Services Catalog.pdf
+2026-05-15 14:07:40,291 [INFO]         ✓ resolved_010_ITS Services Catalog.pdf (1,075,361 bytes)
+2026-05-15 14:07:40,291 [INFO]       [11] → resolved_011_IT Planning Methodology.pdf
+2026-05-15 14:07:47,126 [INFO]         ✓ resolved_011_IT Planning Methodology.pdf (1,085,583 bytes)
+2026-05-15 14:07:47,646 [INFO] 
+  BidID_40954 / 001_RFP No. 4599 URL.pdf
+2026-05-15 14:07:47,675 [INFO]     URL-only PDF detected. URLs found: 1
+2026-05-15 14:07:47,675 [INFO]       → https://www.its.ms.gov/procurement/RFPs_and_sole_sources_advertised
+2026-05-15 14:07:47,675 [INFO]     Scraping: https://www.its.ms.gov/procurement/RFPs_and_sole_sources_advertised
+2026-05-15 14:07:49,099 [INFO]     Found 11 PDF links on https://www.its.ms.gov/procurement/RFPs_and_sole_sources_adv
+2026-05-15 14:07:49,099 [INFO]     Downloading 11 PDFs...
+2026-05-15 14:07:49,099 [INFO]       [1] → resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf
+2026-05-15 14:07:51,027 [INFO]         ✓ resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf (190,376 bytes)
+2026-05-15 14:07:51,030 [INFO]       [2] → resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf
+2026-05-15 14:07:55,294 [INFO]         ✓ resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf (474,718 bytes)
+2026-05-15 14:07:55,296 [INFO]       [3] → resolved_003_Appropriate and Acceptable Use of IT Resources.pdf
+2026-05-15 14:08:00,501 [INFO]         ✓ resolved_003_Appropriate and Acceptable Use of IT Resources.pdf (505,083 bytes)
+2026-05-15 14:08:00,504 [INFO]       [4] → resolved_004_Domain Name.pdf
+2026-05-15 14:08:01,927 [INFO]         ✓ resolved_004_Domain Name.pdf (72,397 bytes)
+2026-05-15 14:08:01,929 [INFO]       [5] → resolved_005_Procurement Handbook.pdf
+2026-05-15 14:08:25,855 [INFO]         ✓ resolved_005_Procurement Handbook.pdf (3,031,146 bytes)
+2026-05-15 14:08:25,855 [INFO]       [6] → resolved_006_Strategic Master Plan for IT.pdf
+2026-05-15 14:08:38,885 [INFO]         ✓ resolved_006_Strategic Master Plan for IT.pdf (1,537,553 bytes)
+2026-05-15 14:08:38,885 [INFO]       [7] → resolved_007_State Data Centers.pdf
+2026-05-15 14:08:47,333 [INFO]         ✓ resolved_007_State Data Centers.pdf (1,110,608 bytes)
+2026-05-15 14:08:47,333 [INFO]       [8] → resolved_008_ITS Annual Report.pdf
+2026-05-15 14:08:55,999 [INFO]         ✓ resolved_008_ITS Annual Report.pdf (1,426,308 bytes)
+2026-05-15 14:08:56,002 [INFO]       [9] → resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf
+2026-05-15 14:09:00,693 [INFO]         ✓ resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf (476,225 bytes)
+2026-05-15 14:09:00,708 [INFO]       [10] → resolved_010_ITS Services Catalog.pdf
+2026-05-15 14:09:07,579 [INFO]         ✓ resolved_010_ITS Services Catalog.pdf (1,075,361 bytes)
+2026-05-15 14:09:07,579 [INFO]       [11] → resolved_011_IT Planning Methodology.pdf
+2026-05-15 14:09:16,144 [INFO]         ✓ resolved_011_IT Planning Methodology.pdf (1,085,583 bytes)
+2026-05-15 14:09:16,659 [INFO] 
+  BidID_44934 / 001_Bid Ad.pdf
+2026-05-15 14:09:16,695 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:16,697 [INFO] 
+  BidID_44951 / 001_Bid Ad.pdf
+2026-05-15 14:09:16,734 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:16,734 [INFO] 
+  BidID_44959 / 001_RFQ 3140004550 Disability Determination & Appeals Services 04132.pdf
+2026-05-15 14:09:16,802 [INFO]     Could not extract text — skipping
+2026-05-15 14:09:16,804 [INFO] 
+  BidID_44991 / 001_IFB 3755 Advertisement.pdf
+2026-05-15 14:09:16,818 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:16,818 [INFO] 
+  BidID_45032 / 001_IFB RFx-3160007974 Trauma Care RN Consultant for MSDH.pdf
+2026-05-15 14:09:17,482 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:17,482 [INFO] 
+  BidID_45032 / 002_RFx 3160007974 Trauma Care RN Consultant for MSDH AD.pdf
+2026-05-15 14:09:17,502 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:17,502 [INFO] 
+  BidID_45032 / 003_Sample Business Associate Agreement.pdf
+2026-05-15 14:09:17,916 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:17,933 [INFO] 
+  BidID_45032 / 004_Trauma System of Care Rules & Regulations.pdf
+2026-05-15 14:09:19,806 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:19,806 [INFO] 
+  BidID_45042 / 001_4-901 Advertisement.pdf.pdf
+2026-05-15 14:09:19,825 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:19,825 [INFO] 
+  BidID_45043 / 001_REQUEST FOR QUALIFICATIONS FOR ENGINEERING SERVICES -SS4A CSAP.p.pdf
+2026-05-15 14:09:19,869 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:19,872 [INFO] 
+  BidID_45065 / 001_IFB - Title Print and Mail Services.pdf
+2026-05-15 14:09:21,123 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:21,125 [INFO] 
+  BidID_45066 / 001_RFx3160007906 MDEQ-IFB04212026.pdf
+2026-05-15 14:09:22,097 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:22,110 [INFO] 
+  BidID_45070 / 001_Department Letter.pdf
+2026-05-15 14:09:22,181 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:22,181 [INFO] 
+  BidID_45070 / 002_Legal Ad.pdf
+2026-05-15 14:09:22,221 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:22,221 [INFO] 
+  BidID_45070 / 003_Questionaire.pdf
+2026-05-15 14:09:22,293 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:22,295 [INFO] 
+  BidID_45070 / 004_VENDOR JUSTIFICATION LETTER.pdf
+2026-05-15 14:09:22,319 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:22,319 [INFO] 
+  BidID_45081 / 001_Copy Business Associate Agreement.pdf
+2026-05-15 14:09:22,783 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:22,796 [INFO] 
+  BidID_45081 / 002_RFx3160008012-IFB.pdf
+2026-05-15 14:09:23,787 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:23,787 [INFO] 
+  BidID_45095 / 002_Application.pdf
+2026-05-15 14:09:23,804 [INFO]     Could not extract text — skipping
+2026-05-15 14:09:23,804 [INFO] 
+  BidID_45097 / 001_ad for 810.pdf.pdf
+2026-05-15 14:09:23,835 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:23,837 [INFO] 
+  BidID_45114 / 001_15796.024_Section_A-Notice to Contractors.pdf.pdf
+2026-05-15 14:09:23,915 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:23,931 [INFO] 
+  BidID_45115 / 001_Bid Notice.pdf
+2026-05-15 14:09:23,994 [INFO]     Could not extract text — skipping
+2026-05-15 14:09:23,996 [INFO] 
+  BidID_45117 / 006_Attachment F- Purchase Summary Attestation.pdf
+2026-05-15 14:09:24,014 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,016 [INFO] 
+  BidID_45117 / 007_Attachment G- SOMS Terms and Conditions.pdf
+2026-05-15 14:09:24,318 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,318 [INFO] 
+  BidID_45117 / 008_Attachment H- Sample Contract.pdf
+2026-05-15 14:09:24,420 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,420 [INFO] 
+  BidID_45117 / 009_Format and Guidelines for Proposals- MRO 2026.pdf
+2026-05-15 14:09:24,547 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,563 [INFO] 
+  BidID_45136 / 001_Department Letter.pdf
+2026-05-15 14:09:24,645 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,647 [INFO] 
+  BidID_45136 / 002_Legal Ad.pdf
+2026-05-15 14:09:24,709 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,712 [INFO] 
+  BidID_45136 / 003_Questionaire.pdf
+2026-05-15 14:09:24,767 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,769 [INFO] 
+  BidID_45136 / 004_Vendor Letter.pdf
+2026-05-15 14:09:24,775 [INFO]     Could not extract text — skipping
+2026-05-15 14:09:24,778 [INFO] 
+  BidID_45137 / 001_Department Letter.pdf
+2026-05-15 14:09:24,848 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,848 [INFO] 
+  BidID_45137 / 002_Legal Ad.pdf
+2026-05-15 14:09:24,900 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,902 [INFO] 
+  BidID_45137 / 003_Questionaire.pdf
+2026-05-15 14:09:24,952 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:24,952 [INFO] 
+  BidID_45137 / 004_Vendor Letter.pdf
+2026-05-15 14:09:25,010 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:25,012 [INFO] 
+  BidID_45150 / 004_Attachment E- Purchase Summary Attestation.pdf
+2026-05-15 14:09:25,030 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:25,033 [INFO] 
+  BidID_45150 / 005_Attachment F- SOMS Terms and Conditions.pdf
+2026-05-15 14:09:25,376 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:25,376 [INFO] 
+  BidID_45150 / 006_Format and Guidelines for Proposals-Toner 2026.pdf
+2026-05-15 14:09:25,561 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:25,561 [INFO] 
+  BidID_45150 / 007_Format and Guidelines for Proposals-Toner 2026 Amended.pdf
+2026-05-15 14:09:25,743 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:25,743 [INFO] 
+  BidID_45169 / 001_IFB - Int. Pest Services.pdf
+2026-05-15 14:09:26,271 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:26,271 [INFO] 
+  BidID_45175 / 001_Advertisement.pdf
+2026-05-15 14:09:26,299 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:26,315 [INFO] 
+  BidID_45175 / 002_Invitations for Bid.pdf
+2026-05-15 14:09:27,314 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:27,319 [INFO] 
+  BidID_45183 / 001_IFB Amendment One.pdf
+2026-05-15 14:09:27,392 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:27,394 [INFO] 
+  BidID_45183 / 002_IFB for Boiler Maintenance.pdf
+2026-05-15 14:09:28,237 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:28,248 [INFO] 
+  BidID_45186 / 001_Bid Ad.pdf
+2026-05-15 14:09:28,295 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:28,298 [INFO] 
+  BidID_45187 / 001_Draft Copy.pdf
+2026-05-15 14:09:28,765 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:28,768 [INFO] 
+  BidID_45187 / 002_IFB.pdf
+2026-05-15 14:09:29,814 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:29,814 [INFO] 
+  BidID_45188 / 001_OCLC and Library Sole Source letters.pdf
+2026-05-15 14:09:29,827 [INFO]     Could not extract text — skipping
+2026-05-15 14:09:29,830 [INFO] 
+  BidID_45208 / 001_Prequal Bid.pdf
+2026-05-15 14:09:29,883 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:29,885 [INFO] 
+  BidID_45209 / 001_Attachment A - RFP Terms and Conditions.pdf
+2026-05-15 14:09:30,238 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:30,240 [INFO] 
+  BidID_45209 / 002_Attachment B - Scope of Work.pdf
+2026-05-15 14:09:30,327 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:30,329 [INFO] 
+  BidID_45209 / 003_Attachment C - RFP Evaluation Plan.pdf
+2026-05-15 14:09:30,465 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:30,481 [INFO] 
+  BidID_45209 / 004_Attachment D - Sample Master Agreement.pdf
+2026-05-15 14:09:31,653 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:31,653 [INFO] 
+  BidID_45209 / 006_Attachment E - Participation Information.pdf
+2026-05-15 14:09:31,735 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:31,735 [INFO] 
+  BidID_45209 / 007_Attachment F - Protest Information.pdf
+2026-05-15 14:09:31,815 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:31,815 [INFO] 
+  BidID_45209 / 008_Attachment G - Offeror Information, Acknowledgements, and Certif.pdf
+2026-05-15 14:09:31,963 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:31,966 [INFO] 
+  BidID_45209 / 011_Attachment H - Offeror Response Worksheet.pdf
+2026-05-15 14:09:32,081 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:32,081 [INFO] 
+  BidID_45209 / 014_Attachment J -  Proposed Modifications to Sample Master Agreemen.pdf
+2026-05-15 14:09:32,193 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:32,193 [INFO] 
+  BidID_45209 / 016_Attachment K- Claim of Business Confidentiality word doc.pdf
+2026-05-15 14:09:32,259 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:32,261 [INFO] 
+  BidID_45209 / 017_NASPO ValuePoint State of MS Fire Truck and Fire Apparatus Reque.pdf
+2026-05-15 14:09:32,480 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:32,480 [INFO] 
+  BidID_45209 / 018_NASPO ValuePoint State of MS Fire Truck and Fire Apparatus RFP 3.pdf
+2026-05-15 14:09:32,518 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:32,518 [INFO] 
+  BidID_45211 / 001_Notice.pdf
+2026-05-15 14:09:32,570 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:32,573 [INFO] 
+  BidID_45213 / 001_Advertisement MDMR Staging Site Material Deployment.pdf
+2026-05-15 14:09:32,593 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:32,596 [INFO] 
+  BidID_45213 / 002_Staging Site Material Deployment_final.pdf
+2026-05-15 14:09:33,237 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:33,248 [INFO] 
+  BidID_45215 / 001_Landscaping Rfx.pdf
+2026-05-15 14:09:33,257 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:33,267 [INFO] 
+  BidID_45216 / 001_26_44 Bid Packet.pdf
+2026-05-15 14:09:33,271 [INFO]     Could not extract text — skipping
+2026-05-15 14:09:33,271 [INFO] 
+  BidID_45216 / 002_26_44 Filtration Components_Bid Specifications.pdf
+2026-05-15 14:09:33,411 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:33,413 [INFO] 
+  BidID_45216 / 003_Bid 26_44 Filtration System OHRC Bid Coversheet.pdf
+2026-05-15 14:09:33,521 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:33,524 [INFO] 
+  BidID_45216 / 004_Bid 26_44 Legal Ad_SH.pdf
+2026-05-15 14:09:33,645 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:33,645 [INFO] 
+  BidID_45217 / 002_RFP.pdf
+2026-05-15 14:09:34,779 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:34,781 [INFO] 
+  BidID_45221 / 001_Notice.pdf
+2026-05-15 14:09:34,815 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:34,815 [INFO] 
+  BidID_45222 / 001_RFP_Comp State Health Plan.pdf
+2026-05-15 14:09:35,659 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:35,659 [INFO] 
+  BidID_45222 / 002_Statement of Compliance.pdf
+2026-05-15 14:09:35,692 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:35,694 [INFO] 
+  BidID_45223 / 002_Notice of Intent - PDF.pdf
+2026-05-15 14:09:35,764 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:35,764 [INFO] 
+  BidID_45223 / 004_Vendor Sole Source Letter.pdf
+2026-05-15 14:09:35,840 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:35,842 [INFO] 
+  BidID_45225 / 001_Addendum.pdf
+2026-05-15 14:09:37,745 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:37,745 [INFO] 
+  BidID_45226 / 001_Addendum.pdf
+2026-05-15 14:09:38,593 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:38,593 [INFO] 
+  BidID_45228 / 001_Attachment A RFX Response in MAGIC.pdf
+2026-05-15 14:09:38,720 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:38,722 [INFO] 
+  BidID_45228 / 002_Attachment B Magic Supplier Self- Service.pdf
+2026-05-15 14:09:39,058 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:39,067 [INFO] 
+  BidID_45228 / 003_RFX 3160008055 District III Cable Barrier Bid Packet.pdf
+2026-05-15 14:09:42,281 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:42,281 [INFO] 
+  BidID_45231 / 001_2026 Rankin First Offsite Sewer Improvements.pdf.pdf
+2026-05-15 14:09:42,303 [INFO]     Could not extract text — skipping
+2026-05-15 14:09:42,305 [INFO] 
+  BidID_45231 / 002_B-11397- Addendum 3.pdf
+2026-05-15 14:09:42,324 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:42,324 [INFO] 
+  BidID_45231 / 003_B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu.pdf
+2026-05-15 14:09:46,539 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:46,539 [INFO] 
+  BidID_45231 / 004_B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu.pdf
+2026-05-15 14:09:46,566 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:46,566 [INFO] 
+  BidID_45244 / 001_Advertisement for Bids.pdf.pdf
+2026-05-15 14:09:46,647 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:46,650 [INFO] 
+  BidID_45247 / 001_Ad Bid 26-005-14 -FACILITIES FINE ARTS AUDITORIUM ACOUSTIC UPGRA.pdf
+2026-05-15 14:09:46,666 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:46,666 [INFO] 
+  BidID_45248 / 001_Adv_Legal_Serving Lines.pdf.pdf
+2026-05-15 14:09:46,682 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:46,682 [INFO] 
+  BidID_45249 / 001_1 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C.pdf
+2026-05-15 14:09:49,505 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:49,505 [INFO] 
+  BidID_45249 / 002_2 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C.pdf
+2026-05-15 14:09:52,365 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:52,365 [INFO] 
+  BidID_45249 / 003_City of Jackson Infrastructure Improvements (Creek Clearing) COJ.pdf
+2026-05-15 14:09:55,381 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:55,381 [INFO] 
+  BidID_45249 / 004_City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ.pdf
+2026-05-15 14:09:58,397 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:09:58,399 [INFO] 
+  BidID_45249 / 005_City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ.pdf
+2026-05-15 14:10:01,432 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:01,432 [INFO] 
+  BidID_45250 / 001_LSBP-46(20) Advertisement.pdf.pdf
+2026-05-15 14:10:01,481 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:01,487 [INFO] 
+  BidID_45251 / 001_Bid Packer 395-PAPER-DCS262.pdf.pdf
+2026-05-15 14:10:02,088 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:02,091 [INFO] 
+  BidID_45252 / 001_7-20260416095739 Jackson.pdf
+2026-05-15 14:10:02,151 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,154 [INFO] 
+  BidID_45252 / 002_Street_Resurfacing_COJ-RS-01_(2)2 (1).pdf
+2026-05-15 14:10:02,200 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,201 [INFO] 
+  BidID_45252 / 003_Street_Resurfacing_COJ-RS-01_(3)3.pdf
+2026-05-15 14:10:02,236 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,246 [INFO] 
+  BidID_45252 / 004_Street_Resurfacing_COJ-RS-01_(4)4.pdf
+2026-05-15 14:10:02,280 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,280 [INFO] 
+  BidID_45252 / 005_Street_Resurfacing_COJ-RS-01_(5)5.pdf
+2026-05-15 14:10:02,361 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,363 [INFO] 
+  BidID_45252 / 006_Street_Resurfacing_COJ-RS-01_(6)6.pdf
+2026-05-15 14:10:02,400 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,400 [INFO] 
+  BidID_45252 / 007_Street_Resurfacing_COJ-RS-03_(1)14.pdf
+2026-05-15 14:10:02,465 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,465 [INFO] 
+  BidID_45252 / 008_Street_Resurfacing_COJ-RS-03_(2)15.pdf
+2026-05-15 14:10:02,522 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,524 [INFO] 
+  BidID_45252 / 009_Street_Resurfacing_COJ-RS-03_(3)16.pdf
+2026-05-15 14:10:02,565 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,565 [INFO] 
+  BidID_45252 / 010_Street_Resurfacing_COJ-RS-03_(4)17.pdf
+2026-05-15 14:10:02,622 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,624 [INFO] 
+  BidID_45252 / 011_Street_Resurfacing_COJ-RS-03_(5)18.pdf
+2026-05-15 14:10:02,693 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,697 [INFO] 
+  BidID_45252 / 012_Street_Resurfacing_COJ-RS-03_(6)19.pdf
+2026-05-15 14:10:02,732 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,732 [INFO] 
+  BidID_45252 / 013_Street_Resurfacing_COJ-RS-03_(6)19.pdf
+2026-05-15 14:10:02,766 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,766 [INFO] 
+  BidID_45252 / 014_Street_Resurfacing_COJ-RS-04_(1)20.pdf
+2026-05-15 14:10:02,815 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,815 [INFO] 
+  BidID_45252 / 015_Street_Resurfacing_COJ-RS-04_(2)21.pdf
+2026-05-15 14:10:02,894 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,895 [INFO] 
+  BidID_45252 / 016_Street_Resurfacing_COJ-RS-04_(2)21.pdf
+2026-05-15 14:10:02,959 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:02,962 [INFO] 
+  BidID_45252 / 017_Street_Resurfacing_COJ-RS-04_(3)22.pdf
+2026-05-15 14:10:03,000 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,000 [INFO] 
+  BidID_45252 / 018_Street_Resurfacing_COJ-RS-04_(4)23.pdf
+2026-05-15 14:10:03,067 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,069 [INFO] 
+  BidID_45252 / 019_Street_Resurfacing_COJ-RS-04_(5)24.pdf
+2026-05-15 14:10:03,121 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,122 [INFO] 
+  BidID_45252 / 020_Street_Resurfacing_COJ-RS-04_(5)24.pdf
+2026-05-15 14:10:03,164 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,164 [INFO] 
+  BidID_45252 / 021_Street_Resurfacing_COJ-RS-05_(1)25.pdf
+2026-05-15 14:10:03,213 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,213 [INFO] 
+  BidID_45252 / 022_Street_Resurfacing_COJ-RS-05_(2)26.pdf
+2026-05-15 14:10:03,287 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,290 [INFO] 
+  BidID_45252 / 023_Street_Resurfacing_COJ-RS-05_(2)26.pdf
+2026-05-15 14:10:03,354 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,356 [INFO] 
+  BidID_45252 / 024_Street_Resurfacing_COJ-RS-05_(3)27.pdf
+2026-05-15 14:10:03,401 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,402 [INFO] 
+  BidID_45252 / 025_Street_Resurfacing_COJ-RS-05_(4)28.pdf
+2026-05-15 14:10:03,447 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,448 [INFO] 
+  BidID_45252 / 026_Street_Resurfacing_COJ-RS-05_(5)29.pdf
+2026-05-15 14:10:03,509 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,511 [INFO] 
+  BidID_45252 / 027_Street_Resurfacing_COJ-RS-05_(5)29.pdf
+2026-05-15 14:10:03,596 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,596 [INFO] 
+  BidID_45252 / 028_Street_Resurfacing_COJ-RS-06_(1)30.pdf
+2026-05-15 14:10:03,656 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,657 [INFO] 
+  BidID_45252 / 029_Street_Resurfacing_COJ-RS-06_(2)31.pdf
+2026-05-15 14:10:03,714 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,714 [INFO] 
+  BidID_45252 / 030_Street_Resurfacing_COJ-RS-06_(3)32.pdf
+2026-05-15 14:10:03,770 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,771 [INFO] 
+  BidID_45252 / 031_Street_Resurfacing_COJ-RS-06_(4)33.pdf
+2026-05-15 14:10:03,822 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,824 [INFO] 
+  BidID_45252 / 032_Street_Resurfacing_COJ-RS-06_(5)34.pdf
+2026-05-15 14:10:03,874 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,874 [INFO] 
+  BidID_45252 / 033_Street_Resurfacing_COJ-RS-06_(6)35.pdf
+2026-05-15 14:10:03,917 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,919 [INFO] 
+  BidID_45252 / 034_Street_Resurfacing_COJ-RS-06_(6)35.pdf
+2026-05-15 14:10:03,951 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:03,954 [INFO] 
+  BidID_45252 / 035_Street_Resurfacing_COJ-RS-07_(1)36.pdf
+2026-05-15 14:10:04,019 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,022 [INFO] 
+  BidID_45252 / 036_Street_Resurfacing_COJ-RS-07_(2)37.pdf
+2026-05-15 14:10:04,072 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,074 [INFO] 
+  BidID_45252 / 037_Street_Resurfacing_COJ-RS-07_(3)38.pdf
+2026-05-15 14:10:04,112 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,114 [INFO] 
+  BidID_45252 / 038_Street_Resurfacing_COJ-RS-07_(3)38.pdf
+2026-05-15 14:10:04,149 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,149 [INFO] 
+  BidID_45252 / 039_Street_Resurfacing_COJ-RS-07_(4)39.pdf
+2026-05-15 14:10:04,215 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,215 [INFO] 
+  BidID_45252 / 040_Street_Resurfacing_COJ-RS-07_(5)40.pdf
+2026-05-15 14:10:04,284 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,286 [INFO] 
+  BidID_45252 / 041_Street_Resurfacing_COJ-RS-07_(6)41.pdf
+2026-05-15 14:10:04,315 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,315 [INFO] 
+  BidID_45252 / 042_Street_Resurfacing_COJ_-RS-02_(7)13.pdf
+2026-05-15 14:10:04,347 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,347 [INFO] 
+  BidID_45253 / 001_78-20260416102552 BSIC.pdf
+2026-05-15 14:10:04,431 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:04,433 [INFO] 
+  BidID_45254 / 001_367-20260416105918 ACBS.pdf
+2026-05-15 14:10:04,483 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:04,485 [INFO] 
+  BidID_45255 / 001_364-20260416110550 Canton.pdf
+2026-05-15 14:10:04,560 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:04,562 [INFO] 
+  BidID_45256 / 001_61-20260416112813 Bay St Louis.pdf
+2026-05-15 14:10:04,632 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:04,634 [INFO] 
+  BidID_45257 / 001_113-20260416143240 DCBS.pdf
+2026-05-15 14:10:04,640 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:04,643 [INFO] 
+  BidID_45258 / 001_JAN Rbilitation of Runway 16L-34R - Legal Notice.pdf.pdf
+2026-05-15 14:10:04,765 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:04,765 [INFO] 
+  BidID_45259 / 001_Agency Bid Bank ITB - RW Pump Replacement.pdf.pdf
+2026-05-15 14:10:04,817 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:04,819 [INFO] 
+  BidID_45260 / 001_SY26 RFP Speech Therapy.pdf.pdf
+2026-05-15 14:10:05,032 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:05,032 [INFO] 
+  BidID_45261 / 001_SY26 RFP ASL Interpreter.pdf.pdf
+2026-05-15 14:10:05,235 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:05,235 [INFO] 
+  BidID_45263 / 001_49-20260421103356 BPSD.pdf
+2026-05-15 14:10:05,488 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:05,490 [INFO] 
+  BidID_45264 / 001_BCBA RFP 26 Kellogg Grant.pdf.pdf
+2026-05-15 14:10:05,733 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:05,736 [INFO] 
+  BidID_45265 / 001_49-20260421103906 BPSD.pdf
+2026-05-15 14:10:05,944 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:05,946 [INFO] 
+  BidID_45266 / 001_137-20260421111603 Rankin.pdf
+2026-05-15 14:10:06,562 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:06,578 [INFO] 
+  BidID_45267 / 001_ADVERTISEMENT BF 1272.pdf.pdf
+2026-05-15 14:10:06,607 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:06,610 [INFO] 
+  BidID_45268 / 001_124-20260421115231 Winona.pdf
+2026-05-15 14:10:06,648 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:06,648 [INFO] 
+  BidID_45269 / 001_1428-20260422152859 Clarksdale.pdf
+2026-05-15 14:10:06,709 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:06,711 [INFO] 
+  BidID_45270 / 001_77-20260423082006 DCS.pdf
+2026-05-15 14:10:07,087 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:07,087 [INFO] 
+  BidID_45274 / 001_CALHOUN COUNTY AIRPORT ADV.pdf.pdf
+2026-05-15 14:10:07,138 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:07,141 [INFO] 
+  BidID_45275 / 001_003-ADVERTISEMENT-Asbestos Abatement UE.pdf.pdf
+2026-05-15 14:10:07,181 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:07,181 [INFO] 
+  BidID_45278 / 001_Addendum A RFX3160008021 Hazelhurst Project Office.pdf
+2026-05-15 14:10:07,214 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:07,214 [INFO] 
+  BidID_45278 / 002_Attachment A RFX Response in MAGIC (8).pdf
+2026-05-15 14:10:07,313 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:07,313 [INFO] 
+  BidID_45278 / 003_Attachment B Magic Supplier Self- Service (7).pdf
+2026-05-15 14:10:07,577 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:07,577 [INFO] 
+  BidID_45278 / 004_Attachment C Specifications.pdf
+2026-05-15 14:10:07,643 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:07,646 [INFO] 
+  BidID_45278 / 005_Attachment D EEV Certification (7).pdf
+2026-05-15 14:10:07,652 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:07,654 [INFO] 
+  BidID_45278 / 006_Attachment E-Example of Agency Contract.pdf
+2026-05-15 14:10:08,348 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:08,348 [INFO] 
+  BidID_45278 / 007_MDOT Standard Contract Addendum.pdf
+2026-05-15 14:10:08,504 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:08,507 [INFO] 
+  BidID_45278 / 008_RFX 3160008021 Bid Packet Huzelhurst Project Office Trailer Leas.pdf
+2026-05-15 14:10:08,964 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:08,968 [INFO] 
+  BidID_45279 / 001_Addendum A Yazoo RX3160008022 Modular Office Trailer.pdf
+2026-05-15 14:10:09,020 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:09,022 [INFO] 
+  BidID_45279 / 002_Attachment A RFX Response in MAGIC.pdf
+2026-05-15 14:10:09,112 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:09,112 [INFO] 
+  BidID_45279 / 003_Attachment B Magic Supplier Self- Service.pdf
+2026-05-15 14:10:09,395 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:09,395 [INFO] 
+  BidID_45279 / 004_Attachment C Specifications.pdf
+2026-05-15 14:10:09,455 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:09,458 [INFO] 
+  BidID_45279 / 005_Attachment D EEV Certification (7).pdf
+2026-05-15 14:10:09,466 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:09,468 [INFO] 
+  BidID_45279 / 006_Attachment E- Example of Agency Contract.pdf
+2026-05-15 14:10:10,156 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:10,172 [INFO] 
+  BidID_45279 / 007_MDOT Standard Contract Addendum.pdf
+2026-05-15 14:10:10,280 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:10,280 [INFO] 
+  BidID_45279 / 008_RFX 3160008022 Bid Packet D3 Trailer Lease.pdf
+2026-05-15 14:10:10,719 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:10,722 [INFO] 
+  BidID_45280 / 001_Bryant Maintenance Adv.pdf.pdf
+2026-05-15 14:10:10,826 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:10,828 [INFO] 
+  BidID_45281 / 001_ITSS 475 - VALT 1-E Camera License.pdf.pdf
+2026-05-15 14:10:10,861 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:10,864 [INFO] 
+  BidID_45282 / 001_BD 2627 AD.pdf.pdf
+2026-05-15 14:10:10,898 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:10,898 [INFO] 
+  BidID_45283 / 001_Legal notice to Bidders - REQUEST FOR QUOTATIONS Tables and Chai.pdf
+2026-05-15 14:10:10,991 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:10,994 [INFO] 
+  BidID_45284 / 001_SCAN_2026_4_23_18_59_9_76943.pdf.pdf
+2026-05-15 14:10:10,996 [INFO]     Could not extract text — skipping
+2026-05-15 14:10:11,005 [INFO] 
+  BidID_45285 / 001_AD for RFP MSU2026069 RFP.pdf.pdf
+2026-05-15 14:10:11,015 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:11,015 [INFO] 
+  BidID_45286 / 001_BID NOTICE - Articulating Telescoping Aerial Device April 2026.p.pdf
+2026-05-15 14:10:11,048 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:10:11,048 [INFO] 
+  BidID_45287 / 001_Sole Source No. 4708 URL.pdf
+2026-05-15 14:10:11,065 [INFO]     URL-only PDF detected. URLs found: 1
+2026-05-15 14:10:11,065 [INFO]       → https://www.its.ms.gov/procurement/RFPs_and_sole_sources_advertised
+2026-05-15 14:10:11,065 [INFO]     Scraping: https://www.its.ms.gov/procurement/RFPs_and_sole_sources_advertised
+2026-05-15 14:10:12,662 [INFO]     Found 11 PDF links on https://www.its.ms.gov/procurement/RFPs_and_sole_sources_adv
+2026-05-15 14:10:12,662 [INFO]     Downloading 11 PDFs...
+2026-05-15 14:10:12,662 [INFO]       [1] → resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf
+2026-05-15 14:10:14,600 [INFO]         ✓ resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf (190,376 bytes)
+2026-05-15 14:10:14,602 [INFO]       [2] → resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf
+2026-05-15 14:10:18,043 [INFO]         ✓ resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf (474,718 bytes)
+2026-05-15 14:10:18,043 [INFO]       [3] → resolved_003_Appropriate and Acceptable Use of IT Resources.pdf
+2026-05-15 14:10:21,712 [INFO]         ✓ resolved_003_Appropriate and Acceptable Use of IT Resources.pdf (505,083 bytes)
+2026-05-15 14:10:21,712 [INFO]       [4] → resolved_004_Domain Name.pdf
+2026-05-15 14:10:23,069 [INFO]         ✓ resolved_004_Domain Name.pdf (72,397 bytes)
+2026-05-15 14:10:23,076 [INFO]       [5] → resolved_005_Procurement Handbook.pdf
+2026-05-15 14:10:44,106 [INFO]         ✓ resolved_005_Procurement Handbook.pdf (3,031,146 bytes)
+2026-05-15 14:10:44,106 [INFO]       [6] → resolved_006_Strategic Master Plan for IT.pdf
+2026-05-15 14:10:53,171 [INFO]         ✓ resolved_006_Strategic Master Plan for IT.pdf (1,537,553 bytes)
+2026-05-15 14:10:53,171 [INFO]       [7] → resolved_007_State Data Centers.pdf
+2026-05-15 14:10:59,461 [INFO]         ✓ resolved_007_State Data Centers.pdf (1,110,608 bytes)
+2026-05-15 14:10:59,468 [INFO]       [8] → resolved_008_ITS Annual Report.pdf
+2026-05-15 14:11:10,572 [INFO]         ✓ resolved_008_ITS Annual Report.pdf (1,426,308 bytes)
+2026-05-15 14:11:10,588 [INFO]       [9] → resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf
+2026-05-15 14:11:14,774 [INFO]         ✓ resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf (476,225 bytes)
+2026-05-15 14:11:14,780 [INFO]       [10] → resolved_010_ITS Services Catalog.pdf
+2026-05-15 14:11:22,712 [INFO]         ✓ resolved_010_ITS Services Catalog.pdf (1,075,361 bytes)
+2026-05-15 14:11:22,714 [INFO]       [11] → resolved_011_IT Planning Methodology.pdf
+2026-05-15 14:11:31,231 [INFO]         ✓ resolved_011_IT Planning Methodology.pdf (1,085,583 bytes)
+2026-05-15 14:11:31,737 [INFO] 
+  BidID_45288 / 001_Sole Source No. 5002 URL.pdf
+2026-05-15 14:11:31,744 [INFO]     URL-only PDF detected. URLs found: 1
+2026-05-15 14:11:31,744 [INFO]       → https://www.its.ms.gov/procurement/RFPs_and_sole_sources_advertised
+2026-05-15 14:11:31,744 [INFO]     Scraping: https://www.its.ms.gov/procurement/RFPs_and_sole_sources_advertised
+2026-05-15 14:11:33,392 [INFO]     Found 11 PDF links on https://www.its.ms.gov/procurement/RFPs_and_sole_sources_adv
+2026-05-15 14:11:33,392 [INFO]     Downloading 11 PDFs...
+2026-05-15 14:11:33,392 [INFO]       [1] → resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf
+2026-05-15 14:11:35,686 [INFO]         ✓ resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf (190,376 bytes)
+2026-05-15 14:11:35,686 [INFO]       [2] → resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf
+2026-05-15 14:11:39,029 [INFO]         ✓ resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf (474,718 bytes)
+2026-05-15 14:11:39,033 [INFO]       [3] → resolved_003_Appropriate and Acceptable Use of IT Resources.pdf
+2026-05-15 14:11:42,853 [INFO]         ✓ resolved_003_Appropriate and Acceptable Use of IT Resources.pdf (505,083 bytes)
+2026-05-15 14:11:42,853 [INFO]       [4] → resolved_004_Domain Name.pdf
+2026-05-15 14:11:44,272 [INFO]         ✓ resolved_004_Domain Name.pdf (72,397 bytes)
+2026-05-15 14:11:44,274 [INFO]       [5] → resolved_005_Procurement Handbook.pdf
+2026-05-15 14:12:03,974 [INFO]         ✓ resolved_005_Procurement Handbook.pdf (3,031,146 bytes)
+2026-05-15 14:12:03,974 [INFO]       [6] → resolved_006_Strategic Master Plan for IT.pdf
+2026-05-15 14:12:13,778 [INFO]         ✓ resolved_006_Strategic Master Plan for IT.pdf (1,537,553 bytes)
+2026-05-15 14:12:13,782 [INFO]       [7] → resolved_007_State Data Centers.pdf
+2026-05-15 14:12:21,295 [INFO]         ✓ resolved_007_State Data Centers.pdf (1,110,608 bytes)
+2026-05-15 14:12:21,295 [INFO]       [8] → resolved_008_ITS Annual Report.pdf
+2026-05-15 14:12:31,205 [INFO]         ✓ resolved_008_ITS Annual Report.pdf (1,426,308 bytes)
+2026-05-15 14:12:31,207 [INFO]       [9] → resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf
+2026-05-15 14:12:34,957 [INFO]         ✓ resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf (476,225 bytes)
+2026-05-15 14:12:34,960 [INFO]       [10] → resolved_010_ITS Services Catalog.pdf
+2026-05-15 14:12:42,169 [INFO]         ✓ resolved_010_ITS Services Catalog.pdf (1,075,361 bytes)
+2026-05-15 14:12:42,173 [INFO]       [11] → resolved_011_IT Planning Methodology.pdf
+2026-05-15 14:12:48,327 [INFO]         ✓ resolved_011_IT Planning Methodology.pdf (1,085,583 bytes)
+2026-05-15 14:12:48,839 [INFO] 
+  BidID_45290 / 001_RFQ_2026-001_Copier_and_Printer_Services_AD1.pdf
+2026-05-15 14:12:48,883 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:48,885 [INFO] 
+  BidID_45291 / 001_BID NOTICE - Backhoe April 2026.pdf.pdf
+2026-05-15 14:12:48,906 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:48,906 [INFO] 
+  BidID_45292 / 001_Farmers Market Bid.pdf.pdf
+2026-05-15 14:12:48,977 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:48,980 [INFO] 
+  BidID_45293 / 001_RFx 310008045 Addendum 1 Questions and Answers.pdf
+2026-05-15 14:12:49,087 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:49,087 [INFO] 
+  BidID_45293 / 002_RFx 3160008045 Boat Registration Decal.pdf
+2026-05-15 14:12:49,522 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:49,522 [INFO] 
+  BidID_45295 / 001_Section 900 corrected.pdf.pdf
+2026-05-15 14:12:49,563 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:49,563 [INFO] 
+  BidID_45296 / 001_02 Advertisement for Bids.pdf.pdf
+2026-05-15 14:12:49,601 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:49,603 [INFO] 
+  BidID_45298 / 001_Advertisement.pdf
+2026-05-15 14:12:49,606 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:49,606 [INFO] 
+  BidID_45298 / 002_Business Associate Agreement.pdf
+2026-05-15 14:12:50,085 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:50,091 [INFO] 
+  BidID_45298 / 003_IFB RFx- 3160008035 Ryan White Part B Third Party Administrator.pdf
+2026-05-15 14:12:51,020 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,020 [INFO] 
+  BidID_45298 / 004_Question & Answer Report IFB RFx 3160008035.pdf
+2026-05-15 14:12:51,047 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,049 [INFO] 
+  BidID_45299 / 001_MC Press Box 00.1113 Advertisement for Bids_04-15-26.pdf.pdf
+2026-05-15 14:12:51,086 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,090 [INFO] 
+  BidID_45300 / 001_ADVERTISEMENT - RFP 813.pdf.pdf
+2026-05-15 14:12:51,108 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,122 [INFO] 
+  BidID_45301 / 001_SAP-74(23)M Advertisement.pdf.pdf
+2026-05-15 14:12:51,258 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,261 [INFO] 
+  BidID_45302 / 001_00090 Advertisement - HCPHC-REVISED.pdf.pdf
+2026-05-15 14:12:51,349 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,349 [INFO] 
+  BidID_45304 / 001_Sec-A - Runway Rehab..pdf.pdf
+2026-05-15 14:12:51,442 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,457 [INFO] 
+  BidID_45305 / 001_11375_Advertisement for Bids.pdf.pdf
+2026-05-15 14:12:51,490 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,490 [INFO] 
+  BidID_45306 / 001_Sec-A - Apron Expansion.pdf.pdf
+2026-05-15 14:12:51,603 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,606 [INFO] 
+  BidID_45307 / 001_SECTION 00075 - ADVERTISEMENT FOR BIDS.pdf.pdf
+2026-05-15 14:12:51,672 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,674 [INFO] 
+  BidID_45308 / 001_Section 00075_Advertisement for Bids.pdf.pdf
+2026-05-15 14:12:51,707 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:51,707 [INFO] 
+  BidID_45310 / 001_USM RFP 26-43 M.pdf
+2026-05-15 14:12:52,021 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,021 [INFO] 
+  BidID_45311 / 001_USM RFP 26-46 Reed Green Renovation.pdf
+2026-05-15 14:12:52,087 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,088 [INFO] 
+  BidID_45317 / 001_00 11 17 - C-111_Advertisement for Bid.pdf.pdf
+2026-05-15 14:12:52,124 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,124 [INFO] 
+  BidID_45318 / 001_Dental Insurance.pdf.pdf
+2026-05-15 14:12:52,149 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,152 [INFO] 
+  BidID_45319 / 001_Voluntary Group Accident Insurance.pdf.pdf
+2026-05-15 14:12:52,166 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,174 [INFO] 
+  BidID_45320 / 001_00 11 13 Invitation for Bids CDBG 10190.pdf.pdf
+2026-05-15 14:12:52,191 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,191 [INFO] 
+  BidID_45321 / 001_Voluntary Group Term Life Insurance.pdf.pdf
+2026-05-15 14:12:52,207 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,222 [INFO] 
+  BidID_45322 / 001_Voluntary Group Vision Insurance.pdf.pdf
+2026-05-15 14:12:52,245 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,245 [INFO] 
+  BidID_45323 / 001_Cafeteria Plan Administrator Services.pdf.pdf
+2026-05-15 14:12:52,266 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,272 [INFO] 
+  BidID_45324 / 001_Bid 26-300-2A Asphalt.pdf.pdf
+2026-05-15 14:12:52,290 [INFO]     Could not extract text — skipping
+2026-05-15 14:12:52,290 [INFO] 
+  BidID_45325 / 001_Bid 26-300-3A Scrub Seal Slurry Seal Micro Surfacing.pdf.pdf
+2026-05-15 14:12:52,310 [INFO]     Could not extract text — skipping
+2026-05-15 14:12:52,310 [INFO] 
+  BidID_45326 / 001_Bid 26 300 5A Poly Culverts.pdf.pdf
+2026-05-15 14:12:52,481 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,483 [INFO] 
+  BidID_45327 / 001_Bid 26 300 6A Crushed Aggregates.pdf.pdf
+2026-05-15 14:12:52,705 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,721 [INFO] 
+  BidID_45328 / 001_Bid 26 300 7A Gravel .pdf.pdf
+2026-05-15 14:12:52,884 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,884 [INFO] 
+  BidID_45329 / 001_CR 318 & CR 382 ADVERTISEMENT.pdf.pdf
+2026-05-15 14:12:52,927 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 14:12:52,929 [INFO] 
+============================================================
+2026-05-15 14:12:52,929 [INFO] DONE
+2026-05-15 14:12:52,930 [INFO]   URL-only PDFs resolved : 4
+2026-05-15 14:12:52,930 [INFO]   PDFs downloaded        : 44
+2026-05-15 14:12:52,930 [INFO]   Downloads failed       : 0
+2026-05-15 14:12:52,930 [INFO] ============================================================
+2026-05-15 19:37:29,545 [INFO] ============================================================
+2026-05-15 19:37:29,545 [INFO] Mississippi — URL Attachment Resolver
+2026-05-15 19:37:29,560 [INFO] Scanning: C:\Scraping\Mississippi-Procurement\scraped_data
+2026-05-15 19:37:29,560 [INFO] ============================================================
+2026-05-15 19:37:29,563 [INFO] Already resolved: 260 URLs
+2026-05-15 19:37:29,580 [INFO] Found 115 BidID folders
+2026-05-15 19:37:29,580 [INFO] 
+  BidID_38017 / resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf
+2026-05-15 19:37:29,645 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:29,645 [INFO] 
+  BidID_38017 / resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf
+2026-05-15 19:37:32,336 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:32,347 [INFO] 
+  BidID_38017 / resolved_003_Appropriate and Acceptable Use of IT Resources.pdf
+2026-05-15 19:37:33,009 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:33,012 [INFO] 
+  BidID_38017 / resolved_004_Domain Name.pdf
+2026-05-15 19:37:33,222 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:33,229 [INFO] 
+  BidID_38017 / resolved_005_Procurement Handbook.pdf
+2026-05-15 19:37:38,927 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:38,949 [INFO] 
+  BidID_38017 / resolved_006_Strategic Master Plan for IT.pdf
+2026-05-15 19:37:39,704 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:39,721 [INFO] 
+  BidID_38017 / resolved_007_State Data Centers.pdf
+2026-05-15 19:37:40,140 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:40,144 [INFO] 
+  BidID_38017 / resolved_008_ITS Annual Report.pdf
+2026-05-15 19:37:41,211 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:41,221 [INFO] 
+  BidID_38017 / resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf
+2026-05-15 19:37:41,391 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:41,412 [INFO] 
+  BidID_38017 / resolved_010_ITS Services Catalog.pdf
+2026-05-15 19:37:42,315 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:42,322 [INFO] 
+  BidID_38017 / resolved_011_IT Planning Methodology.pdf
+2026-05-15 19:37:42,722 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:42,722 [INFO] 
+  BidID_40954 / resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf
+2026-05-15 19:37:42,761 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:42,769 [INFO] 
+  BidID_40954 / resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf
+2026-05-15 19:37:44,980 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:44,992 [INFO] 
+  BidID_40954 / resolved_003_Appropriate and Acceptable Use of IT Resources.pdf
+2026-05-15 19:37:45,644 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:45,661 [INFO] 
+  BidID_40954 / resolved_004_Domain Name.pdf
+2026-05-15 19:37:45,853 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:37:45,853 [INFO] 
+  BidID_40954 / resolved_005_Procurement Handbook.pdf
+2026-05-15 19:38:00,387 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:00,391 [INFO] 
+  BidID_40954 / resolved_006_Strategic Master Plan for IT.pdf
+2026-05-15 19:38:01,344 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:01,349 [INFO] 
+  BidID_40954 / resolved_007_State Data Centers.pdf
+2026-05-15 19:38:01,998 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:02,000 [INFO] 
+  BidID_40954 / resolved_008_ITS Annual Report.pdf
+2026-05-15 19:38:04,307 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:04,313 [INFO] 
+  BidID_40954 / resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf
+2026-05-15 19:38:05,021 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:05,034 [INFO] 
+  BidID_40954 / resolved_010_ITS Services Catalog.pdf
+2026-05-15 19:38:07,931 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:07,939 [INFO] 
+  BidID_40954 / resolved_011_IT Planning Methodology.pdf
+2026-05-15 19:38:09,478 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:09,515 [INFO] 
+  BidID_45287 / resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf
+2026-05-15 19:38:09,596 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:09,596 [INFO] 
+  BidID_45287 / resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf
+2026-05-15 19:38:14,511 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:14,513 [INFO] 
+  BidID_45287 / resolved_003_Appropriate and Acceptable Use of IT Resources.pdf
+2026-05-15 19:38:15,209 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:15,213 [INFO] 
+  BidID_45287 / resolved_004_Domain Name.pdf
+2026-05-15 19:38:15,459 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:15,464 [INFO] 
+  BidID_45287 / resolved_005_Procurement Handbook.pdf
+2026-05-15 19:38:29,959 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:29,970 [INFO] 
+  BidID_45287 / resolved_006_Strategic Master Plan for IT.pdf
+2026-05-15 19:38:32,275 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:32,275 [INFO] 
+  BidID_45287 / resolved_007_State Data Centers.pdf
+2026-05-15 19:38:33,898 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:33,900 [INFO] 
+  BidID_45287 / resolved_008_ITS Annual Report.pdf
+2026-05-15 19:38:37,277 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:37,284 [INFO] 
+  BidID_45287 / resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf
+2026-05-15 19:38:37,883 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:37,888 [INFO] 
+  BidID_45287 / resolved_010_ITS Services Catalog.pdf
+2026-05-15 19:38:40,393 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:40,398 [INFO] 
+  BidID_45287 / resolved_011_IT Planning Methodology.pdf
+2026-05-15 19:38:41,732 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:41,741 [INFO] 
+  BidID_45288 / resolved_001_Mississippi AI Innovation Hub Showcase - Press Release.pdf
+2026-05-15 19:38:41,841 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:41,845 [INFO] 
+  BidID_45288 / resolved_002_Acceptable Use Policy for Artificial Intelligence.pdf
+2026-05-15 19:38:47,827 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:47,837 [INFO] 
+  BidID_45288 / resolved_003_Appropriate and Acceptable Use of IT Resources.pdf
+2026-05-15 19:38:49,638 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:49,640 [INFO] 
+  BidID_45288 / resolved_004_Domain Name.pdf
+2026-05-15 19:38:50,389 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:38:50,397 [INFO] 
+  BidID_45288 / resolved_005_Procurement Handbook.pdf
+2026-05-15 19:39:08,838 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:39:08,842 [INFO] 
+  BidID_45288 / resolved_006_Strategic Master Plan for IT.pdf
+2026-05-15 19:39:10,908 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:39:10,908 [INFO] 
+  BidID_45288 / resolved_007_State Data Centers.pdf
+2026-05-15 19:39:12,296 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:39:12,296 [INFO] 
+  BidID_45288 / resolved_008_ITS Annual Report.pdf
+2026-05-15 19:39:15,848 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:39:15,855 [INFO] 
+  BidID_45288 / resolved_009_Enterprise Cybersecurity Incident Reporting Guidelines.pdf
+2026-05-15 19:39:16,440 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:39:16,442 [INFO] 
+  BidID_45288 / resolved_010_ITS Services Catalog.pdf
+2026-05-15 19:39:18,751 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:39:18,756 [INFO] 
+  BidID_45288 / resolved_011_IT Planning Methodology.pdf
+2026-05-15 19:39:20,025 [INFO]     Real document (RFP/RFQ content) — skipping
+2026-05-15 19:39:20,041 [INFO] 
+============================================================
+2026-05-15 19:39:20,047 [INFO] DONE
+2026-05-15 19:39:20,047 [INFO]   URL-only PDFs resolved : 0
+2026-05-15 19:39:20,047 [INFO]   PDFs downloaded        : 0
+2026-05-15 19:39:20,047 [INFO]   Downloads failed       : 0
+2026-05-15 19:39:20,047 [INFO] ============================================================

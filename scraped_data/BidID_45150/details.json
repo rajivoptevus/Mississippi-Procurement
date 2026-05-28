@@ -1,0 +1,65 @@
+{
+  "bid_id": 45150,
+  "smart_number": "1130-26-R-NBID-00016-V01",
+  "rfx_number": "3130002331",
+  "rfx_status": "Open",
+  "rfx_type": "Negotiated Bid",
+  "agency": "",
+  "description": "Laser Toner Cartridges",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-01 05:00 UTC",
+  "submission_date": "2026-05-15 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "Lashun Smith",
+  "contact_email": "LASHUN.SMITH@DFA.MS.GOV",
+  "contact_phone": "6013591310",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45150?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3130002331%5FV2.PDF?ATTCGET&CLID=02000600000A1FD18FFF8BC62E925FC8&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65424,
+      "description": "Attachment B- Price List Toner 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%2D%20PRICE%20LIST%20TONER%202026.XLSX?PHIOGET&KPID=0200060000111FD18BA73ACFAD473E21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65425,
+      "description": "Attachment C- Internal Catalog Spreadsheet Toner 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%2D%20INTERNAL%20CATALOG%20SPREADSHEET%20TONER%202026.XLSX?PHIOGET&KPID=0200060000111FD18BA73C05C5601E21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65426,
+      "description": "Attachment D- Purchase Summary Toner 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%2D%20PURCHASE%20SUMMARY%20TONER%202026.XLSX?PHIOGET&KPID=0200060000111FD18BA73CE6213EDE21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65427,
+      "description": "Attachment E- Purchase Summary Attestation",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%2D%20PURCHASE%20SUMMARY%20ATTESTATION.PDF?PHIOGET&KPID=0200060000111FD18BA73E1B1D847E21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65428,
+      "description": "Attachment F- SOMS Terms and Conditions",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20F%2D%20SOMS%20TERMS%20AND%20CONDITIONS.PDF?PHIOGET&KPID=0200060000111FD18BA73F7B58107E21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65423,
+      "description": "Format and Guidelines for Proposals-Toner 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/FORMAT%20AND%20GUIDELINES%20FOR%20PROPOSALS%2DTONER%202026.PDF?PHIOGET&KPID=0200060000111FD18BA738E304C5BE21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65429,
+      "description": "Format and Guidelines for Proposals-Toner 2026 Amended",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/FORMAT%20AND%20GUIDELINES%20FOR%20PROPOSALS%2DTONER%202026%20AMENDED.PDF?PHIOGET&KPID=0200060000111FE18FE6B87CDFF8387A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "20772",
+      "category_description": "CPU Access- Inks"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:52:26.026763+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "bid_id": 45291,
+  "smart_number": "1398-20260429100412 KWL",
+  "rfx_number": "3170035719",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Notice is hereby given that the Water and Light Commission of the City of Kosciusko, \nMississippi, will receive Electronic Bids via reverse auction for the purchase of ONE (1) \nNEW RUBBER TIRE BACKHOE. \nUnpriced bid proposals will be accepted until 10:00",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-13 05:00 UTC",
+  "submission_date": "2026-05-18 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45291?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035719.PDF?ATTCGET&CLID=0200060000111FD193DB3EBA0179CFA5&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65761,
+      "description": "BID NOTICE - Backhoe April 2026.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1398%2D20260429100412%20KWL.PDF?PHIOGET&KPID=0200060000111FD193DB3969AE8E6FA4&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "76003",
+      "category_description": "RoadEarthBackhoe"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:16.285354+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "bid_id": 45256,
+  "smart_number": "61-20260416112813 Bay St Louis",
+  "rfx_number": "3170035677",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Pre-Bid Conference:\nDate & Time: 4/30/2026 10:00 AM\nDescription: A Non-Mandatory Pre-Bid Meeting is scheduled for Thursday, April 30, 2026 @ 10:00 AM. Meet in the lobby of Bay St. Louis City Hall, 688 US-90, Bay St. Louis, Mississippi 39620. After the mee",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45256?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035677.PDF?ATTCGET&CLID=0200060000111FD193AA8FD108EC0D7A&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65706,
+      "description": "61-20260416112813 Bay St Louis",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/61%2D20260416112813%20BAY%20ST%20LOUIS.PDF?PHIOGET&KPID=02000600000A1FE193AA865DEF691216&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91891",
+      "category_description": "Serv ConsultRoofing"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:55:48.429556+00:00"
+}

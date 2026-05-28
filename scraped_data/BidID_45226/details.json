@@ -1,0 +1,40 @@
+{
+  "bid_id": 45226,
+  "smart_number": "9210-26-R-IFBD-00019-V01",
+  "rfx_number": "3160008003",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "ALCORN STATE UNIVERSITY",
+  "description": "Invitation for Bid- Alcorn State University Tennis Lighting, Lorman,MS",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-10 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": "2026-05-19 05:00 UTC",
+  "contact_name": "Mertha George",
+  "contact_email": "mgeorge@alcorn.edu",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45226?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008003%5FV1.PDF?ATTCGET&CLID=02000600000A1FE192E1E5B5611D0F5C&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65620,
+      "description": "Addendum",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD192E1E1DD13692AB3&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65619,
+      "description": "advertisement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20FOR%20BIDDING%2DTENNIS%20LIGHTING.DOCX?PHIOGET&KPID=0200060000111FE18CD78052A2F7864B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "28527",
+      "category_description": "Control Device Light"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:52:58.368631+00:00"
+}

@@ -1,0 +1,70 @@
+{
+  "bid_id": 45278,
+  "smart_number": "1941-26-R-IFBD-00038-V03",
+  "rfx_number": "3160008021",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF TRANSPORTATION",
+  "description": "RFX 3160008021 Hazelhurst Project Office Modular Office Trailer Lease Contract\n\nAgency Contract for Lease of Modular Officer Trailer\nMississippi Department of Transportation\n\nJuly 1. 2026 through June 30, 2027\n\nBids can be submitted electronically through",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-23 05:00 UTC",
+  "submission_date": "2026-05-20 05:00 UTC",
+  "opening_date": "2026-05-20 05:00 UTC",
+  "contact_name": "Ashley Harrell",
+  "contact_email": "AHARRELL@MDOT.MS.GOV",
+  "contact_phone": "6019614119",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45278?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008021%5FV4.PDF?ATTCGET&CLID=0200060000111FD193C1D46A6889EE7D&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65737,
+      "description": "Addendum A RFX3160008021 Hazelhurst Project Office",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADDENDUM%20A%20RFX3160008021%20HAZELHURST%20PROJECT%20OFFICE.PDF?PHIOGET&KPID=0200060000111FD193B04CC0831C6DBE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65731,
+      "description": "Attachment A RFX Response in MAGIC (8)",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%20RFX%20RESPONSE%20IN%20MAGIC%20%288%29.PDF?PHIOGET&KPID=02000600000A1FD18F9ACA1CD2723AD0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65732,
+      "description": "Attachment B Magic Supplier Self- Service (7)",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%20MAGIC%20SUPPLIER%20SELF%2D%20SERVICE%20%287%29.PDF?PHIOGET&KPID=02000600000A1FD18F9ACB1336865AD0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65733,
+      "description": "Attachment C Specifications",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%20SPECIFICATIONS.PDF?PHIOGET&KPID=02000600000A1FD18F9ACC45A9F21AD0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65734,
+      "description": "Attachment D EEV Certification (7)",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%20EEV%20CERTIFICATION%20%287%29.PDF?PHIOGET&KPID=02000600000A1FD18F9ACD7A1D7C3AD0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65736,
+      "description": "Attachment E-Example of Agency Contract",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%2DEXAMPLE%20OF%20AGENCY%20CONTRACT.PDF?PHIOGET&KPID=02000600000A1FD18FCA4896124FBD0E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65738,
+      "description": "MDOT Standard Contract Addendum",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/MDOT%20STANDARD%20CONTRACT%20ADDENDUM.PDF?PHIOGET&KPID=0200060000111FD193B04DA1BC61ADBE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65735,
+      "description": "RFX 3160008021 Bid Packet Huzelhurst Project Office Trailer Leas",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008021%20BID%20PACKET%20HUZELHURST%20PROJECT%20OFFICE%20TRAILER%20LEASE.PDF?PHIOGET&KPID=02000600000A1FD18F9B05CB2B06FAD2&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "97584",
+      "category_description": "Serv RentTrailer"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:10:06.304757+00:00"
+}

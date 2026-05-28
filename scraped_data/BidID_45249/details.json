@@ -1,0 +1,55 @@
+{
+  "bid_id": 45249,
+  "smart_number": "7-20260416074521 Jackson",
+  "rfx_number": "3170035670",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "NOTICE is hereby given that the City of Jackson will receive written sealed bids until the \nhour of 3:30 PM on Tuesday, May 19, 2026 at the Municipal Clerks Office for the furnishing of \nall labor, materials, and equipment necessary for the construction",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45249?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035670.PDF?ATTCGET&CLID=0200060000111FD193A92A227E2E4D69&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65654,
+      "description": "1 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1%20CITY%5FOF%5FJACKSON%5FINFRASTRUCTURE%5FIMPROVEMENTS%5F%28CREEK%5FCLEARING%29%5FCOJ%2DCC%2D04%5F%281%294.PDF?PHIOGET&KPID=02000600000A1FE193A9203F1E9A9205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65655,
+      "description": "2 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2%20CITY%5FOF%5FJACKSON%5FINFRASTRUCTURE%5FIMPROVEMENTS%5F%28CREEK%5FCLEARING%29%5FCOJ%2DCC%2D05%5F%281%295.PDF?PHIOGET&KPID=02000600000A1FE193A922CB72CA5205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65656,
+      "description": "City of Jackson Infrastructure Improvements (Creek Clearing) COJ",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/7%2D20260416074521%20JACKSON.PDF?PHIOGET&KPID=02000600000A1FE193A918DB0098F205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65657,
+      "description": "City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/CITY%5FOF%5FJACKSON%5FINFRASTRUCTURE%5FIMPROVEMENTS%5F%28CREEK%5FCLEARING%29%5FCOJ%2DCC%2D02%5F%281%292.PDF?PHIOGET&KPID=02000600000A1FE193A91A69569B1205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65658,
+      "description": "City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/CITY%5FOF%5FJACKSON%5FINFRASTRUCTURE%5FIMPROVEMENTS%5F%28CREEK%5FCLEARING%29%5FCOJ%2DCC%2D03%5F%281%293.PDF?PHIOGET&KPID=02000600000A1FE193A91CF2F4BFB205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91219",
+      "category_description": "Serv ConstClearGrub"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:05:02.737309+00:00"
+}

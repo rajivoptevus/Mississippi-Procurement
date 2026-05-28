@@ -1,0 +1,35 @@
+{
+  "bid_id": 45248,
+  "smart_number": "244-20260415150159 MCSD",
+  "rfx_number": "3170035669",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Pre-Bid Conference: \n Date & Time: 5/5/2026 1:30 PM \n Description: A Pre-Proposal conference will be held at the site, Highland Elementary School, 330 Brame Road, Ridgeland, MS 39157, at 1:30 p.m. on May 5, 2026. \n\n----------------------------------------",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45248?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035669.PDF?ATTCGET&CLID=02000600000A1FE193A9002E5CA33205&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65653,
+      "description": "Adv_Legal_Serving Lines.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/244%2D20260415150159%20MCSD.PDF?PHIOGET&KPID=02000600000A1FE193A8F7D513609205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "16547",
+      "category_description": "Food/Caf\u00e9 Serv Cart"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:06:39.818567+00:00"
+}

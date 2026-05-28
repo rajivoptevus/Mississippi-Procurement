@@ -1,0 +1,35 @@
+{
+  "bid_id": 45178,
+  "smart_number": "9210-26-R-IFBD-00023",
+  "rfx_number": "3160008042",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "ALCORN STATE UNIVERSITY",
+  "description": "Invitation for Bid- Alcorn State University Walter Washington Roof Replacement, Lorman, MS",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-01 05:00 UTC",
+  "submission_date": "2026-06-04 05:00 UTC",
+  "opening_date": "2026-06-04 05:00 UTC",
+  "contact_name": "Mertha George",
+  "contact_email": "mgeorge@alcorn.edu",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45178?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008042.PDF?ATTCGET&CLID=02000600000A1FE19180E199C4EC4597&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65502,
+      "description": "advertiisement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20FOR%20BIDDING%20WALTER%20WASHINGTON%20ROOF.DOCX?PHIOGET&KPID=02000600000A1FE190CB1B8F11DFE301&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91473",
+      "category_description": "Serv ConsTradNewRoof"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:52:50.237835+00:00"
+}

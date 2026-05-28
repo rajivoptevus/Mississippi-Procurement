@@ -1,0 +1,35 @@
+{
+  "bid_id": 45176,
+  "smart_number": "9210-26-R-IFBD-00020",
+  "rfx_number": "3160008039",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "ALCORN STATE UNIVERSITY",
+  "description": "Invitation for Bid Alcorn State University Simmons Technology Roof Part 2 Replacement, Lorman, MS",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-01 05:00 UTC",
+  "submission_date": "2026-06-04 05:00 UTC",
+  "opening_date": "2026-06-04 05:00 UTC",
+  "contact_name": "Mertha George",
+  "contact_email": "mgeorge@alcorn.edu",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45176?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008039.PDF?ATTCGET&CLID=02000600000A1FE19180D159FCD24597&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65500,
+      "description": "advertisement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20FOR%20BIDDING%2DSIMMON%20ROOF%20PART%202.DOCX?PHIOGET&KPID=02000600000A1FE190CA7C204DC102FA&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91473",
+      "category_description": "Serv ConsTradNewRoof"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:52:55.831219+00:00"
+}

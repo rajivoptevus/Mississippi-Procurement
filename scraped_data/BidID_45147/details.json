@@ -1,0 +1,39 @@
+{
+  "bid_id": 45147,
+  "smart_number": "1301-26-R-RFIN-00006",
+  "rfx_number": "3150006814",
+  "rfx_status": "Open",
+  "rfx_type": "Req. for Information",
+  "agency": "MS DEPT OF HEALTH",
+  "description": "The MSDH proposes to purchase sufficient Clearlab kits and reagents to perform WGS\n(Whole Genome Sequencing) using the Clear Dx system & to sequence SARS-CoV-2 samples.\n\nSOLE SOURCE NOTICE FOR CLEARLAB KITS AND REAGENTS",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-28 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": "2026-05-14 05:00 UTC",
+  "contact_name": "Cynthia Brasher",
+  "contact_email": "CYNTHIA.BRASHER@MSDH.MS.GOV",
+  "contact_phone": "6015767011",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45147?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006814.PDF?ATTCGET&CLID=0200060000111FE18FFC999C78BED97C&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65408,
+      "description": "Note of Proposed Sole Source",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NOTICE%20OF%20PROPOSED%20SOLE%20SOURCE%20%230301%2D0134%20RFX%203150006814.DOCX?PHIOGET&KPID=0200060000111FE18FFC7BD5570D397A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "19336",
+      "category_description": "ClinLabDiagReagentsS"
+    },
+    {
+      "category_number": "96286",
+      "category_description": "Serv MiscNo2Transpor"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:08:29.040316+00:00"
+}

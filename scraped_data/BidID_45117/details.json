@@ -1,0 +1,75 @@
+{
+  "bid_id": 45117,
+  "smart_number": "1130-26-R-NBID-00017",
+  "rfx_number": "3130002321",
+  "rfx_status": "Open",
+  "rfx_type": "Negotiated Bid",
+  "agency": "",
+  "description": "Maintenance, Repair, Operation (MRO) Negotiated Contract",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-01 05:00 UTC",
+  "submission_date": "2026-06-15 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "Kizzie Shorter",
+  "contact_email": "KIZZIE.SHORTER@DFA.MS.GOV",
+  "contact_phone": "6013595222",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45117?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3130002321.PDF?ATTCGET&CLID=0200060000111FE18FD0A92341F19769&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65347,
+      "description": "Attachment A-Items",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%2D%20445%20MRO%20DISCOUNT%20SPREADSHEET.XLSX?PHIOGET&KPID=0200060000111FE18EB400EC017AD0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65348,
+      "description": "Attachment B- Dealers List MRO 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%2D%20DEALERS%20LIST%20MRO%202026.XLSX?PHIOGET&KPID=0200060000111FE18EB4018CF9E5F0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65349,
+      "description": "Attachment C- Price List MRO 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%2D%20PRICE%20LIST%20MRO%202026.XLSX?PHIOGET&KPID=0200060000111FE18EB40262183550DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65350,
+      "description": "Attachment D- Internal Catalog Spreadsheet MRO 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%2D%20INTERNAL%20CATALOG%20SPREADSHEET%20MRO%202026.XLSX?PHIOGET&KPID=0200060000111FE18EB403BAF1C7D0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65351,
+      "description": "Attachment E- Purchase Summary MRO 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%2D%20PURCHASE%20SUMMARY%20MRO%202026.XLSX?PHIOGET&KPID=0200060000111FE18EB404D354D8F0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65352,
+      "description": "Attachment F- Purchase Summary Attestation",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20F%2D%20PURCHASE%20SUMMARY%20ATTESTATION.PDF?PHIOGET&KPID=0200060000111FE18EB405F2C2E370DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65353,
+      "description": "Attachment G- SOMS Terms and Conditions",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20G%2D%20SOMS%20TERMS%20AND%20CONDITIONS.PDF?PHIOGET&KPID=0200060000111FE18EB407E0E6A130DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65354,
+      "description": "Attachment H- Sample Contract",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20H%2D%20SAMPLE%20CONTRACT.PDF?PHIOGET&KPID=0200060000111FE18EB412BBF9EA70DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65355,
+      "description": "Format and Guidelines for Proposals- MRO 2026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/FORMAT%20AND%20GUIDELINES%20FOR%20PROPOSALS%2D%20MRO%202026.PDF?PHIOGET&KPID=0200060000111FE18EB41403E4F4F0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "44500",
+      "category_description": "Hand Tools Acc&Supp"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:52:02.578022+00:00"
+}

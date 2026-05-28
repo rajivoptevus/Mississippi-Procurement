@@ -1,0 +1,35 @@
+{
+  "bid_id": 44991,
+  "smart_number": "9275-26-R-IFBD-00019",
+  "rfx_number": "3160008032",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "UNIV OF MS MEDICAL CENTER",
+  "description": "Bid Solicitation for IFB 3755 for SCPR426 ENT Lab Renovation",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-22 05:00 UTC",
+  "submission_date": "2026-05-21 05:00 UTC",
+  "opening_date": "2026-05-21 05:00 UTC",
+  "contact_name": "Wyatt Williamson",
+  "contact_email": "wlwilliamson@umc.edu",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/44991?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008032.PDF?ATTCGET&CLID=0200060000111FE18EB5CDEE405090FF&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65131,
+      "description": "IFB 3755 Advertisement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%203755%20SCPR426%20ENT%20LAB%20RENOVATION%20ADVERTISEMENT.PDF?PHIOGET&KPID=0200060000111FE18EB5CC27D84AD0FF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90900",
+      "category_description": "Serv BuildConstrNew"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:11:48.212845+00:00"
+}

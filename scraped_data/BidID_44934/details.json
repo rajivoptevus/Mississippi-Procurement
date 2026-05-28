@@ -1,0 +1,35 @@
+{
+  "bid_id": 44934,
+  "smart_number": "1130-26-R-IFBD-00058",
+  "rfx_number": "3160008004",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+  "description": "Bureau of Building\nGS# 424-099 Fire Alarm Improvements \nNorth Mississippi Regional Center\n",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-14 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": "2026-05-14 05:00 UTC",
+  "contact_name": "Kimberly Manning",
+  "contact_email": "KIMBERLY.MANNING@DFA.MS.GOV",
+  "contact_phone": "6013593621",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/44934?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008004.PDF?ATTCGET&CLID=02000600000A1FD18CD768DC57AB8C4B&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65001,
+      "description": "Bid Ad",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/424%2D099%20CONSTRUCTION%20BID%20AD%2005142026.PDF?PHIOGET&KPID=02000600000A1FD18BEE827220B52750&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90922",
+      "category_description": "Serv BuildConstNoRe"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:07:54.179132+00:00"
+}

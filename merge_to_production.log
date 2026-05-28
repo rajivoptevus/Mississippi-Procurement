@@ -1,0 +1,197 @@
+2026-05-21 18:35:42,713 [INFO] =================================================================
+2026-05-21 18:35:42,713 [INFO] Merge: experiment tables → production tables
+2026-05-21 18:35:42,721 [INFO]   Source filter : Mississippi Procurement Portal
+2026-05-21 18:35:42,721 [INFO]   Dry run       : True
+2026-05-21 18:35:42,721 [INFO]   Merge RFPs    : True
+2026-05-21 18:35:42,721 [INFO]   Merge Docs    : True
+2026-05-21 18:35:42,721 [INFO] =================================================================
+2026-05-21 18:35:44,740 [INFO] ✓ Connected to masterwyber@rfpwyer-postgresql.postgres.database.azure.com
+2026-05-21 18:35:44,740 [INFO] 
+── Merging RFPs: wyber_universal_rfps_expt_1 → wyber_universal_rfps ──
+2026-05-21 18:35:45,769 [INFO] RFPs — shared columns: 174
+2026-05-21 18:35:46,024 [INFO] RFPs — source rows to merge: 115
+2026-05-21 18:35:46,024 [INFO] [DRY RUN] Would merge 115 RFP rows into wyber_universal_rfps
+2026-05-21 18:35:46,024 [INFO] [DRY RUN] Conflict key: global_notice_id
+2026-05-21 18:35:46,024 [INFO] [DRY RUN] Update cols on conflict: 159
+2026-05-21 18:35:46,024 [INFO] [DRY RUN] Preserved cols on conflict: ['change_log', 'classification', 'classification_calculated', 'created_by_id', 'created_on', 'files_processed', 'is_vector', 'reasoning', 'relevant_company', 'storing_file_error', 'storing_vectors_error', 'vector_model', 'vector_updated_at', 'vectors_processed']
+2026-05-21 18:35:46,024 [INFO] RFPs done — 0 rows affected
+2026-05-21 18:35:46,024 [INFO] 
+── Merging Docs: wyber_universal_rfp_docs_expt_1 → wyber_universal_rfp_docs ──
+2026-05-21 18:35:46,769 [INFO] Docs — shared columns: 27
+2026-05-21 18:35:47,007 [INFO] Docs — source rows to merge: 249
+2026-05-21 18:35:47,007 [INFO] [DRY RUN] Would merge 249 Doc rows into wyber_universal_rfp_docs
+2026-05-21 18:35:47,007 [INFO] [DRY RUN] Conflict key: (global_notice_id, file_name)
+2026-05-21 18:35:47,007 [INFO] [DRY RUN] Shared cols: ['notice_id', 'source_name', 'state_code', 'file_name', 'file_path', 'blob_url', 'source_url', 'file_size_bytes', 'mime_type', 'is_text_extracted', 'extracted_text', 'extracted_pages', 'is_vector', 'vector_model', 'vector_updated_at', 'vector_chunk_count', 'is_deleted', 'created_at', 'updated_at', 'requires_login', 'restricted_reason', 'document_type', 'addendum_website_link', 'addendums_link', 'global_notice_id', 'is_analysed', 'source_file_url']
+2026-05-21 18:35:47,007 [INFO] Docs done — 0 rows affected
+2026-05-21 18:35:47,019 [INFO] 
+✓ Merge complete
+2026-05-21 18:44:15,441 [INFO] =================================================================
+2026-05-21 18:44:15,441 [INFO] Merge: experiment tables → production tables
+2026-05-21 18:44:15,441 [INFO]   Source filter : Mississippi Procurement Portal
+2026-05-21 18:44:15,441 [INFO]   Dry run       : True
+2026-05-21 18:44:15,441 [INFO]   Merge RFPs    : True
+2026-05-21 18:44:15,441 [INFO]   Merge Docs    : True
+2026-05-21 18:44:15,441 [INFO] =================================================================
+2026-05-21 18:44:17,402 [INFO] ✓ Connected to masterwyber@rfpwyer-postgresql.postgres.database.azure.com
+2026-05-21 18:44:17,402 [INFO] 
+── Merging RFPs: wyber_universal_rfps_expt_1 → wyber_universal_rfps ──
+2026-05-21 18:44:18,438 [INFO] RFPs — shared columns: 174
+2026-05-21 18:44:18,688 [INFO] RFPs — source rows to merge: 115
+2026-05-21 18:44:18,688 [INFO] [DRY RUN] Would merge 115 RFP rows into wyber_universal_rfps
+2026-05-21 18:44:18,704 [INFO] [DRY RUN] Conflict key: global_notice_id
+2026-05-21 18:44:18,704 [INFO] [DRY RUN] Update cols on conflict: 159
+2026-05-21 18:44:18,705 [INFO] [DRY RUN] Preserved cols on conflict: ['change_log', 'classification', 'classification_calculated', 'created_by_id', 'created_on', 'files_processed', 'is_vector', 'reasoning', 'relevant_company', 'storing_file_error', 'storing_vectors_error', 'vector_model', 'vector_updated_at', 'vectors_processed']
+2026-05-21 18:44:18,705 [INFO] RFPs done — 0 rows affected
+2026-05-21 18:44:18,705 [INFO] 
+── Merging Docs: wyber_universal_rfp_docs_expt_1 → wyber_universal_rfp_docs ──
+2026-05-21 18:44:19,458 [INFO] Docs — shared columns: 27
+2026-05-21 18:44:19,708 [INFO] Docs — source rows to merge: 249
+2026-05-21 18:44:19,708 [INFO] [DRY RUN] Would merge 249 Doc rows into wyber_universal_rfp_docs
+2026-05-21 18:44:19,708 [INFO] [DRY RUN] Conflict key: (global_notice_id, file_name)
+2026-05-21 18:44:19,708 [INFO] [DRY RUN] Shared cols: ['notice_id', 'source_name', 'state_code', 'file_name', 'file_path', 'blob_url', 'source_url', 'file_size_bytes', 'mime_type', 'is_text_extracted', 'extracted_text', 'extracted_pages', 'is_vector', 'vector_model', 'vector_updated_at', 'vector_chunk_count', 'is_deleted', 'created_at', 'updated_at', 'requires_login', 'restricted_reason', 'document_type', 'addendum_website_link', 'addendums_link', 'global_notice_id', 'is_analysed', 'source_file_url']
+2026-05-21 18:44:19,708 [INFO] Docs done — 0 rows affected
+2026-05-21 18:44:19,708 [INFO] 
+✓ Merge complete
+2026-05-21 18:45:00,240 [INFO] =================================================================
+2026-05-21 18:45:00,240 [INFO] Merge: experiment tables → production tables
+2026-05-21 18:45:00,240 [INFO]   Source filter : Mississippi Procurement Portal
+2026-05-21 18:45:00,240 [INFO]   Dry run       : False
+2026-05-21 18:45:00,240 [INFO]   Merge RFPs    : True
+2026-05-21 18:45:00,240 [INFO]   Merge Docs    : True
+2026-05-21 18:45:00,240 [INFO] =================================================================
+2026-05-21 18:45:02,252 [INFO] ✓ Connected to masterwyber@rfpwyer-postgresql.postgres.database.azure.com
+2026-05-21 18:45:02,252 [INFO] 
+── Merging RFPs: wyber_universal_rfps_expt_1 → wyber_universal_rfps ──
+2026-05-21 18:45:03,312 [INFO] RFPs — shared columns: 174
+2026-05-21 18:45:03,569 [INFO] RFPs — source rows to merge: 115
+2026-05-21 18:45:04,327 [ERROR] RFP merge failed: multiple assignments to same column "modified_on"
+
+2026-05-21 18:45:04,327 [ERROR] Merge failed: multiple assignments to same column "modified_on"
+
+2026-05-21 18:45:35,707 [INFO] =================================================================
+2026-05-21 18:45:35,707 [INFO] Merge: experiment tables → production tables
+2026-05-21 18:45:35,707 [INFO]   Source filter : (all sources)
+2026-05-21 18:45:35,707 [INFO]   Dry run       : False
+2026-05-21 18:45:35,707 [INFO]   Merge RFPs    : True
+2026-05-21 18:45:35,707 [INFO]   Merge Docs    : True
+2026-05-21 18:45:35,707 [INFO] =================================================================
+2026-05-21 18:45:37,706 [INFO] ✓ Connected to masterwyber@rfpwyer-postgresql.postgres.database.azure.com
+2026-05-21 18:45:37,706 [INFO] 
+── Merging RFPs: wyber_universal_rfps_expt_1 → wyber_universal_rfps ──
+2026-05-21 18:45:38,778 [INFO] RFPs — shared columns: 174
+2026-05-21 18:45:39,034 [INFO] RFPs — source rows to merge: 115
+2026-05-21 18:45:39,808 [ERROR] RFP merge failed: multiple assignments to same column "modified_on"
+
+2026-05-21 18:45:39,808 [ERROR] Merge failed: multiple assignments to same column "modified_on"
+
+2026-05-21 18:47:16,671 [INFO] =================================================================
+2026-05-21 18:47:16,671 [INFO] Merge: experiment tables → production tables
+2026-05-21 18:47:16,671 [INFO]   Source filter : Mississippi Procurement Portal
+2026-05-21 18:47:16,671 [INFO]   Dry run       : False
+2026-05-21 18:47:16,671 [INFO]   Merge RFPs    : True
+2026-05-21 18:47:16,671 [INFO]   Merge Docs    : True
+2026-05-21 18:47:16,671 [INFO] =================================================================
+2026-05-21 18:47:18,670 [INFO] ✓ Connected to masterwyber@rfpwyer-postgresql.postgres.database.azure.com
+2026-05-21 18:47:18,670 [INFO] 
+── Merging RFPs: wyber_universal_rfps_expt_1 → wyber_universal_rfps ──
+2026-05-21 18:47:19,707 [INFO] RFPs — shared columns: 174
+2026-05-21 18:47:19,957 [INFO] RFPs — source rows to merge: 115
+2026-05-21 18:47:20,723 [INFO] RFPs — 115 rows affected (inserted + updated)
+2026-05-21 18:47:21,225 [INFO] RFPs done — 115 rows affected
+2026-05-21 18:47:21,225 [INFO] 
+── Merging Docs: wyber_universal_rfp_docs_expt_1 → wyber_universal_rfp_docs ──
+2026-05-21 18:47:21,978 [INFO] Docs — shared columns: 27
+2026-05-21 18:47:22,225 [INFO] Docs — source rows to merge: 249
+2026-05-21 18:47:22,757 [INFO] Docs — 249 rows affected (inserted + updated)
+2026-05-21 18:47:22,757 [INFO] Docs done — 249 rows affected
+2026-05-21 18:47:22,757 [INFO] 
+── Verification ──────────────────────────────────────
+2026-05-21 18:47:23,792 [INFO]   wyber_universal_rfps_expt_1              → 115 rows
+2026-05-21 18:47:23,792 [INFO]   wyber_universal_rfps                     → 115 rows (this source) / 25846 total
+2026-05-21 18:47:24,940 [INFO]   wyber_universal_rfp_docs_expt_1          → 249 rows
+2026-05-21 18:47:24,940 [INFO]   wyber_universal_rfp_docs                 → 249 rows (this source) / 54773 total
+2026-05-21 18:47:24,940 [ERROR] Merge failed: tuple index out of range
+2026-05-21 18:48:29,288 [INFO] =================================================================
+2026-05-21 18:48:29,288 [INFO] Merge: experiment tables → production tables
+2026-05-21 18:48:29,288 [INFO]   Source filter : Mississippi Procurement Portal
+2026-05-21 18:48:29,288 [INFO]   Dry run       : False
+2026-05-21 18:48:29,288 [INFO]   Merge RFPs    : True
+2026-05-21 18:48:29,288 [INFO]   Merge Docs    : True
+2026-05-21 18:48:29,288 [INFO] =================================================================
+2026-05-21 18:48:31,363 [INFO] ✓ Connected to masterwyber@rfpwyer-postgresql.postgres.database.azure.com
+2026-05-21 18:48:31,363 [INFO] 
+── Merging RFPs: wyber_universal_rfps_expt_1 → wyber_universal_rfps ──
+2026-05-21 18:48:32,390 [INFO] RFPs — shared columns: 174
+2026-05-21 18:48:32,637 [INFO] RFPs — source rows to merge: 115
+2026-05-21 18:48:33,390 [INFO] RFPs — 115 rows affected (inserted + updated)
+2026-05-21 18:48:33,390 [INFO] RFPs done — 115 rows affected
+2026-05-21 18:48:33,390 [INFO] 
+── Merging Docs: wyber_universal_rfp_docs_expt_1 → wyber_universal_rfp_docs ──
+2026-05-21 18:48:34,392 [INFO] Docs — shared columns: 27
+2026-05-21 18:48:34,638 [INFO] Docs — source rows to merge: 249
+2026-05-21 18:48:35,155 [INFO] Docs — 249 rows affected (inserted + updated)
+2026-05-21 18:48:35,155 [INFO] Docs done — 249 rows affected
+2026-05-21 18:48:35,155 [INFO] 
+── Verification ──────────────────────────────────────
+2026-05-21 18:48:36,171 [INFO]   wyber_universal_rfps_expt_1              → 115 rows
+2026-05-21 18:48:36,171 [INFO]   wyber_universal_rfps                     → 115 rows (this source) / 25849 total
+2026-05-21 18:48:36,937 [INFO]   wyber_universal_rfp_docs_expt_1          → 249 rows
+2026-05-21 18:48:36,937 [INFO]   wyber_universal_rfp_docs                 → 249 rows (this source) / 54776 total
+2026-05-21 18:48:36,937 [ERROR] Merge failed: tuple index out of range
+2026-05-21 20:07:37,597 [INFO] =================================================================
+2026-05-21 20:07:37,598 [INFO] Merge: experiment tables → production tables
+2026-05-21 20:07:37,600 [INFO]   Source filter : (all sources)
+2026-05-21 20:07:37,600 [INFO]   Dry run       : True
+2026-05-21 20:07:37,601 [INFO]   Merge RFPs    : True
+2026-05-21 20:07:37,601 [INFO]   Merge Docs    : True
+2026-05-21 20:07:37,601 [INFO] =================================================================
+2026-05-21 20:07:39,829 [INFO] ✓ Connected to masterwyber@rfpwyer-postgresql.postgres.database.azure.com
+2026-05-21 20:07:39,829 [INFO] 
+── Merging RFPs: wyber_universal_rfps_expt_1 → wyber_universal_rfps ──
+2026-05-21 20:07:40,614 [INFO] RFPs — shared columns: 174
+2026-05-21 20:07:40,893 [INFO] RFPs — source rows to merge: 115
+2026-05-21 20:07:40,893 [INFO] [DRY RUN] Would merge 115 RFP rows into wyber_universal_rfps
+2026-05-21 20:07:40,893 [INFO] [DRY RUN] Conflict key: global_notice_id
+2026-05-21 20:07:40,893 [INFO] [DRY RUN] Update cols on conflict: 158
+2026-05-21 20:07:40,893 [INFO] [DRY RUN] Preserved cols on conflict: ['change_log', 'classification', 'classification_calculated', 'created_by_id', 'created_on', 'files_processed', 'is_vector', 'reasoning', 'relevant_company', 'storing_file_error', 'storing_vectors_error', 'vector_model', 'vector_updated_at', 'vectors_processed']
+2026-05-21 20:07:40,893 [INFO] RFPs done — 0 rows affected
+2026-05-21 20:07:40,893 [INFO] 
+── Merging Docs: wyber_universal_rfp_docs_expt_1 → wyber_universal_rfp_docs ──
+2026-05-21 20:07:41,427 [INFO] Docs — shared columns: 27
+2026-05-21 20:07:41,676 [INFO] Docs — source rows to merge: 249
+2026-05-21 20:07:41,676 [INFO] [DRY RUN] Would merge 249 Doc rows into wyber_universal_rfp_docs
+2026-05-21 20:07:41,676 [INFO] [DRY RUN] Conflict key: (global_notice_id, file_name)
+2026-05-21 20:07:41,676 [INFO] [DRY RUN] Shared cols: ['notice_id', 'source_name', 'state_code', 'file_name', 'file_path', 'blob_url', 'source_url', 'file_size_bytes', 'mime_type', 'is_text_extracted', 'extracted_text', 'extracted_pages', 'is_vector', 'vector_model', 'vector_updated_at', 'vector_chunk_count', 'is_deleted', 'created_at', 'updated_at', 'requires_login', 'restricted_reason', 'document_type', 'addendum_website_link', 'addendums_link', 'global_notice_id', 'is_analysed', 'source_file_url']
+2026-05-21 20:07:41,676 [INFO] Docs done — 0 rows affected
+2026-05-21 20:07:41,676 [INFO] 
+✓ Merge complete
+2026-05-21 20:07:57,054 [INFO] =================================================================
+2026-05-21 20:07:57,054 [INFO] Merge: experiment tables → production tables
+2026-05-21 20:07:57,054 [INFO]   Source filter : (all sources)
+2026-05-21 20:07:57,054 [INFO]   Dry run       : False
+2026-05-21 20:07:57,054 [INFO]   Merge RFPs    : True
+2026-05-21 20:07:57,054 [INFO]   Merge Docs    : True
+2026-05-21 20:07:57,054 [INFO] =================================================================
+2026-05-21 20:07:58,989 [INFO] ✓ Connected to masterwyber@rfpwyer-postgresql.postgres.database.azure.com
+2026-05-21 20:07:58,989 [INFO] 
+── Merging RFPs: wyber_universal_rfps_expt_1 → wyber_universal_rfps ──
+2026-05-21 20:07:59,789 [INFO] RFPs — shared columns: 174
+2026-05-21 20:08:00,063 [INFO] RFPs — source rows to merge: 115
+2026-05-21 20:08:00,886 [INFO] RFPs — 115 rows affected (inserted + updated)
+2026-05-21 20:08:00,886 [INFO] RFPs done — 115 rows affected
+2026-05-21 20:08:00,886 [INFO] 
+── Merging Docs: wyber_universal_rfp_docs_expt_1 → wyber_universal_rfp_docs ──
+2026-05-21 20:08:01,672 [INFO] Docs — shared columns: 27
+2026-05-21 20:08:01,930 [INFO] Docs — source rows to merge: 249
+2026-05-21 20:08:02,483 [INFO] Docs — 249 rows affected (inserted + updated)
+2026-05-21 20:08:02,483 [INFO] Docs done — 249 rows affected
+2026-05-21 20:08:02,483 [INFO] 
+── Verification ──────────────────────────────────────
+2026-05-21 20:08:03,750 [INFO]   wyber_universal_rfps_expt_1              → 115 rows
+2026-05-21 20:08:03,750 [INFO]   wyber_universal_rfps                     → 26015 rows (this source) / 26015 total
+2026-05-21 20:08:05,077 [INFO]   wyber_universal_rfp_docs_expt_1          → 249 rows
+2026-05-21 20:08:05,077 [INFO]   wyber_universal_rfp_docs                 → 56102 rows (this source) / 56102 total
+2026-05-21 20:08:05,866 [INFO]   ✓ No SAP blob_urls in wyber_universal_rfp_docs
+2026-05-21 20:08:06,166 [WARNING]   ⚠ 25900 RFPs with unexpected global_notice_id format
+2026-05-21 20:08:06,166 [INFO] 
+✓ Merge complete

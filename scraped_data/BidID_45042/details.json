@@ -1,0 +1,43 @@
+{
+  "bid_id": 45042,
+  "smart_number": "313-20260407082919 PHWD",
+  "rfx_number": "3170035489",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "The Pat Harrison Waterway District, Mississippi, will receive bids for the Flint Creek Water Park Horse Trail, \nFederal Aid Project No. STP-0282-00(012) LPA108818/701000 no later than 1:00 P.M., Local Time, May 19, \n2026, at the Pat Harrison Waterway Dist",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-17 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45042?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035489.PDF?ATTCGET&CLID=02000600000A1FD18ED17875521C17BE&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65235,
+      "description": "4-901 Advertisement.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/313%2D20260407082919%20PHWD.PDF?PHIOGET&KPID=02000600000A1FD18CD3686465792C1A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90930",
+      "category_description": "Serv BuildConstOther"
+    },
+    {
+      "category_number": "91226",
+      "category_description": "Serv ConstHikeBike"
+    },
+    {
+      "category_number": "98863",
+      "category_description": "Serv RecParkPrkAreCo"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:07:26.617857+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "bid_id": 45267,
+  "smart_number": "75-20260421113102 UM",
+  "rfx_number": "3170035696",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "NOTICE IS HEREBY GIVEN THAT SEALED BIDS WILL BE RECEIVED AT THE UNIVERSITY OF \nMISSISSIPPI, OFFICE OF PROCUREMENT SERVICES, #164 JEANETTE PHILLIPS DRIVE, UNIVERSITY, \nMS 38677 ON THURSDAY, May 14, 2026, UNTIL 1:00 PM AND OPENED IMMEDIATELY \nTHEREAFTER FOR",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45267?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035696.PDF?ATTCGET&CLID=0200060000111FD193ADC5042AAD6D9B&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65720,
+      "description": "ADVERTISEMENT BF 1272.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/75%2D20260421113102%20UM.PDF?PHIOGET&KPID=0200060000111FD193ADB38F1B9DCD9B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "20651",
+      "category_description": "CPU Mini-Memory, Pro"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:55:08.799638+00:00"
+}

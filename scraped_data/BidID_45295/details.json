@@ -1,0 +1,35 @@
+{
+  "bid_id": 45295,
+  "smart_number": "339-20260513151333 Oktibbeha",
+  "rfx_number": "3170035721",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "PLANS AND SPECIFICATIONS are on file in the Office of the Chancery Clerk of Oktibbeha County, Clyde Pritchard , the LSBP Engineer's office and \nthe Office of the State Aid Engineer, 412 E. Woodrow Wilson Avenue, Jackson, Mississippi. This project shall be",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-13 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45295?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035721.PDF?ATTCGET&CLID=02000600000A1FE193E1970C4956545E&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65796,
+      "description": "Section 900 corrected.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/339%2D20260513151333%20OKTIBBEHA.PDF?PHIOGET&KPID=0200060000111FD193E18E89AF23F006&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91366",
+      "category_description": "Serv ConsHeavMainBrd"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:10.015412+00:00"
+}

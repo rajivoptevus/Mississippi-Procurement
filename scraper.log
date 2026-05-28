@@ -1,0 +1,1607 @@
+2026-05-14 15:19:50,864 [INFO] ============================================================
+2026-05-14 15:19:50,864 [INFO] Mississippi Procurement Portal Scraper
+2026-05-14 15:19:50,864 [INFO] Output : C:\Scraping\Mississippi-Procurement\scraped_data
+2026-05-14 15:19:50,864 [INFO] ============================================================
+2026-05-14 15:19:50,864 [INFO]   Already downloaded: 0 files
+2026-05-14 15:19:50,864 [INFO] 
+── Phase 1: Fetching all bids ──
+2026-05-14 15:19:50,864 [INFO]   Fetching all bids from https://www.ms.gov/dfa/contract_bid_search/Bid/BidData?AppId=1
+2026-05-14 15:19:54,136 [ERROR]   Failed to fetch bids: 500 Server Error: Internal Server Error for url: https://www.ms.gov/dfa/contract_bid_search/Bid/BidData?AppId=1
+2026-05-14 15:19:54,136 [INFO]   Direct POST failed — trying Playwright fallback...
+2026-05-14 15:20:00,296 [INFO]   Loading listing page via Playwright...
+2026-05-14 15:20:08,429 [INFO]   Intercepted BidData: 92 rows
+2026-05-14 15:20:11,986 [INFO]   Total bids found: 92
+2026-05-14 15:20:11,986 [INFO]   Extracted 92 BidIDs
+2026-05-14 15:20:11,986 [INFO]   Saved listing: scraped_data\bid_listing.json
+2026-05-14 15:20:11,986 [INFO] 
+── Phase 2+3: Details + Downloads for 92 bids ──
+2026-05-14 15:20:11,986 [INFO] 
+  [1/92] BidID 45288 | ETA ~0 min
+2026-05-14 15:20:13,286 [INFO]     1601-26-R-RFIN-00054 — 
+2026-05-14 15:20:13,286 [INFO]     Contact: Valerie Luckett | VALERIE.LUCKETT@ITS.MS.GOV
+2026-05-14 15:20:13,286 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:20:13,286 [INFO]       [1/1] → 001_Sole Source No. 5002 URL.pdf
+2026-05-14 15:20:15,014 [INFO]         ✓ 001_Sole Source No. 5002 URL.pdf (43,412 bytes)
+2026-05-14 15:20:15,470 [INFO] 
+  [2/92] BidID 45287 | ETA ~3 min
+2026-05-14 15:20:16,183 [INFO]     1601-26-R-RFIN-00053 — 
+2026-05-14 15:20:16,184 [INFO]     Contact: Valerie Luckett | VALERIE.LUCKETT@ITS.MS.GOV
+2026-05-14 15:20:16,184 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:20:16,184 [INFO]       [1/1] → 001_Sole Source No. 4708 URL.pdf
+2026-05-14 15:20:17,623 [INFO]         ✓ 001_Sole Source No. 4708 URL.pdf (43,412 bytes)
+2026-05-14 15:20:18,315 [INFO] 
+  [3/92] BidID 45209 | ETA ~3 min
+2026-05-14 15:20:19,009 [INFO]     1130-26-R-RFPR-00004-V02 — 
+2026-05-14 15:20:19,009 [INFO]     Contact: Ramona Jones | RAMONA.JONES@DFA.MS.GOV
+2026-05-14 15:20:19,009 [INFO]     Downloading 20 attachment(s)...
+2026-05-14 15:20:19,009 [INFO]       [1/20] → 001_Attachment A - RFP Terms and Conditions.pdf
+2026-05-14 15:20:22,888 [INFO]         ✓ 001_Attachment A - RFP Terms and Conditions.pdf (282,288 bytes)
+2026-05-14 15:20:22,891 [INFO]       [2/20] → 002_Attachment B - Scope of Work.pdf
+2026-05-14 15:20:25,082 [INFO]         ✓ 002_Attachment B - Scope of Work.pdf (284,906 bytes)
+2026-05-14 15:20:25,086 [INFO]       [3/20] → 003_Attachment C - RFP Evaluation Plan.pdf
+2026-05-14 15:20:28,818 [INFO]         ✓ 003_Attachment C - RFP Evaluation Plan.pdf (373,951 bytes)
+2026-05-14 15:20:28,821 [INFO]       [4/20] → 004_Attachment D - Sample Master Agreement.pdf
+2026-05-14 15:20:36,417 [INFO]         ✓ 004_Attachment D - Sample Master Agreement.pdf (988,238 bytes)
+2026-05-14 15:20:36,430 [INFO]       [5/20] → 005_Attachment D - Sample Master Agreement_Appendix1Redline.docx
+2026-05-14 15:20:41,384 [INFO]         ✓ 005_Attachment D - Sample Master Agreement_Appendix1Redline.docx (631,206 bytes)
+2026-05-14 15:20:41,386 [INFO]       [6/20] → 006_Attachment E - Participation Information.pdf
+2026-05-14 15:20:44,002 [INFO]         ✓ 006_Attachment E - Participation Information.pdf (193,958 bytes)
+2026-05-14 15:20:44,004 [INFO]       [7/20] → 007_Attachment F - Protest Information.pdf
+2026-05-14 15:20:46,150 [INFO]         ✓ 007_Attachment F - Protest Information.pdf (222,035 bytes)
+2026-05-14 15:20:46,153 [INFO]       [8/20] → 008_Attachment G - Offeror Information, Acknowledgements, and Certif.pdf
+2026-05-14 15:20:49,156 [INFO]         ✓ 008_Attachment G - Offeror Information, Acknowledgements, and Certif.pdf (249,626 bytes)
+2026-05-14 15:20:49,156 [INFO]       [9/20] → 009_Attachment G - Offeror Information, Acknowledgements, and Certif.docx
+2026-05-14 15:20:53,925 [INFO]         ✓ 009_Attachment G - Offeror Information, Acknowledgements, and Certif.docx (571,482 bytes)
+2026-05-14 15:20:53,925 [INFO]       [10/20] → 010_Attachment H - Offeror Response Worksheet.docx
+2026-05-14 15:20:56,527 [INFO]         ✓ 010_Attachment H - Offeror Response Worksheet.docx (567,100 bytes)
+2026-05-14 15:20:56,527 [INFO]       [11/20] → 011_Attachment H - Offeror Response Worksheet.pdf
+2026-05-14 15:20:58,439 [INFO]         ✓ 011_Attachment H - Offeror Response Worksheet.pdf (350,110 bytes)
+2026-05-14 15:20:58,440 [INFO]       [12/20] → 012_Attachment I - Cost Proposal.xlsx
+2026-05-14 15:20:59,754 [INFO]         ✓ 012_Attachment I - Cost Proposal.xlsx (22,947 bytes)
+2026-05-14 15:20:59,756 [INFO]       [13/20] → 013_Attachment J -  Proposed Modifications to Sample Master Agreemen.docx
+2026-05-14 15:21:06,068 [INFO]         ✓ 013_Attachment J -  Proposed Modifications to Sample Master Agreemen.docx (563,853 bytes)
+2026-05-14 15:21:06,068 [INFO]       [14/20] → 014_Attachment J -  Proposed Modifications to Sample Master Agreemen.pdf
+2026-05-14 15:21:08,779 [INFO]         ✓ 014_Attachment J -  Proposed Modifications to Sample Master Agreemen.pdf (238,662 bytes)
+2026-05-14 15:21:08,779 [INFO]       [15/20] → 015_Attachment K - Claim of Business Confidentiality.docx
+2026-05-14 15:21:13,862 [INFO]         ✓ 015_Attachment K - Claim of Business Confidentiality.docx (563,837 bytes)
+2026-05-14 15:21:13,862 [INFO]       [16/20] → 016_Attachment K- Claim of Business Confidentiality word doc.pdf
+2026-05-14 15:21:16,754 [INFO]         ✓ 016_Attachment K- Claim of Business Confidentiality word doc.pdf (239,671 bytes)
+2026-05-14 15:21:16,761 [INFO]       [17/20] → 017_NASPO ValuePoint State of MS Fire Truck and Fire Apparatus Reque.pdf
+2026-05-14 15:21:21,116 [INFO]         ✓ 017_NASPO ValuePoint State of MS Fire Truck and Fire Apparatus Reque.pdf (405,830 bytes)
+2026-05-14 15:21:21,116 [INFO]       [18/20] → 018_NASPO ValuePoint State of MS Fire Truck and Fire Apparatus RFP 3.pdf
+2026-05-14 15:21:23,110 [INFO]         ✓ 018_NASPO ValuePoint State of MS Fire Truck and Fire Apparatus RFP 3.pdf (133,646 bytes)
+2026-05-14 15:21:23,110 [INFO]       [19/20] → 019_States with ITP.zip
+2026-05-14 15:21:49,828 [INFO]         ✓ 019_States with ITP.zip (4,092,964 bytes)
+2026-05-14 15:21:49,828 [INFO]       [20/20] → 020_Supplier Self Service eLearning Instructions.zip
+2026-05-14 15:22:01,480 [INFO]         ✓ 020_Supplier Self Service eLearning Instructions.zip (2,086,856 bytes)
+2026-05-14 15:22:01,794 [INFO] 
+  [4/92] BidID 45117 | ETA ~40 min
+2026-05-14 15:22:02,579 [INFO]     1130-26-R-NBID-00017 — 
+2026-05-14 15:22:02,579 [INFO]     Contact: Kizzie Shorter | KIZZIE.SHORTER@DFA.MS.GOV
+2026-05-14 15:22:02,579 [INFO]     Downloading 9 attachment(s)...
+2026-05-14 15:22:02,580 [INFO]       [1/9] → 001_Attachment A-Items.xlsx
+2026-05-14 15:22:03,983 [INFO]         ✓ 001_Attachment A-Items.xlsx (18,162 bytes)
+2026-05-14 15:22:03,983 [INFO]       [2/9] → 002_Attachment B- Dealers List MRO 2026.xlsx
+2026-05-14 15:22:05,342 [INFO]         ✓ 002_Attachment B- Dealers List MRO 2026.xlsx (12,407 bytes)
+2026-05-14 15:22:05,342 [INFO]       [3/9] → 003_Attachment C- Price List MRO 2026.xlsx
+2026-05-14 15:22:06,652 [INFO]         ✓ 003_Attachment C- Price List MRO 2026.xlsx (24,851 bytes)
+2026-05-14 15:22:06,652 [INFO]       [4/9] → 004_Attachment D- Internal Catalog Spreadsheet MRO 2026.xlsx
+2026-05-14 15:22:10,529 [INFO]         ✓ 004_Attachment D- Internal Catalog Spreadsheet MRO 2026.xlsx (431,754 bytes)
+2026-05-14 15:22:10,534 [INFO]       [5/9] → 005_Attachment E- Purchase Summary MRO 2026.xlsx
+2026-05-14 15:22:11,997 [INFO]         ✓ 005_Attachment E- Purchase Summary MRO 2026.xlsx (10,673 bytes)
+2026-05-14 15:22:11,999 [INFO]       [6/9] → 006_Attachment F- Purchase Summary Attestation.pdf
+2026-05-14 15:22:13,385 [INFO]         ✓ 006_Attachment F- Purchase Summary Attestation.pdf (82,206 bytes)
+2026-05-14 15:22:13,385 [INFO]       [7/9] → 007_Attachment G- SOMS Terms and Conditions.pdf
+2026-05-14 15:22:17,804 [INFO]         ✓ 007_Attachment G- SOMS Terms and Conditions.pdf (479,008 bytes)
+2026-05-14 15:22:17,808 [INFO]       [8/9] → 008_Attachment H- Sample Contract.pdf
+2026-05-14 15:22:21,345 [INFO]         ✓ 008_Attachment H- Sample Contract.pdf (429,313 bytes)
+2026-05-14 15:22:21,347 [INFO]       [9/9] → 009_Format and Guidelines for Proposals- MRO 2026.pdf
+2026-05-14 15:22:24,938 [INFO]         ✓ 009_Format and Guidelines for Proposals- MRO 2026.pdf (421,357 bytes)
+2026-05-14 15:22:25,334 [INFO] 
+  [5/92] BidID 45150 | ETA ~39 min
+2026-05-14 15:22:26,029 [INFO]     1130-26-R-NBID-00016-V01 — 
+2026-05-14 15:22:26,030 [INFO]     Contact: Lashun Smith | LASHUN.SMITH@DFA.MS.GOV
+2026-05-14 15:22:26,030 [INFO]     Downloading 7 attachment(s)...
+2026-05-14 15:22:26,030 [INFO]       [1/7] → 001_Attachment B- Price List Toner 2026.xlsx
+2026-05-14 15:22:27,550 [INFO]         ✓ 001_Attachment B- Price List Toner 2026.xlsx (18,756 bytes)
+2026-05-14 15:22:27,553 [INFO]       [2/7] → 002_Attachment C- Internal Catalog Spreadsheet Toner 2026.xlsx
+2026-05-14 15:22:32,538 [INFO]         ✓ 002_Attachment C- Internal Catalog Spreadsheet Toner 2026.xlsx (425,642 bytes)
+2026-05-14 15:22:32,543 [INFO]       [3/7] → 003_Attachment D- Purchase Summary Toner 2026.xlsx
+2026-05-14 15:22:34,270 [INFO]         ✓ 003_Attachment D- Purchase Summary Toner 2026.xlsx (10,679 bytes)
+2026-05-14 15:22:34,270 [INFO]       [4/7] → 004_Attachment E- Purchase Summary Attestation.pdf
+2026-05-14 15:22:35,684 [INFO]         ✓ 004_Attachment E- Purchase Summary Attestation.pdf (87,025 bytes)
+2026-05-14 15:22:35,688 [INFO]       [5/7] → 005_Attachment F- SOMS Terms and Conditions.pdf
+2026-05-14 15:22:38,917 [INFO]         ✓ 005_Attachment F- SOMS Terms and Conditions.pdf (481,387 bytes)
+2026-05-14 15:22:38,917 [INFO]       [6/7] → 006_Format and Guidelines for Proposals-Toner 2026.pdf
+2026-05-14 15:22:41,455 [INFO]         ✓ 006_Format and Guidelines for Proposals-Toner 2026.pdf (432,968 bytes)
+2026-05-14 15:22:41,471 [INFO]       [7/7] → 007_Format and Guidelines for Proposals-Toner 2026 Amended.pdf
+2026-05-14 15:22:43,868 [INFO]         ✓ 007_Format and Guidelines for Proposals-Toner 2026 Amended.pdf (434,246 bytes)
+2026-05-14 15:22:44,554 [INFO] 
+  [6/92] BidID 40954 | ETA ~36 min
+2026-05-14 15:22:45,268 [INFO]     1601-25-R-RFPR-00017 — 
+2026-05-14 15:22:45,268 [INFO]     Contact: Valerie Luckett | VALERIE.LUCKETT@ITS.MS.GOV
+2026-05-14 15:22:45,268 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:22:45,269 [INFO]       [1/1] → 001_RFP No. 4599 URL.pdf
+2026-05-14 15:22:46,639 [INFO]         ✓ 001_RFP No. 4599 URL.pdf (41,845 bytes)
+2026-05-14 15:22:47,275 [INFO] 
+  [7/92] BidID 38017 | ETA ~31 min
+2026-05-14 15:22:47,951 [INFO]     1601-25-R-RFPR-00005 — 
+2026-05-14 15:22:47,951 [INFO]     Contact: Valerie Luckett | VALERIE.LUCKETT@ITS.MS.GOV
+2026-05-14 15:22:47,951 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:22:47,951 [INFO]       [1/1] → 001_General RFP No. 3850 URL.pdf
+2026-05-14 15:22:49,233 [INFO]         ✓ 001_General RFP No. 3850 URL.pdf (41,845 bytes)
+2026-05-14 15:22:49,569 [INFO] 
+  [8/92] BidID 45178 | ETA ~28 min
+2026-05-14 15:22:50,237 [INFO]     9210-26-R-IFBD-00023 — ALCORN STATE UNIVERSITY
+2026-05-14 15:22:50,237 [INFO]     Contact: Mertha George | mgeorge@alcorn.edu
+2026-05-14 15:22:50,237 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:22:50,237 [INFO]       [1/1] → 001_advertiisement.docx
+2026-05-14 15:22:51,899 [INFO]         ✓ 001_advertiisement.docx (16,424 bytes)
+2026-05-14 15:22:52,566 [INFO] 
+  [9/92] BidID 45177 | ETA ~25 min
+2026-05-14 15:22:53,238 [INFO]     9210-26-R-IFBD-00022 — ALCORN STATE UNIVERSITY
+2026-05-14 15:22:53,238 [INFO]     Contact: Mertha George | mgeorge@alcorn.edu
+2026-05-14 15:22:53,238 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:22:53,238 [INFO]       [1/1] → 001_advertisement.docx
+2026-05-14 15:22:54,604 [INFO]         ✓ 001_advertisement.docx (16,416 bytes)
+2026-05-14 15:22:55,168 [INFO] 
+  [10/92] BidID 45176 | ETA ~22 min
+2026-05-14 15:22:55,833 [INFO]     9210-26-R-IFBD-00020 — ALCORN STATE UNIVERSITY
+2026-05-14 15:22:55,833 [INFO]     Contact: Mertha George | mgeorge@alcorn.edu
+2026-05-14 15:22:55,833 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:22:55,833 [INFO]       [1/1] → 001_advertisement.docx
+2026-05-14 15:22:57,235 [INFO]         ✓ 001_advertisement.docx (16,492 bytes)
+2026-05-14 15:22:57,705 [INFO] 
+  [11/92] BidID 45226 | ETA ~20 min
+2026-05-14 15:22:58,368 [INFO]     9210-26-R-IFBD-00019-V01 — ALCORN STATE UNIVERSITY
+2026-05-14 15:22:58,368 [INFO]     Contact: Mertha George | mgeorge@alcorn.edu
+2026-05-14 15:22:58,368 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:22:58,368 [INFO]       [1/2] → 001_Addendum.pdf
+2026-05-14 15:23:14,554 [INFO]         ✓ 001_Addendum.pdf (2,003,021 bytes)
+2026-05-14 15:23:14,566 [INFO]       [2/2] → 002_advertisement.docx
+2026-05-14 15:23:16,013 [INFO]         ✓ 002_advertisement.docx (16,551 bytes)
+2026-05-14 15:23:16,805 [INFO] 
+  [12/92] BidID 45225 | ETA ~21 min
+2026-05-14 15:23:17,501 [INFO]     9210-26-R-IFBD-00018-V01 — ALCORN STATE UNIVERSITY
+2026-05-14 15:23:17,502 [INFO]     Contact: Mertha George | mgeorge@alcorn.edu
+2026-05-14 15:23:17,502 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:23:17,502 [INFO]       [1/2] → 001_Addendum.pdf
+2026-05-14 15:23:29,549 [INFO]         ✓ 001_Addendum.pdf (2,051,211 bytes)
+2026-05-14 15:23:29,549 [INFO]       [2/2] → 002_advertisement.docx
+2026-05-14 15:23:30,965 [INFO]         ✓ 002_advertisement.docx (16,628 bytes)
+2026-05-14 15:23:31,586 [INFO] 
+  [13/92] BidID 45095 | ETA ~20 min
+2026-05-14 15:23:32,281 [INFO]     3372-26-R-RFIN-00018 — EAST MS STATE HOSPITAL
+2026-05-14 15:23:32,281 [INFO]     Contact: Andrea Davis | ADAVIS@EMSH.MS.GOV
+2026-05-14 15:23:32,281 [INFO]     Downloading 3 attachment(s)...
+2026-05-14 15:23:32,281 [INFO]       [1/3] → 001_advertisement.docx
+2026-05-14 15:23:33,595 [INFO]         ✓ 001_advertisement.docx (20,618 bytes)
+2026-05-14 15:23:33,599 [INFO]       [2/3] → 002_Application.pdf
+2026-05-14 15:23:35,201 [INFO]         ✓ 002_Application.pdf (183,501 bytes)
+2026-05-14 15:23:35,214 [INFO]       [3/3] → 003_RFA.docx
+2026-05-14 15:23:36,751 [INFO]         ✓ 003_RFA.docx (16,340 bytes)
+2026-05-14 15:23:37,346 [INFO] 
+  [14/92] BidID 45221 | ETA ~19 min
+2026-05-14 15:23:38,038 [INFO]     9250-26-R-RFIN-00040 — MISSISSIPPI STATE UNIVERSITY
+2026-05-14 15:23:38,038 [INFO]     Contact: Debra Raines | draines@procurement.msstate.edu
+2026-05-14 15:23:38,038 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:23:38,038 [INFO]       [1/1] → 001_Notice.pdf
+2026-05-14 15:23:39,645 [INFO]         ✓ 001_Notice.pdf (108,316 bytes)
+2026-05-14 15:23:40,077 [INFO] 
+  [15/92] BidID 45217 | ETA ~18 min
+2026-05-14 15:23:40,733 [INFO]     9250-26-R-IFBD-00004 — MISSISSIPPI STATE UNIVERSITY
+2026-05-14 15:23:40,733 [INFO]     Contact: Debra Raines | draines@procurement.msstate.edu
+2026-05-14 15:23:40,733 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:23:40,741 [INFO]       [1/2] → 001_Pricing spreadsheet.xlsx
+2026-05-14 15:23:42,234 [INFO]         ✓ 001_Pricing spreadsheet.xlsx (23,170 bytes)
+2026-05-14 15:23:42,234 [INFO]       [2/2] → 002_RFP.pdf
+2026-05-14 15:23:45,310 [INFO]         ✓ 002_RFP.pdf (514,543 bytes)
+2026-05-14 15:23:45,743 [INFO] 
+  [16/92] BidID 45211 | ETA ~17 min
+2026-05-14 15:23:46,498 [INFO]     9250-26-R-RFIN-00038 — MISSISSIPPI STATE UNIVERSITY
+2026-05-14 15:23:46,498 [INFO]     Contact: Debra Raines | draines@procurement.msstate.edu
+2026-05-14 15:23:46,498 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:23:46,498 [INFO]       [1/1] → 001_Notice.pdf
+2026-05-14 15:23:48,443 [INFO]         ✓ 001_Notice.pdf (133,693 bytes)
+2026-05-14 15:23:49,130 [INFO] 
+  [17/92] BidID 45188 | ETA ~16 min
+2026-05-14 15:23:49,848 [INFO]     9240-26-R-IFBD-00019 — MISSISSIPPI UNIVERSITY FOR WOMEN
+2026-05-14 15:23:49,848 [INFO]     Contact: Melissa Buxton | mcbuxton@muw.edu
+2026-05-14 15:23:49,848 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:23:49,848 [INFO]       [1/1] → 001_OCLC and Library Sole Source letters.pdf
+2026-05-14 15:23:51,171 [INFO]         ✓ 001_OCLC and Library Sole Source letters.pdf (1,047 bytes)
+2026-05-14 15:23:51,628 [INFO] 
+  [18/92] BidID 45215 | ETA ~15 min
+2026-05-14 15:23:52,347 [INFO]     9260-26-R-IFBD-00005 — MISSISSIPPI VALLEY STATE UNIVERSITY
+2026-05-14 15:23:52,347 [INFO]     Contact: Billy D Scott | BSCOTT@MVSU.EDU
+2026-05-14 15:23:52,347 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:23:52,347 [INFO]       [1/1] → 001_Landscaping Rfx.pdf
+2026-05-14 15:23:53,752 [INFO]         ✓ 001_Landscaping Rfx.pdf (17,776 bytes)
+2026-05-14 15:23:54,302 [INFO] 
+  [19/92] BidID 45302 | ETA ~14 min
+2026-05-14 15:23:55,063 [INFO]     44-20260416153622 HCPHC — MPTAP
+2026-05-14 15:23:55,063 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:23:55,063 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:23:55,063 [INFO]       [1/1] → 001_00090 Advertisement - HCPHC-REVISED.pdf.pdf
+2026-05-14 15:23:56,679 [INFO]         ✓ 001_00090 Advertisement - HCPHC-REVISED.pdf.pdf (100,292 bytes)
+2026-05-14 15:23:57,283 [INFO] 
+  [20/92] BidID 45301 | ETA ~14 min
+2026-05-14 15:23:57,947 [INFO]     56-20260416090241 BSWC — MPTAP
+2026-05-14 15:23:57,947 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:23:57,947 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:23:57,947 [INFO]       [1/1] → 001_SAP-74(23)M Advertisement.pdf.pdf
+2026-05-14 15:23:59,409 [INFO]         ✓ 001_SAP-74(23)M Advertisement.pdf.pdf (80,730 bytes)
+2026-05-14 15:23:59,953 [INFO] 
+  [21/92] BidID 45300 | ETA ~13 min
+2026-05-14 15:24:00,706 [INFO]     75-20260415161329 UM — MPTAP
+2026-05-14 15:24:00,706 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:00,706 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:00,706 [INFO]       [1/1] → 001_ADVERTISEMENT - RFP 813.pdf.pdf
+2026-05-14 15:24:02,330 [INFO]         ✓ 001_ADVERTISEMENT - RFP 813.pdf.pdf (130,988 bytes)
+2026-05-14 15:24:02,846 [INFO] 
+  [22/92] BidID 45299 | ETA ~12 min
+2026-05-14 15:24:03,582 [INFO]     160-20260415123419 MCSD — MPTAP
+2026-05-14 15:24:03,582 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:03,582 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:03,583 [INFO]       [1/1] → 001_MC Press Box 00.1113 Advertisement for Bids_04-15-26.pdf.pdf
+2026-05-14 15:24:04,992 [INFO]         ✓ 001_MC Press Box 00.1113 Advertisement for Bids_04-15-26.pdf.pdf (88,092 bytes)
+2026-05-14 15:24:05,378 [INFO] 
+  [23/92] BidID 45296 | ETA ~12 min
+2026-05-14 15:24:07,492 [INFO]     56-20260430104715 JTTWA — MPTAP
+2026-05-14 15:24:07,492 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:07,492 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:07,492 [INFO]       [1/1] → 001_02 Advertisement for Bids.pdf.pdf
+2026-05-14 15:24:08,605 [INFO]         ✓ 001_02 Advertisement for Bids.pdf.pdf (28,199 bytes)
+2026-05-14 15:24:09,345 [INFO] 
+  [24/92] BidID 45295 | ETA ~11 min
+2026-05-14 15:24:10,016 [INFO]     339-20260513151333 Oktibbeha — MPTAP
+2026-05-14 15:24:10,016 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:10,017 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:10,017 [INFO]       [1/1] → 001_Section 900 corrected.pdf.pdf
+2026-05-14 15:24:11,763 [INFO]         ✓ 001_Section 900 corrected.pdf.pdf (66,810 bytes)
+2026-05-14 15:24:12,562 [INFO] 
+  [25/92] BidID 45292 | ETA ~11 min
+2026-05-14 15:24:13,418 [INFO]     3541-20260506145608 Baldwyn — MPTAP
+2026-05-14 15:24:13,418 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:13,418 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:13,418 [INFO]       [1/1] → 001_Farmers Market Bid.pdf.pdf
+2026-05-14 15:24:14,860 [INFO]         ✓ 001_Farmers Market Bid.pdf.pdf (62,677 bytes)
+2026-05-14 15:24:15,599 [INFO] 
+  [26/92] BidID 45291 | ETA ~10 min
+2026-05-14 15:24:16,287 [INFO]     1398-20260429100412 KWL — MPTAP
+2026-05-14 15:24:16,287 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:16,287 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:16,287 [INFO]       [1/1] → 001_BID NOTICE - Backhoe April 2026.pdf.pdf
+2026-05-14 15:24:17,946 [INFO]         ✓ 001_BID NOTICE - Backhoe April 2026.pdf.pdf (108,739 bytes)
+2026-05-14 15:24:18,470 [INFO] 
+  [27/92] BidID 45290 | ETA ~10 min
+2026-05-14 15:24:19,845 [INFO]     222-20260504095206 GCSD — MPTAP
+2026-05-14 15:24:19,845 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:19,845 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:19,845 [INFO]       [1/1] → 001_RFQ_2026-001_Copier_and_Printer_Services_AD1.pdf
+2026-05-14 15:24:21,484 [INFO]         ✓ 001_RFQ_2026-001_Copier_and_Printer_Services_AD1.pdf (123,936 bytes)
+2026-05-14 15:24:21,875 [INFO] 
+  [28/92] BidID 45286 | ETA ~10 min
+2026-05-14 15:24:22,601 [INFO]     1398-20260429094847 KWL — MPTAP
+2026-05-14 15:24:22,601 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:22,601 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:22,601 [INFO]       [1/1] → 001_BID NOTICE - Articulating Telescoping Aerial Device April 2026.p.pdf
+2026-05-14 15:24:24,277 [INFO]         ✓ 001_BID NOTICE - Articulating Telescoping Aerial Device April 2026.p.pdf (108,817 bytes)
+2026-05-14 15:24:24,895 [INFO] 
+  [29/92] BidID 45285 | ETA ~9 min
+2026-05-14 15:24:25,779 [INFO]     2-20260428153405 MSU — MPTAP
+2026-05-14 15:24:25,779 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:25,779 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:25,784 [INFO]       [1/1] → 001_AD for RFP MSU2026069 RFP.pdf.pdf
+2026-05-14 15:24:27,427 [INFO]         ✓ 001_AD for RFP MSU2026069 RFP.pdf.pdf (110,087 bytes)
+2026-05-14 15:24:27,877 [INFO] 
+  [30/92] BidID 45284 | ETA ~9 min
+2026-05-14 15:24:29,928 [INFO]     1389-20260423135412 BSSC — MPTAP
+2026-05-14 15:24:29,928 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:29,928 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:29,928 [INFO]       [1/1] → 001_SCAN_2026_4_23_18_59_9_76943.pdf.pdf
+2026-05-14 15:24:31,358 [INFO]         ✓ 001_SCAN_2026_4_23_18_59_9_76943.pdf.pdf (86,723 bytes)
+2026-05-14 15:24:32,158 [INFO] 
+  [31/92] BidID 45283 | ETA ~9 min
+2026-05-14 15:24:33,603 [INFO]     384-20260424115406 BMCU — MPTAP
+2026-05-14 15:24:33,603 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:33,603 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:33,603 [INFO]       [1/1] → 001_Legal notice to Bidders - REQUEST FOR QUOTATIONS Tables and Chai.pdf
+2026-05-14 15:24:36,566 [INFO]         ✓ 001_Legal notice to Bidders - REQUEST FOR QUOTATIONS Tables and Chai.pdf (160,815 bytes)
+2026-05-14 15:24:36,941 [INFO] 
+  [32/92] BidID 45282 | ETA ~8 min
+2026-05-14 15:24:37,628 [INFO]     194-20260423163326 TPSD — MPTAP
+2026-05-14 15:24:37,628 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:37,628 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:37,628 [INFO]       [1/1] → 001_BD 2627 AD.pdf.pdf
+2026-05-14 15:24:39,391 [INFO]         ✓ 001_BD 2627 AD.pdf.pdf (99,687 bytes)
+2026-05-14 15:24:40,079 [INFO] 
+  [33/92] BidID 45281 | ETA ~8 min
+2026-05-14 15:24:40,770 [INFO]     75-20260423145208 UM — MPTAP
+2026-05-14 15:24:40,770 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:40,770 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:40,770 [INFO]       [1/1] → 001_ITSS 475 - VALT 1-E Camera License.pdf.pdf
+2026-05-14 15:24:42,411 [INFO]         ✓ 001_ITSS 475 - VALT 1-E Camera License.pdf.pdf (171,059 bytes)
+2026-05-14 15:24:42,826 [INFO] 
+  [34/92] BidID 45280 | ETA ~8 min
+2026-05-14 15:24:43,480 [INFO]     363-20260429103540 MGCCC — MPTAP
+2026-05-14 15:24:43,482 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:43,482 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:43,482 [INFO]       [1/1] → 001_Bryant Maintenance Adv.pdf.pdf
+2026-05-14 15:24:45,159 [INFO]         ✓ 001_Bryant Maintenance Adv.pdf.pdf (131,157 bytes)
+2026-05-14 15:24:45,664 [INFO] 
+  [35/92] BidID 45275 | ETA ~7 min
+2026-05-14 15:24:46,361 [INFO]     164-20260421150936 OSSD — MPTAP
+2026-05-14 15:24:46,361 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:46,361 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:46,361 [INFO]       [1/1] → 001_003-ADVERTISEMENT-Asbestos Abatement UE.pdf.pdf
+2026-05-14 15:24:48,297 [INFO]         ✓ 001_003-ADVERTISEMENT-Asbestos Abatement UE.pdf.pdf (82,196 bytes)
+2026-05-14 15:24:49,094 [INFO] 
+  [36/92] BidID 45274 | ETA ~7 min
+2026-05-14 15:24:49,764 [INFO]     124-20260421115050 Pittsboro — MPTAP
+2026-05-14 15:24:49,764 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:49,764 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:49,764 [INFO]       [1/1] → 001_CALHOUN COUNTY AIRPORT ADV.pdf.pdf
+2026-05-14 15:24:51,702 [INFO]         ✓ 001_CALHOUN COUNTY AIRPORT ADV.pdf.pdf (159,692 bytes)
+2026-05-14 15:24:52,318 [INFO] 
+  [37/92] BidID 45270 | ETA ~7 min
+2026-05-14 15:24:53,018 [INFO]     77-20260423082006 DCS — MPTAP
+2026-05-14 15:24:53,018 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:24:53,019 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:24:53,019 [INFO]       [1/1] → 001_77-20260423082006 DCS.pdf
+2026-05-14 15:25:00,905 [INFO]         ✓ 001_77-20260423082006 DCS.pdf (1,089,418 bytes)
+2026-05-14 15:25:01,430 [INFO] 
+  [38/92] BidID 45269 | ETA ~7 min
+2026-05-14 15:25:02,886 [INFO]     1428-20260422152859 Clarksdale — MPTAP
+2026-05-14 15:25:02,886 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:02,886 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:02,886 [INFO]       [1/1] → 001_1428-20260422152859 Clarksdale.pdf
+2026-05-14 15:25:04,643 [INFO]         ✓ 001_1428-20260422152859 Clarksdale.pdf (200,853 bytes)
+2026-05-14 15:25:05,209 [INFO] 
+  [39/92] BidID 45268 | ETA ~7 min
+2026-05-14 15:25:05,833 [INFO]     124-20260421115231 Winona — MPTAP
+2026-05-14 15:25:05,833 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:05,834 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:05,834 [INFO]       [1/1] → 001_124-20260421115231 Winona.pdf
+2026-05-14 15:25:07,783 [INFO]         ✓ 001_124-20260421115231 Winona.pdf (159,623 bytes)
+2026-05-14 15:25:08,143 [INFO] 
+  [40/92] BidID 45267 | ETA ~6 min
+2026-05-14 15:25:08,799 [INFO]     75-20260421113102 UM — MPTAP
+2026-05-14 15:25:08,799 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:08,799 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:08,799 [INFO]       [1/1] → 001_ADVERTISEMENT BF 1272.pdf.pdf
+2026-05-14 15:25:10,908 [INFO]         ✓ 001_ADVERTISEMENT BF 1272.pdf.pdf (148,470 bytes)
+2026-05-14 15:25:11,439 [INFO] 
+  [41/92] BidID 45266 | ETA ~6 min
+2026-05-14 15:25:12,109 [INFO]     137-20260421111603 Rankin — MPTAP
+2026-05-14 15:25:12,110 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:12,110 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:12,111 [INFO]       [1/1] → 001_137-20260421111603 Rankin.pdf
+2026-05-14 15:25:18,642 [INFO]         ✓ 001_137-20260421111603 Rankin.pdf (1,085,195 bytes)
+2026-05-14 15:25:19,089 [INFO] 
+  [42/92] BidID 45265 | ETA ~6 min
+2026-05-14 15:25:19,747 [INFO]     49-20260421103906 BPSD — MPTAP
+2026-05-14 15:25:19,747 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:19,747 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:19,749 [INFO]       [1/1] → 001_49-20260421103906 BPSD.pdf
+2026-05-14 15:25:21,714 [INFO]         ✓ 001_49-20260421103906 BPSD.pdf (253,035 bytes)
+2026-05-14 15:25:22,193 [INFO] 
+  [43/92] BidID 45264 | ETA ~6 min
+2026-05-14 15:25:22,859 [INFO]     49-20260421103643 BPSD — MPTAP
+2026-05-14 15:25:22,865 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:22,865 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:22,865 [INFO]       [1/1] → 001_BCBA RFP 26 Kellogg Grant.pdf.pdf
+2026-05-14 15:25:24,516 [INFO]         ✓ 001_BCBA RFP 26 Kellogg Grant.pdf.pdf (251,171 bytes)
+2026-05-14 15:25:25,303 [INFO] 
+  [44/92] BidID 45263 | ETA ~6 min
+2026-05-14 15:25:26,009 [INFO]     49-20260421103356 BPSD — MPTAP
+2026-05-14 15:25:26,009 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:26,009 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:26,009 [INFO]       [1/1] → 001_49-20260421103356 BPSD.pdf
+2026-05-14 15:25:29,614 [INFO]         ✓ 001_49-20260421103356 BPSD.pdf (379,505 bytes)
+2026-05-14 15:25:29,983 [INFO] 
+  [45/92] BidID 45261 | ETA ~6 min
+2026-05-14 15:25:31,087 [INFO]     49-20260421103014 BPSD — MPTAP
+2026-05-14 15:25:31,087 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:31,087 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:31,087 [INFO]       [1/1] → 001_SY26 RFP ASL Interpreter.pdf.pdf
+2026-05-14 15:25:34,545 [INFO]         ✓ 001_SY26 RFP ASL Interpreter.pdf.pdf (253,200 bytes)
+2026-05-14 15:25:34,922 [INFO] 
+  [46/92] BidID 45260 | ETA ~5 min
+2026-05-14 15:25:35,579 [INFO]     49-20260421102445 BPSD — MPTAP
+2026-05-14 15:25:35,579 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:35,580 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:35,580 [INFO]       [1/1] → 001_SY26 RFP Speech Therapy.pdf.pdf
+2026-05-14 15:25:38,203 [INFO]         ✓ 001_SY26 RFP Speech Therapy.pdf.pdf (252,041 bytes)
+2026-05-14 15:25:38,647 [INFO] 
+  [47/92] BidID 45259 | ETA ~5 min
+2026-05-14 15:25:39,275 [INFO]     191-20260417143215 WSI — MPTAP
+2026-05-14 15:25:39,275 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:39,275 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:39,275 [INFO]       [1/1] → 001_Agency Bid Bank ITB - RW Pump Replacement.pdf.pdf
+2026-05-14 15:25:41,160 [INFO]         ✓ 001_Agency Bid Bank ITB - RW Pump Replacement.pdf.pdf (220,491 bytes)
+2026-05-14 15:25:41,491 [INFO] 
+  [48/92] BidID 45258 | ETA ~5 min
+2026-05-14 15:25:42,133 [INFO]     1454-20260417103630 JMAA — MPTAP
+2026-05-14 15:25:42,133 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:42,133 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:42,133 [INFO]       [1/1] → 001_JAN Rbilitation of Runway 16L-34R - Legal Notice.pdf.pdf
+2026-05-14 15:25:43,795 [INFO]         ✓ 001_JAN Rbilitation of Runway 16L-34R - Legal Notice.pdf.pdf (170,687 bytes)
+2026-05-14 15:25:44,524 [INFO] 
+  [49/92] BidID 45257 | ETA ~5 min
+2026-05-14 15:25:45,191 [INFO]     113-20260416143240 DCBS — MPTAP
+2026-05-14 15:25:45,193 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:45,193 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:45,194 [INFO]       [1/1] → 001_113-20260416143240 DCBS.pdf
+2026-05-14 15:25:46,538 [INFO]         ✓ 001_113-20260416143240 DCBS.pdf (77,344 bytes)
+2026-05-14 15:25:47,306 [INFO] 
+  [50/92] BidID 45256 | ETA ~5 min
+2026-05-14 15:25:48,429 [INFO]     61-20260416112813 Bay St Louis — MPTAP
+2026-05-14 15:25:48,429 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:48,437 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:48,437 [INFO]       [1/1] → 001_61-20260416112813 Bay St Louis.pdf
+2026-05-14 15:25:50,618 [INFO]         ✓ 001_61-20260416112813 Bay St Louis.pdf (293,417 bytes)
+2026-05-14 15:25:51,324 [INFO] 
+  [51/92] BidID 45255 | ETA ~5 min
+2026-05-14 15:25:52,070 [INFO]     364-20260416110550 Canton — MPTAP
+2026-05-14 15:25:52,071 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:52,071 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:52,071 [INFO]       [1/1] → 001_364-20260416110550 Canton.pdf
+2026-05-14 15:25:57,424 [INFO]         ✓ 001_364-20260416110550 Canton.pdf (644,264 bytes)
+2026-05-14 15:25:57,773 [INFO] 
+  [52/92] BidID 45254 | ETA ~4 min
+2026-05-14 15:25:58,425 [INFO]     367-20260416105918 ACBS — MPTAP
+2026-05-14 15:25:58,425 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:25:58,425 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:25:58,425 [INFO]       [1/1] → 001_367-20260416105918 ACBS.pdf
+2026-05-14 15:26:00,144 [INFO]         ✓ 001_367-20260416105918 ACBS.pdf (109,295 bytes)
+2026-05-14 15:26:00,756 [INFO] 
+  [53/92] BidID 45253 | ETA ~4 min
+2026-05-14 15:26:01,507 [INFO]     78-20260416102552 BSIC — MPTAP
+2026-05-14 15:26:01,507 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:26:01,507 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:26:01,507 [INFO]       [1/1] → 001_78-20260416102552 BSIC.pdf
+2026-05-14 15:26:03,179 [INFO]         ✓ 001_78-20260416102552 BSIC.pdf (127,680 bytes)
+2026-05-14 15:26:03,539 [INFO] 
+  [54/92] BidID 45252 | ETA ~4 min
+2026-05-14 15:26:04,336 [INFO]     7-20260416095739 Jackson — MPTAP
+2026-05-14 15:26:04,336 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:26:04,337 [INFO]     Downloading 42 attachment(s)...
+2026-05-14 15:26:04,337 [INFO]       [1/42] → 001_7-20260416095739 Jackson.pdf
+2026-05-14 15:26:16,597 [INFO]         ✓ 001_7-20260416095739 Jackson.pdf (1,771,714 bytes)
+2026-05-14 15:26:16,600 [INFO]       [2/42] → 002_Street_Resurfacing_COJ-RS-01_(2)2 (1).pdf
+2026-05-14 15:26:32,857 [INFO]         ✓ 002_Street_Resurfacing_COJ-RS-01_(2)2 (1).pdf (2,491,654 bytes)
+2026-05-14 15:26:32,857 [INFO]       [3/42] → 003_Street_Resurfacing_COJ-RS-01_(3)3.pdf
+2026-05-14 15:26:43,968 [INFO]         ✓ 003_Street_Resurfacing_COJ-RS-01_(3)3.pdf (1,905,433 bytes)
+2026-05-14 15:26:43,975 [INFO]       [4/42] → 004_Street_Resurfacing_COJ-RS-01_(4)4.pdf
+2026-05-14 15:26:53,464 [INFO]         ✓ 004_Street_Resurfacing_COJ-RS-01_(4)4.pdf (1,668,009 bytes)
+2026-05-14 15:26:53,464 [INFO]       [5/42] → 005_Street_Resurfacing_COJ-RS-01_(5)5.pdf
+2026-05-14 15:27:09,325 [INFO]         ✓ 005_Street_Resurfacing_COJ-RS-01_(5)5.pdf (1,800,802 bytes)
+2026-05-14 15:27:09,327 [INFO]       [6/42] → 006_Street_Resurfacing_COJ-RS-01_(6)6.pdf
+2026-05-14 15:27:18,303 [INFO]         ✓ 006_Street_Resurfacing_COJ-RS-01_(6)6.pdf (1,168,902 bytes)
+2026-05-14 15:27:18,305 [INFO]       [7/42] → 007_Street_Resurfacing_COJ-RS-03_(1)14.pdf
+2026-05-14 15:27:32,887 [INFO]         ✓ 007_Street_Resurfacing_COJ-RS-03_(1)14.pdf (1,772,186 bytes)
+2026-05-14 15:27:32,889 [INFO]       [8/42] → 008_Street_Resurfacing_COJ-RS-03_(2)15.pdf
+2026-05-14 15:27:52,134 [INFO]         ✓ 008_Street_Resurfacing_COJ-RS-03_(2)15.pdf (2,871,143 bytes)
+2026-05-14 15:27:52,136 [INFO]       [9/42] → 009_Street_Resurfacing_COJ-RS-03_(3)16.pdf
+2026-05-14 15:28:07,448 [INFO]         ✓ 009_Street_Resurfacing_COJ-RS-03_(3)16.pdf (2,142,030 bytes)
+2026-05-14 15:28:07,448 [INFO]       [10/42] → 010_Street_Resurfacing_COJ-RS-03_(4)17.pdf
+2026-05-14 15:28:15,776 [INFO]         ✓ 010_Street_Resurfacing_COJ-RS-03_(4)17.pdf (1,056,981 bytes)
+2026-05-14 15:28:15,776 [INFO]       [11/42] → 011_Street_Resurfacing_COJ-RS-03_(5)18.pdf
+2026-05-14 15:28:24,129 [INFO]         ✓ 011_Street_Resurfacing_COJ-RS-03_(5)18.pdf (1,413,091 bytes)
+2026-05-14 15:28:24,143 [INFO]       [12/42] → 012_Street_Resurfacing_COJ-RS-03_(6)19.pdf
+2026-05-14 15:28:28,682 [INFO]         ✓ 012_Street_Resurfacing_COJ-RS-03_(6)19.pdf (1,062,494 bytes)
+2026-05-14 15:28:28,682 [INFO]       [13/42] → 013_Street_Resurfacing_COJ-RS-03_(6)19.pdf
+2026-05-14 15:28:36,504 [INFO]         ✓ 013_Street_Resurfacing_COJ-RS-03_(6)19.pdf (1,062,494 bytes)
+2026-05-14 15:28:36,506 [INFO]       [14/42] → 014_Street_Resurfacing_COJ-RS-04_(1)20.pdf
+2026-05-14 15:28:48,132 [INFO]         ✓ 014_Street_Resurfacing_COJ-RS-04_(1)20.pdf (1,856,950 bytes)
+2026-05-14 15:28:48,147 [INFO]       [15/42] → 015_Street_Resurfacing_COJ-RS-04_(2)21.pdf
+2026-05-14 15:29:09,053 [INFO]         ✓ 015_Street_Resurfacing_COJ-RS-04_(2)21.pdf (3,612,257 bytes)
+2026-05-14 15:29:09,055 [INFO]       [16/42] → 016_Street_Resurfacing_COJ-RS-04_(2)21.pdf
+2026-05-14 15:29:29,012 [INFO]         ✓ 016_Street_Resurfacing_COJ-RS-04_(2)21.pdf (3,612,257 bytes)
+2026-05-14 15:29:29,012 [INFO]       [17/42] → 017_Street_Resurfacing_COJ-RS-04_(3)22.pdf
+2026-05-14 15:29:47,267 [INFO]         ✓ 017_Street_Resurfacing_COJ-RS-04_(3)22.pdf (2,566,280 bytes)
+2026-05-14 15:29:47,271 [INFO]       [18/42] → 018_Street_Resurfacing_COJ-RS-04_(4)23.pdf
+2026-05-14 15:29:54,105 [INFO]         ✓ 018_Street_Resurfacing_COJ-RS-04_(4)23.pdf (1,495,154 bytes)
+2026-05-14 15:29:54,121 [INFO]       [19/42] → 019_Street_Resurfacing_COJ-RS-04_(5)24.pdf
+2026-05-14 15:30:07,399 [INFO]         ✓ 019_Street_Resurfacing_COJ-RS-04_(5)24.pdf (1,724,218 bytes)
+2026-05-14 15:30:07,399 [INFO]       [20/42] → 020_Street_Resurfacing_COJ-RS-04_(5)24.pdf
+2026-05-14 15:30:17,736 [INFO]         ✓ 020_Street_Resurfacing_COJ-RS-04_(5)24.pdf (1,724,218 bytes)
+2026-05-14 15:30:17,738 [INFO]       [21/42] → 021_Street_Resurfacing_COJ-RS-05_(1)25.pdf
+2026-05-14 15:30:32,228 [INFO]         ✓ 021_Street_Resurfacing_COJ-RS-05_(1)25.pdf (1,794,177 bytes)
+2026-05-14 15:30:32,228 [INFO]       [22/42] → 022_Street_Resurfacing_COJ-RS-05_(2)26.pdf
+2026-05-14 15:30:50,084 [INFO]         ✓ 022_Street_Resurfacing_COJ-RS-05_(2)26.pdf (3,337,505 bytes)
+2026-05-14 15:30:50,084 [INFO]       [23/42] → 023_Street_Resurfacing_COJ-RS-05_(2)26.pdf
+2026-05-14 15:31:14,929 [INFO]         ✓ 023_Street_Resurfacing_COJ-RS-05_(2)26.pdf (3,337,505 bytes)
+2026-05-14 15:31:14,929 [INFO]       [24/42] → 024_Street_Resurfacing_COJ-RS-05_(3)27.pdf
+2026-05-14 15:31:26,928 [INFO]         ✓ 024_Street_Resurfacing_COJ-RS-05_(3)27.pdf (2,201,603 bytes)
+2026-05-14 15:31:26,928 [INFO]       [25/42] → 025_Street_Resurfacing_COJ-RS-05_(4)28.pdf
+2026-05-14 15:31:35,326 [INFO]         ✓ 025_Street_Resurfacing_COJ-RS-05_(4)28.pdf (1,129,394 bytes)
+2026-05-14 15:31:35,326 [INFO]       [26/42] → 026_Street_Resurfacing_COJ-RS-05_(5)29.pdf
+2026-05-14 15:31:49,714 [INFO]         ✓ 026_Street_Resurfacing_COJ-RS-05_(5)29.pdf (2,102,161 bytes)
+2026-05-14 15:31:49,714 [INFO]       [27/42] → 027_Street_Resurfacing_COJ-RS-05_(5)29.pdf
+2026-05-14 15:32:02,181 [INFO]         ✓ 027_Street_Resurfacing_COJ-RS-05_(5)29.pdf (2,102,161 bytes)
+2026-05-14 15:32:02,185 [INFO]       [28/42] → 028_Street_Resurfacing_COJ-RS-06_(1)30.pdf
+2026-05-14 15:32:14,014 [INFO]         ✓ 028_Street_Resurfacing_COJ-RS-06_(1)30.pdf (1,954,090 bytes)
+2026-05-14 15:32:14,024 [INFO]       [29/42] → 029_Street_Resurfacing_COJ-RS-06_(2)31.pdf
+2026-05-14 15:32:30,212 [INFO]         ✓ 029_Street_Resurfacing_COJ-RS-06_(2)31.pdf (2,926,251 bytes)
+2026-05-14 15:32:30,215 [INFO]       [30/42] → 030_Street_Resurfacing_COJ-RS-06_(3)32.pdf
+2026-05-14 15:32:51,418 [INFO]         ✓ 030_Street_Resurfacing_COJ-RS-06_(3)32.pdf (2,635,931 bytes)
+2026-05-14 15:32:51,422 [INFO]       [31/42] → 031_Street_Resurfacing_COJ-RS-06_(4)33.pdf
+2026-05-14 15:32:57,890 [INFO]         ✓ 031_Street_Resurfacing_COJ-RS-06_(4)33.pdf (1,248,341 bytes)
+2026-05-14 15:32:57,906 [INFO]       [32/42] → 032_Street_Resurfacing_COJ-RS-06_(5)34.pdf
+2026-05-14 15:33:07,573 [INFO]         ✓ 032_Street_Resurfacing_COJ-RS-06_(5)34.pdf (1,171,735 bytes)
+2026-05-14 15:33:07,578 [INFO]       [33/42] → 033_Street_Resurfacing_COJ-RS-06_(6)35.pdf
+2026-05-14 15:33:14,524 [INFO]         ✓ 033_Street_Resurfacing_COJ-RS-06_(6)35.pdf (693,159 bytes)
+2026-05-14 15:33:14,526 [INFO]       [34/42] → 034_Street_Resurfacing_COJ-RS-06_(6)35.pdf
+2026-05-14 15:33:19,471 [INFO]         ✓ 034_Street_Resurfacing_COJ-RS-06_(6)35.pdf (693,159 bytes)
+2026-05-14 15:33:19,476 [INFO]       [35/42] → 035_Street_Resurfacing_COJ-RS-07_(1)36.pdf
+2026-05-14 15:33:35,421 [INFO]         ✓ 035_Street_Resurfacing_COJ-RS-07_(1)36.pdf (1,792,598 bytes)
+2026-05-14 15:33:35,424 [INFO]       [36/42] → 036_Street_Resurfacing_COJ-RS-07_(2)37.pdf
+2026-05-14 15:33:51,317 [INFO]         ✓ 036_Street_Resurfacing_COJ-RS-07_(2)37.pdf (2,893,665 bytes)
+2026-05-14 15:33:51,320 [INFO]       [37/42] → 037_Street_Resurfacing_COJ-RS-07_(3)38.pdf
+2026-05-14 15:34:02,577 [INFO]         ✓ 037_Street_Resurfacing_COJ-RS-07_(3)38.pdf (1,949,439 bytes)
+2026-05-14 15:34:02,581 [INFO]       [38/42] → 038_Street_Resurfacing_COJ-RS-07_(3)38.pdf
+2026-05-14 15:34:16,018 [INFO]         ✓ 038_Street_Resurfacing_COJ-RS-07_(3)38.pdf (1,949,439 bytes)
+2026-05-14 15:34:16,022 [INFO]       [39/42] → 039_Street_Resurfacing_COJ-RS-07_(4)39.pdf
+2026-05-14 15:34:24,489 [INFO]         ✓ 039_Street_Resurfacing_COJ-RS-07_(4)39.pdf (1,309,394 bytes)
+2026-05-14 15:34:24,491 [INFO]       [40/42] → 040_Street_Resurfacing_COJ-RS-07_(5)40.pdf
+2026-05-14 15:34:37,866 [INFO]         ✓ 040_Street_Resurfacing_COJ-RS-07_(5)40.pdf (1,543,301 bytes)
+2026-05-14 15:34:37,869 [INFO]       [41/42] → 041_Street_Resurfacing_COJ-RS-07_(6)41.pdf
+2026-05-14 15:34:44,975 [INFO]         ✓ 041_Street_Resurfacing_COJ-RS-07_(6)41.pdf (945,838 bytes)
+2026-05-14 15:34:44,977 [INFO]       [42/42] → 042_Street_Resurfacing_COJ_-RS-02_(7)13.pdf
+2026-05-14 15:34:49,930 [INFO]         ✓ 042_Street_Resurfacing_COJ_-RS-02_(7)13.pdf (631,230 bytes)
+2026-05-14 15:34:50,349 [INFO] 
+  [55/92] BidID 45251 | ETA ~10 min
+2026-05-14 15:34:51,169 [INFO]     77-20260416092923 DCS — MPTAP
+2026-05-14 15:34:51,170 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:34:51,170 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:34:51,170 [INFO]       [1/1] → 001_Bid Packer 395-PAPER-DCS262.pdf.pdf
+2026-05-14 15:34:58,427 [INFO]         ✓ 001_Bid Packer 395-PAPER-DCS262.pdf.pdf (1,096,160 bytes)
+2026-05-14 15:34:58,790 [INFO] 
+  [56/92] BidID 45250 | ETA ~10 min
+2026-05-14 15:34:59,609 [INFO]     56-20260416081753 BSMC — MPTAP
+2026-05-14 15:34:59,609 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:34:59,609 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:34:59,610 [INFO]       [1/1] → 001_LSBP-46(20) Advertisement.pdf.pdf
+2026-05-14 15:35:01,625 [INFO]         ✓ 001_LSBP-46(20) Advertisement.pdf.pdf (159,017 bytes)
+2026-05-14 15:35:02,094 [INFO] 
+  [57/92] BidID 45249 | ETA ~9 min
+2026-05-14 15:35:02,740 [INFO]     7-20260416074521 Jackson — MPTAP
+2026-05-14 15:35:02,740 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:35:02,740 [INFO]     Downloading 5 attachment(s)...
+2026-05-14 15:35:02,741 [INFO]       [1/5] → 001_1 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C.pdf
+2026-05-14 15:35:23,338 [INFO]         ✓ 001_1 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C.pdf (2,795,020 bytes)
+2026-05-14 15:35:23,348 [INFO]       [2/5] → 002_2 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C.pdf
+2026-05-14 15:35:43,864 [INFO]         ✓ 002_2 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C.pdf (3,380,205 bytes)
+2026-05-14 15:35:43,865 [INFO]       [3/5] → 003_City of Jackson Infrastructure Improvements (Creek Clearing) COJ.pdf
+2026-05-14 15:35:58,678 [INFO]         ✓ 003_City of Jackson Infrastructure Improvements (Creek Clearing) COJ.pdf (2,833,274 bytes)
+2026-05-14 15:35:58,679 [INFO]       [4/5] → 004_City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ.pdf
+2026-05-14 15:36:23,011 [INFO]         ✓ 004_City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ.pdf (3,745,690 bytes)
+2026-05-14 15:36:23,011 [INFO]       [5/5] → 005_City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ.pdf
+2026-05-14 15:36:38,138 [INFO]         ✓ 005_City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ.pdf (3,031,907 bytes)
+2026-05-14 15:36:38,837 [INFO] 
+  [58/92] BidID 45248 | ETA ~10 min
+2026-05-14 15:36:39,820 [INFO]     244-20260415150159 MCSD — MPTAP
+2026-05-14 15:36:39,820 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:36:39,820 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:36:39,820 [INFO]       [1/1] → 001_Adv_Legal_Serving Lines.pdf.pdf
+2026-05-14 15:36:41,387 [INFO]         ✓ 001_Adv_Legal_Serving Lines.pdf.pdf (119,466 bytes)
+2026-05-14 15:36:41,887 [INFO] 
+  [59/92] BidID 45247 | ETA ~9 min
+2026-05-14 15:36:42,564 [INFO]     22-20260415134623 NWMCC — MPTAP
+2026-05-14 15:36:42,567 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:36:42,568 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:36:42,569 [INFO]       [1/1] → 001_Ad Bid 26-005-14 -FACILITIES FINE ARTS AUDITORIUM ACOUSTIC UPGRA.pdf
+2026-05-14 15:36:43,981 [INFO]         ✓ 001_Ad Bid 26-005-14 -FACILITIES FINE ARTS AUDITORIUM ACOUSTIC UPGRA.pdf (105,623 bytes)
+2026-05-14 15:36:44,457 [INFO] 
+  [60/92] BidID 45244 | ETA ~9 min
+2026-05-14 15:36:45,089 [INFO]     61-20260415102916 PGSD — MPTAP
+2026-05-14 15:36:45,089 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:36:45,089 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:36:45,089 [INFO]       [1/1] → 001_Advertisement for Bids.pdf.pdf
+2026-05-14 15:36:47,467 [INFO]         ✓ 001_Advertisement for Bids.pdf.pdf (293,761 bytes)
+2026-05-14 15:36:48,176 [INFO] 
+  [61/92] BidID 45231 | ETA ~8 min
+2026-05-14 15:36:48,775 [INFO]     255-20260501160534 Brandon — MPTAP
+2026-05-14 15:36:48,776 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:36:48,776 [INFO]     Downloading 4 attachment(s)...
+2026-05-14 15:36:48,776 [INFO]       [1/4] → 001_2026 Rankin First Offsite Sewer Improvements.pdf.pdf
+2026-05-14 15:36:50,166 [INFO]         ✓ 001_2026 Rankin First Offsite Sewer Improvements.pdf.pdf (103,623 bytes)
+2026-05-14 15:36:50,170 [INFO]       [2/4] → 002_B-11397- Addendum 3.pdf
+2026-05-14 15:36:51,831 [INFO]         ✓ 002_B-11397- Addendum 3.pdf (181,467 bytes)
+2026-05-14 15:36:51,845 [INFO]       [3/4] → 003_B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu.pdf
+2026-05-14 15:37:13,593 [INFO]         ✓ 003_B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu.pdf (3,859,541 bytes)
+2026-05-14 15:37:13,595 [INFO]       [4/4] → 004_B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu.pdf
+2026-05-14 15:37:15,800 [INFO]         ✓ 004_B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu.pdf (182,008 bytes)
+2026-05-14 15:37:16,508 [INFO] 
+  [62/92] BidID 45114 | ETA ~8 min
+2026-05-14 15:37:17,210 [INFO]     82-20260403115724 Newton — MPTAP
+2026-05-14 15:37:17,210 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:37:17,210 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:17,210 [INFO]       [1/1] → 001_15796.024_Section_A-Notice to Contractors.pdf.pdf
+2026-05-14 15:37:18,611 [INFO]         ✓ 001_15796.024_Section_A-Notice to Contractors.pdf.pdf (98,128 bytes)
+2026-05-14 15:37:18,922 [INFO] 
+  [63/92] BidID 45097 | ETA ~8 min
+2026-05-14 15:37:19,615 [INFO]     75-20260401150731 UM — MPTAP
+2026-05-14 15:37:19,615 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:37:19,615 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:19,615 [INFO]       [1/1] → 001_ad for 810.pdf.pdf
+2026-05-14 15:37:21,290 [INFO]         ✓ 001_ad for 810.pdf.pdf (131,561 bytes)
+2026-05-14 15:37:22,094 [INFO] 
+  [64/92] BidID 45043 | ETA ~8 min
+2026-05-14 15:37:22,794 [INFO]     198-20260407084622 TCBS — MPTAP
+2026-05-14 15:37:22,794 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:37:22,794 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:22,794 [INFO]       [1/1] → 001_REQUEST FOR QUALIFICATIONS FOR ENGINEERING SERVICES -SS4A CSAP.p.pdf
+2026-05-14 15:37:25,227 [INFO]         ✓ 001_REQUEST FOR QUALIFICATIONS FOR ENGINEERING SERVICES -SS4A CSAP.p.pdf (215,652 bytes)
+2026-05-14 15:37:25,890 [INFO] 
+  [65/92] BidID 45042 | ETA ~7 min
+2026-05-14 15:37:26,617 [INFO]     313-20260407082919 PHWD — MPTAP
+2026-05-14 15:37:26,617 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-14 15:37:26,617 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:26,617 [INFO]       [1/1] → 001_4-901 Advertisement.pdf.pdf
+2026-05-14 15:37:28,056 [INFO]         ✓ 001_4-901 Advertisement.pdf.pdf (89,557 bytes)
+2026-05-14 15:37:28,612 [INFO] 
+  [66/92] BidID 45066 | ETA ~7 min
+2026-05-14 15:37:29,899 [INFO]     1470-26-R-IFBD-00005 — MS DEPT ENVIRONMENTAL QUALITY
+2026-05-14 15:37:29,899 [INFO]     Contact: Aveleka Moore | AMOORE@MDEQ.MS.GOV
+2026-05-14 15:37:29,899 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:29,899 [INFO]       [1/1] → 001_RFx3160007906 MDEQ-IFB04212026.pdf
+2026-05-14 15:37:32,989 [INFO]         ✓ 001_RFx3160007906 MDEQ-IFB04212026.pdf (515,224 bytes)
+2026-05-14 15:37:33,786 [INFO] 
+  [67/92] BidID 45186 | ETA ~6 min
+2026-05-14 15:37:34,516 [INFO]     1130-26-R-IFBD-00062 — MS DEPT FINANCE AND ADMINISTRATION
+2026-05-14 15:37:34,516 [INFO]     Contact: Kimberly Manning | KIMBERLY.MANNING@DFA.MS.GOV
+2026-05-14 15:37:34,516 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:34,516 [INFO]       [1/1] → 001_Bid Ad.pdf
+2026-05-14 15:37:35,937 [INFO]         ✓ 001_Bid Ad.pdf (93,846 bytes)
+2026-05-14 15:37:36,673 [INFO] 
+  [68/92] BidID 45169 | ETA ~6 min
+2026-05-14 15:37:37,331 [INFO]     1130-26-R-IFBD-00051 — MS DEPT FINANCE AND ADMINISTRATION
+2026-05-14 15:37:37,331 [INFO]     Contact: Terri Ashley | TERRI.ASHLEY@DFA.MS.GOV
+2026-05-14 15:37:37,331 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:37,331 [INFO]       [1/1] → 001_IFB - Int. Pest Services.pdf
+2026-05-14 15:37:40,744 [INFO]         ✓ 001_IFB - Int. Pest Services.pdf (775,352 bytes)
+2026-05-14 15:37:41,442 [INFO] 
+  [69/92] BidID 44951 | ETA ~6 min
+2026-05-14 15:37:42,110 [INFO]     1130-26-R-IFBD-00060 — MS DEPT FINANCE AND ADMINISTRATION
+2026-05-14 15:37:42,120 [INFO]     Contact: Adrian Massey | ADRIAN.MASSEY@DFA.MS.GOV
+2026-05-14 15:37:42,120 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:42,120 [INFO]       [1/1] → 001_Bid Ad.pdf
+2026-05-14 15:37:44,093 [INFO]         ✓ 001_Bid Ad.pdf (159,462 bytes)
+2026-05-14 15:37:44,500 [INFO] 
+  [70/92] BidID 45183 | ETA ~6 min
+2026-05-14 15:37:45,307 [INFO]     1130-26-R-IFBD-00057-V02 — MS DEPT FINANCE AND ADMINISTRATION
+2026-05-14 15:37:45,308 [INFO]     Contact: Alicia Coleman | ALICIA.COLEMAN@DFA.MS.GOV
+2026-05-14 15:37:45,309 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:37:45,309 [INFO]       [1/2] → 001_IFB Amendment One.pdf
+2026-05-14 15:37:47,805 [INFO]         ✓ 001_IFB Amendment One.pdf (220,000 bytes)
+2026-05-14 15:37:47,821 [INFO]       [2/2] → 002_IFB for Boiler Maintenance.pdf
+2026-05-14 15:37:53,124 [INFO]         ✓ 002_IFB for Boiler Maintenance.pdf (885,418 bytes)
+2026-05-14 15:37:53,441 [INFO] 
+  [71/92] BidID 44934 | ETA ~5 min
+2026-05-14 15:37:54,179 [INFO]     1130-26-R-IFBD-00058 — MS DEPT FINANCE AND ADMINISTRATION
+2026-05-14 15:37:54,179 [INFO]     Contact: Kimberly Manning | KIMBERLY.MANNING@DFA.MS.GOV
+2026-05-14 15:37:54,179 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:54,179 [INFO]       [1/1] → 001_Bid Ad.pdf
+2026-05-14 15:37:55,612 [INFO]         ✓ 001_Bid Ad.pdf (92,672 bytes)
+2026-05-14 15:37:56,336 [INFO] 
+  [72/92] BidID 45208 | ETA ~5 min
+2026-05-14 15:37:56,973 [INFO]     1130-26-R-IFBD-00059 — MS DEPT FINANCE AND ADMINISTRATION
+2026-05-14 15:37:56,973 [INFO]     Contact: Kimberly Manning | KIMBERLY.MANNING@DFA.MS.GOV
+2026-05-14 15:37:56,973 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:37:56,974 [INFO]       [1/1] → 001_Prequal Bid.pdf
+2026-05-14 15:37:58,780 [INFO]         ✓ 001_Prequal Bid.pdf (81,727 bytes)
+2026-05-14 15:37:59,267 [INFO] 
+  [73/92] BidID 45222 | ETA ~5 min
+2026-05-14 15:38:00,017 [INFO]     1301-26-R-RFPR-00004 — MS DEPT OF HEALTH
+2026-05-14 15:38:00,017 [INFO]     Contact: Patricia Slack | PATRICIA.SLACK@MSDH.MS.GOV
+2026-05-14 15:38:00,017 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:38:00,017 [INFO]       [1/2] → 001_RFP_Comp State Health Plan.pdf
+2026-05-14 15:38:04,271 [INFO]         ✓ 001_RFP_Comp State Health Plan.pdf (408,645 bytes)
+2026-05-14 15:38:04,276 [INFO]       [2/2] → 002_Statement of Compliance.pdf
+2026-05-14 15:38:06,357 [INFO]         ✓ 002_Statement of Compliance.pdf (123,271 bytes)
+2026-05-14 15:38:07,126 [INFO] 
+  [74/92] BidID 45187 | ETA ~4 min
+2026-05-14 15:38:07,899 [INFO]     1301-26-R-IFBD-00062 — MS DEPT OF HEALTH
+2026-05-14 15:38:07,899 [INFO]     Contact: Patricia Youngblood | PATRICIA.YOUNGBLOOD@MSDH.MS.GOV
+2026-05-14 15:38:07,899 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:38:07,900 [INFO]       [1/2] → 001_Draft Copy.pdf
+2026-05-14 15:38:10,738 [INFO]         ✓ 001_Draft Copy.pdf (313,552 bytes)
+2026-05-14 15:38:10,738 [INFO]       [2/2] → 002_IFB.pdf
+2026-05-14 15:38:13,531 [INFO]         ✓ 002_IFB.pdf (438,237 bytes)
+2026-05-14 15:38:14,351 [INFO] 
+  [75/92] BidID 45175 | ETA ~4 min
+2026-05-14 15:38:14,996 [INFO]     1301-26-R-IFBD-00064 — MS DEPT OF HEALTH
+2026-05-14 15:38:15,008 [INFO]     Contact: Hannah Wright | HANNAH.WRIGHT@MSDH.MS.GOV
+2026-05-14 15:38:15,013 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:38:15,014 [INFO]       [1/2] → 001_Advertisement.pdf
+2026-05-14 15:38:16,730 [INFO]         ✓ 001_Advertisement.pdf (114,580 bytes)
+2026-05-14 15:38:16,730 [INFO]       [2/2] → 002_Invitations for Bid.pdf
+2026-05-14 15:38:19,674 [INFO]         ✓ 002_Invitations for Bid.pdf (431,096 bytes)
+2026-05-14 15:38:20,029 [INFO] 
+  [76/92] BidID 45298 | ETA ~4 min
+2026-05-14 15:38:20,614 [INFO]     1301-26-R-IFBD-00063-V01 — MS DEPT OF HEALTH
+2026-05-14 15:38:20,615 [INFO]     Contact: Hannah Wright | HANNAH.WRIGHT@MSDH.MS.GOV
+2026-05-14 15:38:20,615 [INFO]     Downloading 4 attachment(s)...
+2026-05-14 15:38:20,615 [INFO]       [1/4] → 001_Advertisement.pdf
+2026-05-14 15:38:22,045 [INFO]         ✓ 001_Advertisement.pdf (97,801 bytes)
+2026-05-14 15:38:22,047 [INFO]       [2/4] → 002_Business Associate Agreement.pdf
+2026-05-14 15:38:23,973 [INFO]         ✓ 002_Business Associate Agreement.pdf (313,562 bytes)
+2026-05-14 15:38:23,984 [INFO]       [3/4] → 003_IFB RFx- 3160008035 Ryan White Part B Third Party Administrator.pdf
+2026-05-14 15:38:26,144 [INFO]         ✓ 003_IFB RFx- 3160008035 Ryan White Part B Third Party Administrator.pdf (383,194 bytes)
+2026-05-14 15:38:26,159 [INFO]       [4/4] → 004_Question & Answer Report IFB RFx 3160008035.pdf
+2026-05-14 15:38:27,642 [INFO]         ✓ 004_Question & Answer Report IFB RFx 3160008035.pdf (87,794 bytes)
+2026-05-14 15:38:28,372 [INFO] 
+  [77/92] BidID 45147 | ETA ~4 min
+2026-05-14 15:38:29,040 [INFO]     1301-26-R-RFIN-00006 — MS DEPT OF HEALTH
+2026-05-14 15:38:29,040 [INFO]     Contact: Cynthia Brasher | CYNTHIA.BRASHER@MSDH.MS.GOV
+2026-05-14 15:38:29,040 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:38:29,040 [INFO]       [1/1] → 001_Note of Proposed Sole Source.docx
+2026-05-14 15:38:30,527 [INFO]         ✓ 001_Note of Proposed Sole Source.docx (21,645 bytes)
+2026-05-14 15:38:31,029 [INFO] 
+  [78/92] BidID 45146 | ETA ~3 min
+2026-05-14 15:38:31,758 [INFO]     1301-26-R-RFIN-00005 — MS DEPT OF HEALTH
+2026-05-14 15:38:31,758 [INFO]     Contact: Cynthia Brasher | CYNTHIA.BRASHER@MSDH.MS.GOV
+2026-05-14 15:38:31,758 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:38:31,760 [INFO]       [1/1] → 001_Note of Proposed Sole Source.docx
+2026-05-14 15:38:33,087 [INFO]         ✓ 001_Note of Proposed Sole Source.docx (23,001 bytes)
+2026-05-14 15:38:33,404 [INFO] 
+  [79/92] BidID 45081 | ETA ~3 min
+2026-05-14 15:38:34,055 [INFO]     1301-26-R-IFBD-00061-V01 — MS DEPT OF HEALTH
+2026-05-14 15:38:34,056 [INFO]     Contact: Patricia Youngblood | PATRICIA.YOUNGBLOOD@MSDH.MS.GOV
+2026-05-14 15:38:34,056 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:38:34,056 [INFO]       [1/2] → 001_Copy Business Associate Agreement.pdf
+2026-05-14 15:38:36,210 [INFO]         ✓ 001_Copy Business Associate Agreement.pdf (307,881 bytes)
+2026-05-14 15:38:36,212 [INFO]       [2/2] → 002_RFx3160008012-IFB.pdf
+2026-05-14 15:38:40,818 [INFO]         ✓ 002_RFx3160008012-IFB.pdf (457,040 bytes)
+2026-05-14 15:38:41,371 [INFO] 
+  [80/92] BidID 45032 | ETA ~3 min
+2026-05-14 15:38:41,984 [INFO]     1301-26-R-IFBD-00052 — MS DEPT OF HEALTH
+2026-05-14 15:38:41,984 [INFO]     Contact: Hannah Wright | HANNAH.WRIGHT@MSDH.MS.GOV
+2026-05-14 15:38:41,984 [INFO]     Downloading 4 attachment(s)...
+2026-05-14 15:38:41,984 [INFO]       [1/4] → 001_IFB RFx-3160007974 Trauma Care RN Consultant for MSDH.pdf
+2026-05-14 15:38:45,641 [INFO]         ✓ 001_IFB RFx-3160007974 Trauma Care RN Consultant for MSDH.pdf (358,047 bytes)
+2026-05-14 15:38:45,641 [INFO]       [2/4] → 002_RFx 3160007974 Trauma Care RN Consultant for MSDH AD.pdf
+2026-05-14 15:38:47,030 [INFO]         ✓ 002_RFx 3160007974 Trauma Care RN Consultant for MSDH AD.pdf (95,592 bytes)
+2026-05-14 15:38:47,030 [INFO]       [3/4] → 003_Sample Business Associate Agreement.pdf
+2026-05-14 15:38:49,206 [INFO]         ✓ 003_Sample Business Associate Agreement.pdf (313,562 bytes)
+2026-05-14 15:38:49,208 [INFO]       [4/4] → 004_Trauma System of Care Rules & Regulations.pdf
+2026-05-14 15:38:56,186 [INFO]         ✓ 004_Trauma System of Care Rules & Regulations.pdf (648,401 bytes)
+2026-05-14 15:38:56,495 [INFO] 
+  [81/92] BidID 45213 | ETA ~3 min
+2026-05-14 15:38:57,176 [INFO]     1450-26-R-IFBD-00010-V01 — MS DEPT OF MARINE RESOURCES
+2026-05-14 15:38:57,176 [INFO]     Contact: Rickey Kinnard | RICK.KINNARD@DMR.MS.GOV
+2026-05-14 15:38:57,176 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:38:57,176 [INFO]       [1/2] → 001_Advertisement MDMR Staging Site Material Deployment.pdf
+2026-05-14 15:38:58,663 [INFO]         ✓ 001_Advertisement MDMR Staging Site Material Deployment.pdf (113,883 bytes)
+2026-05-14 15:38:58,665 [INFO]       [2/2] → 002_Staging Site Material Deployment_final.pdf
+2026-05-14 15:39:02,577 [INFO]         ✓ 002_Staging Site Material Deployment_final.pdf (870,890 bytes)
+2026-05-14 15:39:03,005 [INFO] 
+  [82/92] BidID 45065 | ETA ~2 min
+2026-05-14 15:39:03,704 [INFO]     1181-26-R-IFBD-00001 — MS DEPT OF REVENUE
+2026-05-14 15:39:03,704 [INFO]     Contact: Nyla Kendrick | NYLA.KENDRICK@DOR.MS.GOV
+2026-05-14 15:39:03,704 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:39:03,704 [INFO]       [1/1] → 001_IFB - Title Print and Mail Services.pdf
+2026-05-14 15:39:26,711 [INFO]         ✓ 001_IFB - Title Print and Mail Services.pdf (3,895,681 bytes)
+2026-05-14 15:39:27,170 [INFO] 
+  [83/92] BidID 45279 | ETA ~2 min
+2026-05-14 15:39:27,812 [INFO]     1941-26-R-IFBD-00039-V03 — MS DEPT OF TRANSPORTATION
+2026-05-14 15:39:27,812 [INFO]     Contact: Ashley Harrell | AHARRELL@MDOT.MS.GOV
+2026-05-14 15:39:27,812 [INFO]     Downloading 8 attachment(s)...
+2026-05-14 15:39:27,812 [INFO]       [1/8] → 001_Addendum A Yazoo RX3160008022 Modular Office Trailer.pdf
+2026-05-14 15:39:29,456 [INFO]         ✓ 001_Addendum A Yazoo RX3160008022 Modular Office Trailer.pdf (103,866 bytes)
+2026-05-14 15:39:29,458 [INFO]       [2/8] → 002_Attachment A RFX Response in MAGIC.pdf
+2026-05-14 15:39:39,204 [INFO]         ✓ 002_Attachment A RFX Response in MAGIC.pdf (1,744,502 bytes)
+2026-05-14 15:39:39,204 [INFO]       [3/8] → 003_Attachment B Magic Supplier Self- Service.pdf
+2026-05-14 15:39:54,695 [INFO]         ✓ 003_Attachment B Magic Supplier Self- Service.pdf (2,530,360 bytes)
+2026-05-14 15:39:54,697 [INFO]       [4/8] → 004_Attachment C Specifications.pdf
+2026-05-14 15:39:57,358 [INFO]         ✓ 004_Attachment C Specifications.pdf (277,941 bytes)
+2026-05-14 15:39:57,360 [INFO]       [5/8] → 005_Attachment D EEV Certification (7).pdf
+2026-05-14 15:39:58,994 [INFO]         ✓ 005_Attachment D EEV Certification (7).pdf (71,069 bytes)
+2026-05-14 15:39:58,994 [INFO]       [6/8] → 006_Attachment E- Example of Agency Contract.pdf
+2026-05-14 15:40:01,384 [INFO]         ✓ 006_Attachment E- Example of Agency Contract.pdf (261,776 bytes)
+2026-05-14 15:40:01,385 [INFO]       [7/8] → 007_MDOT Standard Contract Addendum.pdf
+2026-05-14 15:40:03,059 [INFO]         ✓ 007_MDOT Standard Contract Addendum.pdf (139,744 bytes)
+2026-05-14 15:40:03,059 [INFO]       [8/8] → 008_RFX 3160008022 Bid Packet D3 Trailer Lease.pdf
+2026-05-14 15:40:05,113 [INFO]         ✓ 008_RFX 3160008022 Bid Packet D3 Trailer Lease.pdf (365,361 bytes)
+2026-05-14 15:40:05,621 [INFO] 
+  [84/92] BidID 45278 | ETA ~2 min
+2026-05-14 15:40:06,304 [INFO]     1941-26-R-IFBD-00038-V03 — MS DEPT OF TRANSPORTATION
+2026-05-14 15:40:06,304 [INFO]     Contact: Ashley Harrell | AHARRELL@MDOT.MS.GOV
+2026-05-14 15:40:06,304 [INFO]     Downloading 8 attachment(s)...
+2026-05-14 15:40:06,304 [INFO]       [1/8] → 001_Addendum A RFX3160008021 Hazelhurst Project Office.pdf
+2026-05-14 15:40:07,647 [INFO]         ✓ 001_Addendum A RFX3160008021 Hazelhurst Project Office.pdf (30,595 bytes)
+2026-05-14 15:40:07,652 [INFO]       [2/8] → 002_Attachment A RFX Response in MAGIC (8).pdf
+2026-05-14 15:40:22,915 [INFO]         ✓ 002_Attachment A RFX Response in MAGIC (8).pdf (1,744,501 bytes)
+2026-05-14 15:40:22,915 [INFO]       [3/8] → 003_Attachment B Magic Supplier Self- Service (7).pdf
+2026-05-14 15:40:45,419 [INFO]         ✓ 003_Attachment B Magic Supplier Self- Service (7).pdf (2,530,360 bytes)
+2026-05-14 15:40:45,421 [INFO]       [4/8] → 004_Attachment C Specifications.pdf
+2026-05-14 15:40:47,689 [INFO]         ✓ 004_Attachment C Specifications.pdf (277,941 bytes)
+2026-05-14 15:40:47,692 [INFO]       [5/8] → 005_Attachment D EEV Certification (7).pdf
+2026-05-14 15:40:49,208 [INFO]         ✓ 005_Attachment D EEV Certification (7).pdf (71,069 bytes)
+2026-05-14 15:40:49,208 [INFO]       [6/8] → 006_Attachment E-Example of Agency Contract.pdf
+2026-05-14 15:40:52,216 [INFO]         ✓ 006_Attachment E-Example of Agency Contract.pdf (261,893 bytes)
+2026-05-14 15:40:52,216 [INFO]       [7/8] → 007_MDOT Standard Contract Addendum.pdf
+2026-05-14 15:40:54,381 [INFO]         ✓ 007_MDOT Standard Contract Addendum.pdf (139,744 bytes)
+2026-05-14 15:40:54,381 [INFO]       [8/8] → 008_RFX 3160008021 Bid Packet Huzelhurst Project Office Trailer Leas.pdf
+2026-05-14 15:40:57,777 [INFO]         ✓ 008_RFX 3160008021 Bid Packet Huzelhurst Project Office Trailer Leas.pdf (365,369 bytes)
+2026-05-14 15:40:58,602 [INFO] 
+  [85/92] BidID 45293 | ETA ~2 min
+2026-05-14 15:40:59,236 [INFO]     1464-26-R-IFBD-00010-V01 — MS DEPT OF WILDLIFE, FISHERIES AND PARKS
+2026-05-14 15:40:59,236 [INFO]     Contact: John Lee | JOHNLEE@WFP.MS.GOV
+2026-05-14 15:40:59,236 [INFO]     Downloading 2 attachment(s)...
+2026-05-14 15:40:59,236 [INFO]       [1/2] → 001_RFx 310008045 Addendum 1 Questions and Answers.pdf
+2026-05-14 15:41:00,881 [INFO]         ✓ 001_RFx 310008045 Addendum 1 Questions and Answers.pdf (162,878 bytes)
+2026-05-14 15:41:00,881 [INFO]       [2/2] → 002_RFx 3160008045 Boat Registration Decal.pdf
+2026-05-14 15:41:04,433 [INFO]         ✓ 002_RFx 3160008045 Boat Registration Decal.pdf (472,916 bytes)
+2026-05-14 15:41:04,928 [INFO] 
+  [86/92] BidID 44959 | ETA ~1 min
+2026-05-14 15:41:05,501 [INFO]     1531-26-R-RFQF-00005 — MS PUBLIC EMPLOYEES RETIREMENT
+2026-05-14 15:41:05,501 [INFO]     Contact: JUDY MILLER | jmiller@pers.ms.gov
+2026-05-14 15:41:05,501 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:41:05,501 [INFO]       [1/1] → 001_RFQ 3140004550 Disability Determination & Appeals Services 04132.pdf
+2026-05-14 15:41:28,884 [INFO]         ✓ 001_RFQ 3140004550 Disability Determination & Appeals Services 04132.pdf (3,413,514 bytes)
+2026-05-14 15:41:29,650 [INFO] 
+  [87/92] BidID 45115 | ETA ~1 min
+2026-05-14 15:41:30,309 [INFO]     3374-26-R-IFBD-00012 — MS STATE HOSPITAL
+2026-05-14 15:41:30,311 [INFO]     Contact: Jennifer Boler | JENNIFER.BOLER@MSH.MS.GOV
+2026-05-14 15:41:30,311 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:41:30,311 [INFO]       [1/1] → 001_Bid Notice.pdf
+2026-05-14 15:41:46,862 [INFO]         ✓ 001_Bid Notice.pdf (2,328,482 bytes)
+2026-05-14 15:41:47,183 [INFO] 
+  [88/92] BidID 44991 | ETA ~1 min
+2026-05-14 15:41:48,214 [INFO]     9275-26-R-IFBD-00019 — UNIV OF MS MEDICAL CENTER
+2026-05-14 15:41:48,214 [INFO]     Contact: Wyatt Williamson | wlwilliamson@umc.edu
+2026-05-14 15:41:48,214 [INFO]     Downloading 1 attachment(s)...
+2026-05-14 15:41:48,214 [INFO]       [1/1] → 001_IFB 3755 Advertisement.pdf
+2026-05-14 15:41:49,674 [INFO]         ✓ 001_IFB 3755 Advertisement.pdf (99,361 bytes)
+2026-05-14 15:41:50,426 [INFO] 
+  [89/92] BidID 45216 | ETA ~1 min
+2026-05-14 15:41:51,632 [INFO]     9280-26-R-IFBD-00047 — UNIVERSITY OF SOUTHERN MISSISSIPPI
+2026-05-14 15:41:51,632 [INFO]     Contact: Millissa Stork | millissa.stork@usm.edu
+2026-05-14 15:41:51,632 [INFO]     Downloading 4 attachment(s)...
+2026-05-14 15:41:51,632 [INFO]       [1/4] → 001_26_44 Bid Packet.pdf
+2026-05-14 15:41:52,989 [INFO]         ✓ 001_26_44 Bid Packet.pdf (1,047 bytes)
+2026-05-14 15:41:52,991 [INFO]       [2/4] → 002_26_44 Filtration Components_Bid Specifications.pdf
+2026-05-14 15:41:55,263 [INFO]         ✓ 002_26_44 Filtration Components_Bid Specifications.pdf (187,753 bytes)
+2026-05-14 15:41:55,263 [INFO]       [3/4] → 003_Bid 26_44 Filtration System OHRC Bid Coversheet.pdf
+2026-05-14 15:41:57,152 [INFO]         ✓ 003_Bid 26_44 Filtration System OHRC Bid Coversheet.pdf (207,750 bytes)
+2026-05-14 15:41:57,152 [INFO]       [4/4] → 004_Bid 26_44 Legal Ad_SH.pdf
+2026-05-14 15:42:00,744 [INFO]         ✓ 004_Bid 26_44 Legal Ad_SH.pdf (357,397 bytes)
+2026-05-14 15:42:01,206 [INFO] 
+  [90/92] BidID 45137 | ETA ~0 min
+2026-05-14 15:42:01,847 [INFO]     9280-26-R-RFQI-00009 — UNIVERSITY OF SOUTHERN MISSISSIPPI
+2026-05-14 15:42:01,848 [INFO]     Contact: Millissa Stork | millissa.stork@usm.edu
+2026-05-14 15:42:01,848 [INFO]     Downloading 4 attachment(s)...
+2026-05-14 15:42:01,848 [INFO]       [1/4] → 001_Department Letter.pdf
+2026-05-14 15:42:06,632 [INFO]         ✓ 001_Department Letter.pdf (545,178 bytes)
+2026-05-14 15:42:06,632 [INFO]       [2/4] → 002_Legal Ad.pdf
+2026-05-14 15:42:09,110 [INFO]         ✓ 002_Legal Ad.pdf (168,192 bytes)
+2026-05-14 15:42:09,110 [INFO]       [3/4] → 003_Questionaire.pdf
+2026-05-14 15:42:10,426 [INFO]         ✓ 003_Questionaire.pdf (33,100 bytes)
+2026-05-14 15:42:10,426 [INFO]       [4/4] → 004_Vendor Letter.pdf
+2026-05-14 15:42:12,701 [INFO]         ✓ 004_Vendor Letter.pdf (281,752 bytes)
+2026-05-14 15:42:13,270 [INFO] 
+  [91/92] BidID 45136 | ETA ~0 min
+2026-05-14 15:42:13,829 [INFO]     9280-26-R-RFQI-00008 — UNIVERSITY OF SOUTHERN MISSISSIPPI
+2026-05-14 15:42:13,829 [INFO]     Contact: Millissa Stork | millissa.stork@usm.edu
+2026-05-14 15:42:13,844 [INFO]     Downloading 4 attachment(s)...
+2026-05-14 15:42:13,844 [INFO]       [1/4] → 001_Department Letter.pdf
+2026-05-14 15:42:17,710 [INFO]         ✓ 001_Department Letter.pdf (638,192 bytes)
+2026-05-14 15:42:17,710 [INFO]       [2/4] → 002_Legal Ad.pdf
+2026-05-14 15:42:19,678 [INFO]         ✓ 002_Legal Ad.pdf (218,000 bytes)
+2026-05-14 15:42:19,678 [INFO]       [3/4] → 003_Questionaire.pdf
+2026-05-14 15:42:22,472 [INFO]         ✓ 003_Questionaire.pdf (290,741 bytes)
+2026-05-14 15:42:22,472 [INFO]       [4/4] → 004_Vendor Letter.pdf
+2026-05-14 15:42:24,945 [INFO]         ✓ 004_Vendor Letter.pdf (262,461 bytes)
+2026-05-14 15:42:25,566 [INFO] 
+  [92/92] BidID 45070 | ETA ~0 min
+2026-05-14 15:42:26,160 [INFO]     9280-26-R-RFQI-00007 — UNIVERSITY OF SOUTHERN MISSISSIPPI
+2026-05-14 15:42:26,161 [INFO]     Contact: Millissa Stork | millissa.stork@usm.edu
+2026-05-14 15:42:26,161 [INFO]     Downloading 4 attachment(s)...
+2026-05-14 15:42:26,162 [INFO]       [1/4] → 001_Department Letter.pdf
+2026-05-14 15:42:28,955 [INFO]         ✓ 001_Department Letter.pdf (532,162 bytes)
+2026-05-14 15:42:28,958 [INFO]       [2/4] → 002_Legal Ad.pdf
+2026-05-14 15:42:31,327 [INFO]         ✓ 002_Legal Ad.pdf (165,033 bytes)
+2026-05-14 15:42:31,327 [INFO]       [3/4] → 003_Questionaire.pdf
+2026-05-14 15:42:33,529 [INFO]         ✓ 003_Questionaire.pdf (341,520 bytes)
+2026-05-14 15:42:33,529 [INFO]       [4/4] → 004_VENDOR JUSTIFICATION LETTER.pdf
+2026-05-14 15:42:35,987 [INFO]         ✓ 004_VENDOR JUSTIFICATION LETTER.pdf (220,799 bytes)
+2026-05-14 15:42:36,599 [INFO] 
+── Saving combined output ──
+2026-05-14 15:42:36,605 [INFO]   Saved 92 records → scraped_data\all_bids_complete.json
+2026-05-14 15:42:36,606 [INFO] 
+============================================================
+2026-05-14 15:42:36,606 [INFO] DONE
+2026-05-14 15:42:36,606 [INFO]   Bids processed       : 92
+2026-05-14 15:42:36,606 [INFO]   Attachments downloaded: 217
+2026-05-14 15:42:36,607 [INFO]   Attachments failed   : 0
+2026-05-14 15:42:36,607 [INFO]   Output               : C:\Scraping\Mississippi-Procurement\scraped_data
+2026-05-14 15:42:36,608 [INFO] ============================================================
+2026-05-15 11:00:24,051 [INFO] ============================================================
+2026-05-15 11:00:24,057 [INFO] Mississippi Procurement Portal Scraper
+2026-05-15 11:00:24,057 [INFO] Output : C:\Scraping\Mississippi-Procurement\scraped_data
+2026-05-15 11:00:24,061 [INFO] ============================================================
+2026-05-15 11:00:24,073 [INFO]   Already downloaded: 217 files
+2026-05-15 11:00:24,090 [INFO] 
+── Phase 1: Fetching all bids ──
+2026-05-15 11:00:24,100 [INFO]   Fetching all bids from https://www.ms.gov/dfa/contract_bid_search/Bid/BidData?AppId=1
+2026-05-15 11:00:27,461 [ERROR]   Failed to fetch bids: 500 Server Error: Internal Server Error for url: https://www.ms.gov/dfa/contract_bid_search/Bid/BidData?AppId=1
+2026-05-15 11:00:27,476 [INFO]   Direct POST failed — trying Playwright fallback...
+2026-05-15 11:00:56,505 [INFO]   Loading listing page via Playwright...
+2026-05-15 11:01:10,852 [INFO]   Intercepted BidData: 97 rows
+2026-05-15 11:01:33,452 [INFO]   Total bids found: 97
+2026-05-15 11:01:33,463 [INFO]   Extracted 97 BidIDs
+2026-05-15 11:01:33,522 [INFO]   Saved listing: scraped_data\bid_listing.json
+2026-05-15 11:01:33,525 [INFO] 
+── Phase 2+3: Details + Downloads for 97 bids ──
+2026-05-15 11:01:33,528 [INFO] 
+  [1/97] BidID 45288 | ETA ~0 min
+2026-05-15 11:01:33,555 [INFO]     Loaded cached detail: 1601-26-R-RFIN-00054
+2026-05-15 11:01:33,560 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:33,562 [INFO]       [1/1] SKIP (done): Sole Source No. 5002 URL
+2026-05-15 11:01:33,875 [INFO] 
+  [2/97] BidID 45287 | ETA ~0 min
+2026-05-15 11:01:33,898 [INFO]     Loaded cached detail: 1601-26-R-RFIN-00053
+2026-05-15 11:01:33,905 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:33,908 [INFO]       [1/1] SKIP (done): Sole Source No. 4708 URL
+2026-05-15 11:01:34,486 [INFO] 
+  [3/97] BidID 45209 | ETA ~1 min
+2026-05-15 11:01:34,518 [INFO]     Loaded cached detail: 1130-26-R-RFPR-00004-V02
+2026-05-15 11:01:34,527 [INFO]     Downloading 20 attachment(s)...
+2026-05-15 11:01:34,531 [INFO]       [1/20] SKIP (done): Attachment A - RFP Terms and Conditions
+2026-05-15 11:01:34,535 [INFO]       [2/20] SKIP (done): Attachment B - Scope of Work
+2026-05-15 11:01:34,539 [INFO]       [3/20] SKIP (done): Attachment C - RFP Evaluation Plan
+2026-05-15 11:01:34,544 [INFO]       [4/20] SKIP (done): Attachment D - Sample Master Agreement
+2026-05-15 11:01:34,548 [INFO]       [5/20] SKIP (done): Attachment D - Sample Master Agreement_Appendix1Re
+2026-05-15 11:01:34,552 [INFO]       [6/20] SKIP (done): Attachment E - Participation Information
+2026-05-15 11:01:34,557 [INFO]       [7/20] SKIP (done): Attachment F - Protest Information
+2026-05-15 11:01:34,565 [INFO]       [8/20] SKIP (done): Attachment G - Offeror Information, Acknowledgemen
+2026-05-15 11:01:34,566 [INFO]       [9/20] SKIP (done): Attachment G - Offeror Information, Acknowledgemen
+2026-05-15 11:01:34,566 [INFO]       [10/20] SKIP (done): Attachment H - Offeror Response Worksheet
+2026-05-15 11:01:34,568 [INFO]       [11/20] SKIP (done): Attachment H - Offeror Response Worksheet
+2026-05-15 11:01:34,568 [INFO]       [12/20] SKIP (done): Attachment I - Cost Proposal
+2026-05-15 11:01:34,573 [INFO]       [13/20] SKIP (done): Attachment J -  Proposed Modifications to Sample M
+2026-05-15 11:01:34,582 [INFO]       [14/20] SKIP (done): Attachment J -  Proposed Modifications to Sample M
+2026-05-15 11:01:34,584 [INFO]       [15/20] SKIP (done): Attachment K - Claim of Business Confidentiality
+2026-05-15 11:01:34,589 [INFO]       [16/20] SKIP (done): Attachment K- Claim of Business Confidentiality wo
+2026-05-15 11:01:34,591 [INFO]       [17/20] SKIP (done): NASPO ValuePoint State of MS Fire Truck and Fire A
+2026-05-15 11:01:34,591 [INFO]       [18/20] SKIP (done): NASPO ValuePoint State of MS Fire Truck and Fire A
+2026-05-15 11:01:34,591 [INFO]       [19/20] SKIP (done): States with ITP
+2026-05-15 11:01:34,597 [INFO]       [20/20] SKIP (done): Supplier Self Service eLearning Instructions
+2026-05-15 11:01:35,154 [INFO] 
+  [4/97] BidID 45117 | ETA ~1 min
+2026-05-15 11:01:35,171 [INFO]     Loaded cached detail: 1130-26-R-NBID-00017
+2026-05-15 11:01:35,173 [INFO]     Downloading 9 attachment(s)...
+2026-05-15 11:01:35,173 [INFO]       [1/9] SKIP (done): Attachment A-Items
+2026-05-15 11:01:35,175 [INFO]       [2/9] SKIP (done): Attachment B- Dealers List MRO 2026
+2026-05-15 11:01:35,177 [INFO]       [3/9] SKIP (done): Attachment C- Price List MRO 2026
+2026-05-15 11:01:35,179 [INFO]       [4/9] SKIP (done): Attachment D- Internal Catalog Spreadsheet MRO 202
+2026-05-15 11:01:35,179 [INFO]       [5/9] SKIP (done): Attachment E- Purchase Summary MRO 2026
+2026-05-15 11:01:35,181 [INFO]       [6/9] SKIP (done): Attachment F- Purchase Summary Attestation
+2026-05-15 11:01:35,183 [INFO]       [7/9] SKIP (done): Attachment G- SOMS Terms and Conditions
+2026-05-15 11:01:35,184 [INFO]       [8/9] SKIP (done): Attachment H- Sample Contract
+2026-05-15 11:01:35,184 [INFO]       [9/9] SKIP (done): Format and Guidelines for Proposals- MRO 2026
+2026-05-15 11:01:35,615 [INFO] 
+  [5/97] BidID 45150 | ETA ~1 min
+2026-05-15 11:01:35,647 [INFO]     Loaded cached detail: 1130-26-R-NBID-00016-V01
+2026-05-15 11:01:35,649 [INFO]     Downloading 7 attachment(s)...
+2026-05-15 11:01:35,652 [INFO]       [1/7] SKIP (done): Attachment B- Price List Toner 2026
+2026-05-15 11:01:35,660 [INFO]       [2/7] SKIP (done): Attachment C- Internal Catalog Spreadsheet Toner 2
+2026-05-15 11:01:35,665 [INFO]       [3/7] SKIP (done): Attachment D- Purchase Summary Toner 2026
+2026-05-15 11:01:35,669 [INFO]       [4/7] SKIP (done): Attachment E- Purchase Summary Attestation
+2026-05-15 11:01:35,670 [INFO]       [5/7] SKIP (done): Attachment F- SOMS Terms and Conditions
+2026-05-15 11:01:35,675 [INFO]       [6/7] SKIP (done): Format and Guidelines for Proposals-Toner 2026
+2026-05-15 11:01:35,683 [INFO]       [7/7] SKIP (done): Format and Guidelines for Proposals-Toner 2026 Ame
+2026-05-15 11:01:36,414 [INFO] 
+  [6/97] BidID 40954 | ETA ~1 min
+2026-05-15 11:01:36,440 [INFO]     Loaded cached detail: 1601-25-R-RFPR-00017
+2026-05-15 11:01:36,444 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:36,455 [INFO]       [1/1] SKIP (done): RFP No. 4599 URL
+2026-05-15 11:01:37,049 [INFO] 
+  [7/97] BidID 38017 | ETA ~1 min
+2026-05-15 11:01:37,092 [INFO]     Loaded cached detail: 1601-25-R-RFPR-00005
+2026-05-15 11:01:37,094 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:37,097 [INFO]       [1/1] SKIP (done): General RFP No. 3850 URL
+2026-05-15 11:01:37,886 [INFO] 
+  [8/97] BidID 45178 | ETA ~1 min
+2026-05-15 11:01:37,910 [INFO]     Loaded cached detail: 9210-26-R-IFBD-00023
+2026-05-15 11:01:37,910 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:37,912 [INFO]       [1/1] SKIP (done): advertiisement
+2026-05-15 11:01:38,636 [INFO] 
+  [9/97] BidID 45177 | ETA ~1 min
+2026-05-15 11:01:38,665 [INFO]     Loaded cached detail: 9210-26-R-IFBD-00022
+2026-05-15 11:01:38,668 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:38,668 [INFO]       [1/1] SKIP (done): advertisement
+2026-05-15 11:01:39,415 [INFO] 
+  [10/97] BidID 45176 | ETA ~1 min
+2026-05-15 11:01:39,470 [INFO]     Loaded cached detail: 9210-26-R-IFBD-00020
+2026-05-15 11:01:39,476 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:39,479 [INFO]       [1/1] SKIP (done): advertisement
+2026-05-15 11:01:40,174 [INFO] 
+  [11/97] BidID 45226 | ETA ~1 min
+2026-05-15 11:01:40,195 [INFO]     Loaded cached detail: 9210-26-R-IFBD-00019-V01
+2026-05-15 11:01:40,196 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:01:40,196 [INFO]       [1/2] SKIP (done): Addendum
+2026-05-15 11:01:40,197 [INFO]       [2/2] SKIP (done): advertisement
+2026-05-15 11:01:40,754 [INFO] 
+  [12/97] BidID 45225 | ETA ~1 min
+2026-05-15 11:01:40,790 [INFO]     Loaded cached detail: 9210-26-R-IFBD-00018-V01
+2026-05-15 11:01:40,795 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:01:40,797 [INFO]       [1/2] SKIP (done): Addendum
+2026-05-15 11:01:40,799 [INFO]       [2/2] SKIP (done): advertisement
+2026-05-15 11:01:41,383 [INFO] 
+  [13/97] BidID 45095 | ETA ~1 min
+2026-05-15 11:01:41,436 [INFO]     Loaded cached detail: 3372-26-R-RFIN-00018
+2026-05-15 11:01:41,441 [INFO]     Downloading 3 attachment(s)...
+2026-05-15 11:01:41,445 [INFO]       [1/3] SKIP (done): advertisement
+2026-05-15 11:01:41,450 [INFO]       [2/3] SKIP (done): Application
+2026-05-15 11:01:41,453 [INFO]       [3/3] SKIP (done): RFA
+2026-05-15 11:01:41,927 [INFO] 
+  [14/97] BidID 45221 | ETA ~1 min
+2026-05-15 11:01:41,970 [INFO]     Loaded cached detail: 9250-26-R-RFIN-00040
+2026-05-15 11:01:41,972 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:41,978 [INFO]       [1/1] SKIP (done): Notice
+2026-05-15 11:01:42,716 [INFO] 
+  [15/97] BidID 45217 | ETA ~1 min
+2026-05-15 11:01:42,768 [INFO]     Loaded cached detail: 9250-26-R-IFBD-00004
+2026-05-15 11:01:42,776 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:01:42,783 [INFO]       [1/2] SKIP (done): Pricing spreadsheet
+2026-05-15 11:01:42,795 [INFO]       [2/2] SKIP (done): RFP
+2026-05-15 11:01:43,371 [INFO] 
+  [16/97] BidID 45211 | ETA ~1 min
+2026-05-15 11:01:43,428 [INFO]     Loaded cached detail: 9250-26-R-RFIN-00038
+2026-05-15 11:01:43,434 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:43,451 [INFO]       [1/1] SKIP (done): Notice
+2026-05-15 11:01:44,117 [INFO] 
+  [17/97] BidID 45188 | ETA ~1 min
+2026-05-15 11:01:44,158 [INFO]     Loaded cached detail: 9240-26-R-IFBD-00019
+2026-05-15 11:01:44,166 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:44,178 [INFO]       [1/1] SKIP (done): OCLC and Library Sole Source letters
+2026-05-15 11:01:44,600 [INFO] 
+  [18/97] BidID 45215 | ETA ~1 min
+2026-05-15 11:01:44,670 [INFO]     Loaded cached detail: 9260-26-R-IFBD-00005
+2026-05-15 11:01:44,680 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:44,694 [INFO]       [1/1] SKIP (done): Landscaping Rfx
+2026-05-15 11:01:45,212 [INFO] 
+  [19/97] BidID 45329 | ETA ~1 min
+2026-05-15 11:01:47,559 [INFO]     124-20260421114206 CCBS — MPTAP
+2026-05-15 11:01:47,563 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:01:47,565 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:47,572 [INFO]       [1/1] → 001_CR 318 & CR 382 ADVERTISEMENT.pdf.pdf
+2026-05-15 11:01:52,300 [INFO]         ✓ 001_CR 318 & CR 382 ADVERTISEMENT.pdf.pdf (119,271 bytes)
+2026-05-15 11:01:52,719 [INFO] 
+  [20/97] BidID 45328 | ETA ~1 min
+2026-05-15 11:01:53,559 [INFO]     137-20260421105458 RCBS — MPTAP
+2026-05-15 11:01:53,567 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:01:53,577 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:01:53,585 [INFO]       [1/1] → 001_Bid 26 300 7A Gravel .pdf.pdf
+2026-05-15 11:01:58,970 [INFO]         ✓ 001_Bid 26 300 7A Gravel .pdf.pdf (144,838 bytes)
+2026-05-15 11:01:59,600 [INFO] 
+  [21/97] BidID 45327 | ETA ~2 min
+2026-05-15 11:02:00,596 [INFO]     137-20260421105307 RCBS — MPTAP
+2026-05-15 11:02:00,600 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:02:00,604 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:02:00,607 [INFO]       [1/1] → 001_Bid 26 300 6A Crushed Aggregates.pdf.pdf
+2026-05-15 11:02:04,042 [INFO]         ✓ 001_Bid 26 300 6A Crushed Aggregates.pdf.pdf (154,298 bytes)
+2026-05-15 11:02:04,764 [INFO] 
+  [22/97] BidID 45326 | ETA ~2 min
+2026-05-15 11:02:05,812 [INFO]     137-20260421104829 RCBS — MPTAP
+2026-05-15 11:02:05,817 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:02:05,828 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:02:05,833 [INFO]       [1/1] → 001_Bid 26 300 5A Poly Culverts.pdf.pdf
+2026-05-15 11:02:09,516 [INFO]         ✓ 001_Bid 26 300 5A Poly Culverts.pdf.pdf (145,786 bytes)
+2026-05-15 11:02:09,868 [INFO] 
+  [23/97] BidID 45325 | ETA ~2 min
+2026-05-15 11:02:10,723 [INFO]     137-20260421104356 RCBS — MPTAP
+2026-05-15 11:02:10,731 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:02:10,747 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:02:10,756 [INFO]       [1/1] → 001_Bid 26-300-3A Scrub Seal Slurry Seal Micro Surfacing.pdf.pdf
+2026-05-15 11:02:24,920 [INFO]         ✓ 001_Bid 26-300-3A Scrub Seal Slurry Seal Micro Surfacing.pdf.pdf (1,306,456 bytes)
+2026-05-15 11:02:25,448 [INFO] 
+  [24/97] BidID 45324 | ETA ~3 min
+2026-05-15 11:02:26,873 [INFO]     137-20260421103813 RCBS — MPTAP
+2026-05-15 11:02:26,877 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:02:26,882 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:02:26,888 [INFO]       [1/1] → 001_Bid 26-300-2A Asphalt.pdf.pdf
+2026-05-15 11:02:45,885 [INFO]         ✓ 001_Bid 26-300-2A Asphalt.pdf.pdf (1,077,382 bytes)
+2026-05-15 11:02:46,419 [INFO] 
+  [25/97] BidID 45323 | ETA ~3 min
+2026-05-15 11:02:47,489 [INFO]     338-20260421085306 MTC — MPTAP
+2026-05-15 11:02:47,491 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:02:47,491 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:02:47,493 [INFO]       [1/1] → 001_Cafeteria Plan Administrator Services.pdf.pdf
+2026-05-15 11:02:49,117 [INFO]         ✓ 001_Cafeteria Plan Administrator Services.pdf.pdf (76,140 bytes)
+2026-05-15 11:02:49,659 [INFO] 
+  [26/97] BidID 45322 | ETA ~3 min
+2026-05-15 11:02:50,459 [INFO]     338-20260421085134 MTC — MPTAP
+2026-05-15 11:02:50,463 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:02:50,467 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:02:50,469 [INFO]       [1/1] → 001_Voluntary Group Vision Insurance.pdf.pdf
+2026-05-15 11:02:52,343 [INFO]         ✓ 001_Voluntary Group Vision Insurance.pdf.pdf (76,666 bytes)
+2026-05-15 11:02:52,996 [INFO] 
+  [27/97] BidID 45321 | ETA ~3 min
+2026-05-15 11:02:53,832 [INFO]     338-20260421084831 MTC — MPTAP
+2026-05-15 11:02:53,834 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:02:53,838 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:02:53,840 [INFO]       [1/1] → 001_Voluntary Group Term Life Insurance.pdf.pdf
+2026-05-15 11:02:55,426 [INFO]         ✓ 001_Voluntary Group Term Life Insurance.pdf.pdf (76,953 bytes)
+2026-05-15 11:02:56,009 [INFO] 
+  [28/97] BidID 45320 | ETA ~3 min
+2026-05-15 11:02:56,754 [INFO]     19-20260421081759 Potts Camp — MPTAP
+2026-05-15 11:02:56,756 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:02:56,760 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:02:56,762 [INFO]       [1/1] → 001_00 11 13 Invitation for Bids CDBG 10190.pdf.pdf
+2026-05-15 11:02:58,847 [INFO]         ✓ 001_00 11 13 Invitation for Bids CDBG 10190.pdf.pdf (71,995 bytes)
+2026-05-15 11:02:59,447 [INFO] 
+  [29/97] BidID 45319 | ETA ~3 min
+2026-05-15 11:03:00,209 [INFO]     338-20260420165144 MTC — MPTAP
+2026-05-15 11:03:00,211 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:03:00,213 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:00,215 [INFO]       [1/1] → 001_Voluntary Group Accident Insurance.pdf.pdf
+2026-05-15 11:03:03,272 [INFO]         ✓ 001_Voluntary Group Accident Insurance.pdf.pdf (76,673 bytes)
+2026-05-15 11:03:03,830 [INFO] 
+  [30/97] BidID 45318 | ETA ~3 min
+2026-05-15 11:03:04,763 [INFO]     338-20260420164643 MTC — MPTAP
+2026-05-15 11:03:04,765 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:03:04,773 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:04,779 [INFO]       [1/1] → 001_Dental Insurance.pdf.pdf
+2026-05-15 11:03:06,371 [INFO]         ✓ 001_Dental Insurance.pdf.pdf (8,746 bytes)
+2026-05-15 11:03:06,869 [INFO] 
+  [31/97] BidID 45317 | ETA ~3 min
+2026-05-15 11:03:07,711 [INFO]     147-20260420145257 Richland — MPTAP
+2026-05-15 11:03:07,720 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:03:07,747 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:07,769 [INFO]       [1/1] → 001_00 11 17 - C-111_Advertisement for Bid.pdf.pdf
+2026-05-15 11:03:09,834 [INFO]         ✓ 001_00 11 17 - C-111_Advertisement for Bid.pdf.pdf (109,970 bytes)
+2026-05-15 11:03:10,631 [INFO] 
+  [32/97] BidID 45308 | ETA ~3 min
+2026-05-15 11:03:11,442 [INFO]     2526-20260420145327 Greenville — MPTAP
+2026-05-15 11:03:11,448 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:03:11,456 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:11,460 [INFO]       [1/1] → 001_Section 00075_Advertisement for Bids.pdf.pdf
+2026-05-15 11:03:13,746 [INFO]         ✓ 001_Section 00075_Advertisement for Bids.pdf.pdf (101,242 bytes)
+2026-05-15 11:03:14,528 [INFO] 
+  [33/97] BidID 45307 | ETA ~3 min
+2026-05-15 11:03:15,330 [INFO]     2526-20260420114625 Greenville — MPTAP
+2026-05-15 11:03:15,358 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:03:15,397 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:15,434 [INFO]       [1/1] → 001_SECTION 00075 - ADVERTISEMENT FOR BIDS.pdf.pdf
+2026-05-15 11:03:20,237 [INFO]         ✓ 001_SECTION 00075 - ADVERTISEMENT FOR BIDS.pdf.pdf (201,313 bytes)
+2026-05-15 11:03:20,977 [INFO] 
+  [34/97] BidID 45306 | ETA ~3 min
+2026-05-15 11:03:21,748 [INFO]     357-20260420114410 Madison — MPTAP
+2026-05-15 11:03:21,754 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:03:21,754 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:21,755 [INFO]       [1/1] → 001_Sec-A - Apron Expansion.pdf.pdf
+2026-05-15 11:03:23,780 [INFO]         ✓ 001_Sec-A - Apron Expansion.pdf.pdf (84,843 bytes)
+2026-05-15 11:03:24,581 [INFO] 
+  [35/97] BidID 45305 | ETA ~3 min
+2026-05-15 11:03:25,368 [INFO]     65-20260417134036 LAA — MPTAP
+2026-05-15 11:03:25,370 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:03:25,372 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:25,372 [INFO]       [1/1] → 001_11375_Advertisement for Bids.pdf.pdf
+2026-05-15 11:03:30,129 [INFO]         ✓ 001_11375_Advertisement for Bids.pdf.pdf (98,653 bytes)
+2026-05-15 11:03:30,905 [INFO] 
+  [36/97] BidID 45304 | ETA ~3 min
+2026-05-15 11:03:31,673 [INFO]     357-20260420114111 Madison — MPTAP
+2026-05-15 11:03:31,677 [INFO]     Contact: BID BANK | PROCUREMENTBID@MISSISSIPPI.ORG
+2026-05-15 11:03:31,678 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:31,691 [INFO]       [1/1] → 001_Sec-A - Runway Rehab..pdf.pdf
+2026-05-15 11:03:34,043 [INFO]         ✓ 001_Sec-A - Runway Rehab..pdf.pdf (86,984 bytes)
+2026-05-15 11:03:34,853 [INFO] 
+  [37/97] BidID 45302 | ETA ~3 min
+2026-05-15 11:03:34,885 [INFO]     Loaded cached detail: 44-20260416153622 HCPHC
+2026-05-15 11:03:34,914 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:34,947 [INFO]       [1/1] SKIP (done): 00090 Advertisement - HCPHC-REVISED.pdf
+2026-05-15 11:03:35,317 [INFO] 
+  [38/97] BidID 45301 | ETA ~3 min
+2026-05-15 11:03:35,337 [INFO]     Loaded cached detail: 56-20260416090241 BSWC
+2026-05-15 11:03:35,340 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:35,341 [INFO]       [1/1] SKIP (done): SAP-74(23)M Advertisement.pdf
+2026-05-15 11:03:36,082 [INFO] 
+  [39/97] BidID 45300 | ETA ~3 min
+2026-05-15 11:03:36,093 [INFO]     Loaded cached detail: 75-20260415161329 UM
+2026-05-15 11:03:36,093 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:36,096 [INFO]       [1/1] SKIP (done): ADVERTISEMENT - RFP 813.pdf
+2026-05-15 11:03:36,784 [INFO] 
+  [40/97] BidID 45299 | ETA ~3 min
+2026-05-15 11:03:36,808 [INFO]     Loaded cached detail: 160-20260415123419 MCSD
+2026-05-15 11:03:36,810 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:36,810 [INFO]       [1/1] SKIP (done): MC Press Box 00.1113 Advertisement for Bids_04-15-
+2026-05-15 11:03:37,610 [INFO] 
+  [41/97] BidID 45296 | ETA ~3 min
+2026-05-15 11:03:37,748 [INFO]     Loaded cached detail: 56-20260430104715 JTTWA
+2026-05-15 11:03:37,750 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:37,750 [INFO]       [1/1] SKIP (done): 02 Advertisement for Bids.pdf
+2026-05-15 11:03:38,497 [INFO] 
+  [42/97] BidID 45292 | ETA ~3 min
+2026-05-15 11:03:38,517 [INFO]     Loaded cached detail: 3541-20260506145608 Baldwyn
+2026-05-15 11:03:38,530 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:38,540 [INFO]       [1/1] SKIP (done): Farmers Market Bid.pdf
+2026-05-15 11:03:39,188 [INFO] 
+  [43/97] BidID 45291 | ETA ~3 min
+2026-05-15 11:03:39,242 [INFO]     Loaded cached detail: 1398-20260429100412 KWL
+2026-05-15 11:03:39,242 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:39,244 [INFO]       [1/1] SKIP (done): BID NOTICE - Backhoe April 2026.pdf
+2026-05-15 11:03:39,877 [INFO] 
+  [44/97] BidID 45290 | ETA ~3 min
+2026-05-15 11:03:39,894 [INFO]     Loaded cached detail: 222-20260504095206 GCSD
+2026-05-15 11:03:39,895 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:39,897 [INFO]       [1/1] SKIP (done): RFQ_2026-001_Copier_and_Printer_Services_AD1
+2026-05-15 11:03:40,289 [INFO] 
+  [45/97] BidID 45286 | ETA ~2 min
+2026-05-15 11:03:40,403 [INFO]     Loaded cached detail: 1398-20260429094847 KWL
+2026-05-15 11:03:40,433 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:40,469 [INFO]       [1/1] SKIP (done): BID NOTICE - Articulating Telescoping Aerial Devic
+2026-05-15 11:03:41,048 [INFO] 
+  [46/97] BidID 45285 | ETA ~2 min
+2026-05-15 11:03:41,087 [INFO]     Loaded cached detail: 2-20260428153405 MSU
+2026-05-15 11:03:41,097 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:41,105 [INFO]       [1/1] SKIP (done): AD for RFP MSU2026069 RFP.pdf
+2026-05-15 11:03:41,828 [INFO] 
+  [47/97] BidID 45284 | ETA ~2 min
+2026-05-15 11:03:41,848 [INFO]     Loaded cached detail: 1389-20260423135412 BSSC
+2026-05-15 11:03:41,857 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:41,861 [INFO]       [1/1] SKIP (done): SCAN_2026_4_23_18_59_9_76943.pdf
+2026-05-15 11:03:42,499 [INFO] 
+  [48/97] BidID 45283 | ETA ~2 min
+2026-05-15 11:03:42,534 [INFO]     Loaded cached detail: 384-20260424115406 BMCU
+2026-05-15 11:03:42,539 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:42,541 [INFO]       [1/1] SKIP (done): Legal notice to Bidders - REQUEST FOR QUOTATIONS T
+2026-05-15 11:03:43,049 [INFO] 
+  [49/97] BidID 45281 | ETA ~2 min
+2026-05-15 11:03:43,071 [INFO]     Loaded cached detail: 75-20260423145208 UM
+2026-05-15 11:03:43,075 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:43,077 [INFO]       [1/1] SKIP (done): ITSS 475 - VALT 1-E Camera License.pdf
+2026-05-15 11:03:43,396 [INFO] 
+  [50/97] BidID 45275 | ETA ~2 min
+2026-05-15 11:03:43,409 [INFO]     Loaded cached detail: 164-20260421150936 OSSD
+2026-05-15 11:03:43,409 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:43,410 [INFO]       [1/1] SKIP (done): 003-ADVERTISEMENT-Asbestos Abatement UE.pdf
+2026-05-15 11:03:44,197 [INFO] 
+  [51/97] BidID 45274 | ETA ~2 min
+2026-05-15 11:03:44,211 [INFO]     Loaded cached detail: 124-20260421115050 Pittsboro
+2026-05-15 11:03:44,211 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:44,212 [INFO]       [1/1] SKIP (done): CALHOUN COUNTY AIRPORT ADV.pdf
+2026-05-15 11:03:44,961 [INFO] 
+  [52/97] BidID 45270 | ETA ~2 min
+2026-05-15 11:03:44,985 [INFO]     Loaded cached detail: 77-20260423082006 DCS
+2026-05-15 11:03:44,993 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:44,994 [INFO]       [1/1] SKIP (done): 77-20260423082006 DCS
+2026-05-15 11:03:45,307 [INFO] 
+  [53/97] BidID 45269 | ETA ~2 min
+2026-05-15 11:03:45,329 [INFO]     Loaded cached detail: 1428-20260422152859 Clarksdale
+2026-05-15 11:03:45,333 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:45,336 [INFO]       [1/1] SKIP (done): 1428-20260422152859 Clarksdale
+2026-05-15 11:03:45,736 [INFO] 
+  [54/97] BidID 45268 | ETA ~2 min
+2026-05-15 11:03:45,758 [INFO]     Loaded cached detail: 124-20260421115231 Winona
+2026-05-15 11:03:45,759 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:45,759 [INFO]       [1/1] SKIP (done): 124-20260421115231 Winona
+2026-05-15 11:03:46,294 [INFO] 
+  [55/97] BidID 45266 | ETA ~2 min
+2026-05-15 11:03:46,418 [INFO]     Loaded cached detail: 137-20260421111603 Rankin
+2026-05-15 11:03:46,474 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:46,499 [INFO]       [1/1] SKIP (done): 137-20260421111603 Rankin
+2026-05-15 11:03:47,324 [INFO] 
+  [56/97] BidID 45265 | ETA ~2 min
+2026-05-15 11:03:47,435 [INFO]     Loaded cached detail: 49-20260421103906 BPSD
+2026-05-15 11:03:47,440 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:47,444 [INFO]       [1/1] SKIP (done): 49-20260421103906 BPSD
+2026-05-15 11:03:48,044 [INFO] 
+  [57/97] BidID 45264 | ETA ~2 min
+2026-05-15 11:03:48,100 [INFO]     Loaded cached detail: 49-20260421103643 BPSD
+2026-05-15 11:03:48,102 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:48,103 [INFO]       [1/1] SKIP (done): BCBA RFP 26 Kellogg Grant.pdf
+2026-05-15 11:03:48,789 [INFO] 
+  [58/97] BidID 45263 | ETA ~2 min
+2026-05-15 11:03:48,837 [INFO]     Loaded cached detail: 49-20260421103356 BPSD
+2026-05-15 11:03:48,852 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:48,861 [INFO]       [1/1] SKIP (done): 49-20260421103356 BPSD
+2026-05-15 11:03:49,350 [INFO] 
+  [59/97] BidID 45261 | ETA ~1 min
+2026-05-15 11:03:49,377 [INFO]     Loaded cached detail: 49-20260421103014 BPSD
+2026-05-15 11:03:49,379 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:49,379 [INFO]       [1/1] SKIP (done): SY26 RFP ASL Interpreter.pdf
+2026-05-15 11:03:50,063 [INFO] 
+  [60/97] BidID 45260 | ETA ~1 min
+2026-05-15 11:03:50,085 [INFO]     Loaded cached detail: 49-20260421102445 BPSD
+2026-05-15 11:03:50,089 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:50,091 [INFO]       [1/1] SKIP (done): SY26 RFP Speech Therapy.pdf
+2026-05-15 11:03:50,630 [INFO] 
+  [61/97] BidID 45258 | ETA ~1 min
+2026-05-15 11:03:50,652 [INFO]     Loaded cached detail: 1454-20260417103630 JMAA
+2026-05-15 11:03:50,659 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:50,668 [INFO]       [1/1] SKIP (done): JAN Rbilitation of Runway 16L-34R - Legal Notice.p
+2026-05-15 11:03:51,451 [INFO] 
+  [62/97] BidID 45257 | ETA ~1 min
+2026-05-15 11:03:51,544 [INFO]     Loaded cached detail: 113-20260416143240 DCBS
+2026-05-15 11:03:51,546 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:51,557 [INFO]       [1/1] SKIP (done): 113-20260416143240 DCBS
+2026-05-15 11:03:51,890 [INFO] 
+  [63/97] BidID 45256 | ETA ~1 min
+2026-05-15 11:03:51,977 [INFO]     Loaded cached detail: 61-20260416112813 Bay St Louis
+2026-05-15 11:03:51,988 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:52,028 [INFO]       [1/1] SKIP (done): 61-20260416112813 Bay St Louis
+2026-05-15 11:03:52,372 [INFO] 
+  [64/97] BidID 45253 | ETA ~1 min
+2026-05-15 11:03:53,009 [INFO]     Loaded cached detail: 78-20260416102552 BSIC
+2026-05-15 11:03:53,038 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:53,072 [INFO]       [1/1] SKIP (done): 78-20260416102552 BSIC
+2026-05-15 11:03:53,405 [INFO] 
+  [65/97] BidID 45252 | ETA ~1 min
+2026-05-15 11:03:53,424 [INFO]     Loaded cached detail: 7-20260416095739 Jackson
+2026-05-15 11:03:53,425 [INFO]     Downloading 42 attachment(s)...
+2026-05-15 11:03:53,427 [INFO]       [1/42] SKIP (done): 7-20260416095739 Jackson
+2026-05-15 11:03:53,427 [INFO]       [2/42] SKIP (done): Street_Resurfacing_COJ-RS-01_(2)2 (1)
+2026-05-15 11:03:53,429 [INFO]       [3/42] SKIP (done): Street_Resurfacing_COJ-RS-01_(3)3
+2026-05-15 11:03:53,430 [INFO]       [4/42] SKIP (done): Street_Resurfacing_COJ-RS-01_(4)4
+2026-05-15 11:03:53,434 [INFO]       [5/42] SKIP (done): Street_Resurfacing_COJ-RS-01_(5)5
+2026-05-15 11:03:53,436 [INFO]       [6/42] SKIP (done): Street_Resurfacing_COJ-RS-01_(6)6
+2026-05-15 11:03:53,438 [INFO]       [7/42] SKIP (done): Street_Resurfacing_COJ-RS-03_(1)14
+2026-05-15 11:03:53,439 [INFO]       [8/42] SKIP (done): Street_Resurfacing_COJ-RS-03_(2)15
+2026-05-15 11:03:53,443 [INFO]       [9/42] SKIP (done): Street_Resurfacing_COJ-RS-03_(3)16
+2026-05-15 11:03:53,445 [INFO]       [10/42] SKIP (done): Street_Resurfacing_COJ-RS-03_(4)17
+2026-05-15 11:03:53,448 [INFO]       [11/42] SKIP (done): Street_Resurfacing_COJ-RS-03_(5)18
+2026-05-15 11:03:53,454 [INFO]       [12/42] SKIP (done): Street_Resurfacing_COJ-RS-03_(6)19
+2026-05-15 11:03:53,455 [INFO]       [13/42] SKIP (done): Street_Resurfacing_COJ-RS-03_(6)19
+2026-05-15 11:03:53,456 [INFO]       [14/42] SKIP (done): Street_Resurfacing_COJ-RS-04_(1)20
+2026-05-15 11:03:53,456 [INFO]       [15/42] SKIP (done): Street_Resurfacing_COJ-RS-04_(2)21
+2026-05-15 11:03:53,463 [INFO]       [16/42] SKIP (done): Street_Resurfacing_COJ-RS-04_(2)21
+2026-05-15 11:03:53,472 [INFO]       [17/42] SKIP (done): Street_Resurfacing_COJ-RS-04_(3)22
+2026-05-15 11:03:53,472 [INFO]       [18/42] SKIP (done): Street_Resurfacing_COJ-RS-04_(4)23
+2026-05-15 11:03:53,474 [INFO]       [19/42] SKIP (done): Street_Resurfacing_COJ-RS-04_(5)24
+2026-05-15 11:03:53,475 [INFO]       [20/42] SKIP (done): Street_Resurfacing_COJ-RS-04_(5)24
+2026-05-15 11:03:53,476 [INFO]       [21/42] SKIP (done): Street_Resurfacing_COJ-RS-05_(1)25
+2026-05-15 11:03:53,476 [INFO]       [22/42] SKIP (done): Street_Resurfacing_COJ-RS-05_(2)26
+2026-05-15 11:03:53,477 [INFO]       [23/42] SKIP (done): Street_Resurfacing_COJ-RS-05_(2)26
+2026-05-15 11:03:53,478 [INFO]       [24/42] SKIP (done): Street_Resurfacing_COJ-RS-05_(3)27
+2026-05-15 11:03:53,480 [INFO]       [25/42] SKIP (done): Street_Resurfacing_COJ-RS-05_(4)28
+2026-05-15 11:03:53,483 [INFO]       [26/42] SKIP (done): Street_Resurfacing_COJ-RS-05_(5)29
+2026-05-15 11:03:53,488 [INFO]       [27/42] SKIP (done): Street_Resurfacing_COJ-RS-05_(5)29
+2026-05-15 11:03:53,489 [INFO]       [28/42] SKIP (done): Street_Resurfacing_COJ-RS-06_(1)30
+2026-05-15 11:03:53,489 [INFO]       [29/42] SKIP (done): Street_Resurfacing_COJ-RS-06_(2)31
+2026-05-15 11:03:53,491 [INFO]       [30/42] SKIP (done): Street_Resurfacing_COJ-RS-06_(3)32
+2026-05-15 11:03:53,493 [INFO]       [31/42] SKIP (done): Street_Resurfacing_COJ-RS-06_(4)33
+2026-05-15 11:03:53,493 [INFO]       [32/42] SKIP (done): Street_Resurfacing_COJ-RS-06_(5)34
+2026-05-15 11:03:53,493 [INFO]       [33/42] SKIP (done): Street_Resurfacing_COJ-RS-06_(6)35
+2026-05-15 11:03:53,495 [INFO]       [34/42] SKIP (done): Street_Resurfacing_COJ-RS-06_(6)35
+2026-05-15 11:03:53,504 [INFO]       [35/42] SKIP (done): Street_Resurfacing_COJ-RS-07_(1)36
+2026-05-15 11:03:53,506 [INFO]       [36/42] SKIP (done): Street_Resurfacing_COJ-RS-07_(2)37
+2026-05-15 11:03:53,508 [INFO]       [37/42] SKIP (done): Street_Resurfacing_COJ-RS-07_(3)38
+2026-05-15 11:03:53,508 [INFO]       [38/42] SKIP (done): Street_Resurfacing_COJ-RS-07_(3)38
+2026-05-15 11:03:53,508 [INFO]       [39/42] SKIP (done): Street_Resurfacing_COJ-RS-07_(4)39
+2026-05-15 11:03:53,510 [INFO]       [40/42] SKIP (done): Street_Resurfacing_COJ-RS-07_(5)40
+2026-05-15 11:03:53,510 [INFO]       [41/42] SKIP (done): Street_Resurfacing_COJ-RS-07_(6)41
+2026-05-15 11:03:53,511 [INFO]       [42/42] SKIP (done): Street_Resurfacing_COJ_-RS-02_(7)13
+2026-05-15 11:03:54,162 [INFO] 
+  [66/97] BidID 45251 | ETA ~1 min
+2026-05-15 11:03:54,181 [INFO]     Loaded cached detail: 77-20260416092923 DCS
+2026-05-15 11:03:54,183 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:54,184 [INFO]       [1/1] SKIP (done): Bid Packer 395-PAPER-DCS262.pdf
+2026-05-15 11:03:54,776 [INFO] 
+  [67/97] BidID 45250 | ETA ~1 min
+2026-05-15 11:03:54,814 [INFO]     Loaded cached detail: 56-20260416081753 BSMC
+2026-05-15 11:03:54,818 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:54,830 [INFO]       [1/1] SKIP (done): LSBP-46(20) Advertisement.pdf
+2026-05-15 11:03:55,315 [INFO] 
+  [68/97] BidID 45249 | ETA ~1 min
+2026-05-15 11:03:55,328 [INFO]     Loaded cached detail: 7-20260416074521 Jackson
+2026-05-15 11:03:55,329 [INFO]     Downloading 5 attachment(s)...
+2026-05-15 11:03:55,335 [INFO]       [1/5] SKIP (done): 1 City_of_Jackson_Infrastructure_Improvements_(Cre
+2026-05-15 11:03:55,336 [INFO]       [2/5] SKIP (done): 2 City_of_Jackson_Infrastructure_Improvements_(Cre
+2026-05-15 11:03:55,338 [INFO]       [3/5] SKIP (done): City of Jackson Infrastructure Improvements (Creek
+2026-05-15 11:03:55,338 [INFO]       [4/5] SKIP (done): City_of_Jackson_Infrastructure_Improvements_(Creek
+2026-05-15 11:03:55,339 [INFO]       [5/5] SKIP (done): City_of_Jackson_Infrastructure_Improvements_(Creek
+2026-05-15 11:03:55,842 [INFO] 
+  [69/97] BidID 45247 | ETA ~1 min
+2026-05-15 11:03:55,856 [INFO]     Loaded cached detail: 22-20260415134623 NWMCC
+2026-05-15 11:03:55,859 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:55,861 [INFO]       [1/1] SKIP (done): Ad Bid 26-005-14 -FACILITIES FINE ARTS AUDITORIUM 
+2026-05-15 11:03:56,333 [INFO] 
+  [70/97] BidID 45231 | ETA ~1 min
+2026-05-15 11:03:56,347 [INFO]     Loaded cached detail: 255-20260501160534 Brandon
+2026-05-15 11:03:56,351 [INFO]     Downloading 4 attachment(s)...
+2026-05-15 11:03:56,353 [INFO]       [1/4] SKIP (done): 2026 Rankin First Offsite Sewer Improvements.pdf
+2026-05-15 11:03:56,357 [INFO]       [2/4] SKIP (done): B-11397- Addendum 3
+2026-05-15 11:03:56,361 [INFO]       [3/4] SKIP (done): B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvem
+2026-05-15 11:03:56,361 [INFO]       [4/4] SKIP (done): B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvem
+2026-05-15 11:03:57,029 [INFO] 
+  [71/97] BidID 45043 | ETA ~1 min
+2026-05-15 11:03:57,074 [INFO]     Loaded cached detail: 198-20260407084622 TCBS
+2026-05-15 11:03:57,077 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:57,078 [INFO]       [1/1] SKIP (done): REQUEST FOR QUALIFICATIONS FOR ENGINEERING SERVICE
+2026-05-15 11:03:57,611 [INFO] 
+  [72/97] BidID 45042 | ETA ~1 min
+2026-05-15 11:03:57,642 [INFO]     Loaded cached detail: 313-20260407082919 PHWD
+2026-05-15 11:03:57,643 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:57,644 [INFO]       [1/1] SKIP (done): 4-901 Advertisement.pdf
+2026-05-15 11:03:58,294 [INFO] 
+  [73/97] BidID 45066 | ETA ~1 min
+2026-05-15 11:03:58,333 [INFO]     Loaded cached detail: 1470-26-R-IFBD-00005
+2026-05-15 11:03:58,337 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:58,346 [INFO]       [1/1] SKIP (done): RFx3160007906 MDEQ-IFB04212026
+2026-05-15 11:03:58,734 [INFO] 
+  [74/97] BidID 45186 | ETA ~1 min
+2026-05-15 11:03:58,762 [INFO]     Loaded cached detail: 1130-26-R-IFBD-00062
+2026-05-15 11:03:58,766 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:58,769 [INFO]       [1/1] SKIP (done): Bid Ad
+2026-05-15 11:03:59,186 [INFO] 
+  [75/97] BidID 45169 | ETA ~1 min
+2026-05-15 11:03:59,205 [INFO]     Loaded cached detail: 1130-26-R-IFBD-00051
+2026-05-15 11:03:59,205 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:59,205 [INFO]       [1/1] SKIP (done): IFB - Int. Pest Services
+2026-05-15 11:03:59,743 [INFO] 
+  [76/97] BidID 44951 | ETA ~1 min
+2026-05-15 11:03:59,834 [INFO]     Loaded cached detail: 1130-26-R-IFBD-00060
+2026-05-15 11:03:59,835 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:03:59,836 [INFO]       [1/1] SKIP (done): Bid Ad
+2026-05-15 11:04:00,295 [INFO] 
+  [77/97] BidID 45183 | ETA ~1 min
+2026-05-15 11:04:00,346 [INFO]     Loaded cached detail: 1130-26-R-IFBD-00057-V02
+2026-05-15 11:04:00,352 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:04:00,354 [INFO]       [1/2] SKIP (done): IFB Amendment One
+2026-05-15 11:04:00,361 [INFO]       [2/2] SKIP (done): IFB for Boiler Maintenance
+2026-05-15 11:04:00,901 [INFO] 
+  [78/97] BidID 45222 | ETA ~1 min
+2026-05-15 11:04:00,944 [INFO]     Loaded cached detail: 1301-26-R-RFPR-00004
+2026-05-15 11:04:00,946 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:04:00,949 [INFO]       [1/2] SKIP (done): RFP_Comp State Health Plan
+2026-05-15 11:04:00,952 [INFO]       [2/2] SKIP (done): Statement of Compliance
+2026-05-15 11:04:01,611 [INFO] 
+  [79/97] BidID 45187 | ETA ~1 min
+2026-05-15 11:04:01,631 [INFO]     Loaded cached detail: 1301-26-R-IFBD-00062
+2026-05-15 11:04:01,631 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:04:01,631 [INFO]       [1/2] SKIP (done): Draft Copy
+2026-05-15 11:04:01,635 [INFO]       [2/2] SKIP (done): IFB
+2026-05-15 11:04:02,041 [INFO] 
+  [80/97] BidID 45175 | ETA ~1 min
+2026-05-15 11:04:02,072 [INFO]     Loaded cached detail: 1301-26-R-IFBD-00064
+2026-05-15 11:04:02,074 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:04:02,076 [INFO]       [1/2] SKIP (done): Advertisement
+2026-05-15 11:04:02,078 [INFO]       [2/2] SKIP (done): Invitations for Bid
+2026-05-15 11:04:02,828 [INFO] 
+  [81/97] BidID 45298 | ETA ~0 min
+2026-05-15 11:04:02,867 [INFO]     Loaded cached detail: 1301-26-R-IFBD-00063-V01
+2026-05-15 11:04:02,872 [INFO]     Downloading 4 attachment(s)...
+2026-05-15 11:04:02,883 [INFO]       [1/4] SKIP (done): Advertisement
+2026-05-15 11:04:02,888 [INFO]       [2/4] SKIP (done): Business Associate Agreement
+2026-05-15 11:04:02,888 [INFO]       [3/4] SKIP (done): IFB RFx- 3160008035 Ryan White Part B Third Party 
+2026-05-15 11:04:02,888 [INFO]       [4/4] SKIP (done): Question & Answer Report IFB RFx 3160008035
+2026-05-15 11:04:03,410 [INFO] 
+  [82/97] BidID 45081 | ETA ~0 min
+2026-05-15 11:04:03,457 [INFO]     Loaded cached detail: 1301-26-R-IFBD-00061-V01
+2026-05-15 11:04:03,458 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:04:03,459 [INFO]       [1/2] SKIP (done): Copy Business Associate Agreement
+2026-05-15 11:04:03,459 [INFO]       [2/2] SKIP (done): RFx3160008012-IFB
+2026-05-15 11:04:03,864 [INFO] 
+  [83/97] BidID 45032 | ETA ~0 min
+2026-05-15 11:04:03,888 [INFO]     Loaded cached detail: 1301-26-R-IFBD-00052
+2026-05-15 11:04:03,890 [INFO]     Downloading 4 attachment(s)...
+2026-05-15 11:04:03,892 [INFO]       [1/4] SKIP (done): IFB RFx-3160007974 Trauma Care RN Consultant for M
+2026-05-15 11:04:03,894 [INFO]       [2/4] SKIP (done): RFx 3160007974 Trauma Care RN Consultant for MSDH 
+2026-05-15 11:04:03,898 [INFO]       [3/4] SKIP (done): Sample Business Associate Agreement
+2026-05-15 11:04:03,901 [INFO]       [4/4] SKIP (done): Trauma System of Care Rules & Regulations
+2026-05-15 11:04:04,277 [INFO] 
+  [84/97] BidID 45213 | ETA ~0 min
+2026-05-15 11:04:04,307 [INFO]     Loaded cached detail: 1450-26-R-IFBD-00010-V01
+2026-05-15 11:04:04,311 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:04:04,314 [INFO]       [1/2] SKIP (done): Advertisement MDMR Staging Site Material Deploymen
+2026-05-15 11:04:04,318 [INFO]       [2/2] SKIP (done): Staging Site Material Deployment_final
+2026-05-15 11:04:05,108 [INFO] 
+  [85/97] BidID 45065 | ETA ~0 min
+2026-05-15 11:04:05,124 [INFO]     Loaded cached detail: 1181-26-R-IFBD-00001
+2026-05-15 11:04:05,126 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:04:05,128 [INFO]       [1/1] SKIP (done): IFB - Title Print and Mail Services
+2026-05-15 11:04:05,582 [INFO] 
+  [86/97] BidID 45228 | ETA ~0 min
+2026-05-15 11:04:06,412 [INFO]     1941-26-R-IFBD-00041 — MS DEPT OF TRANSPORTATION
+2026-05-15 11:04:06,418 [INFO]     Contact: Ashley Harrell | AHARRELL@MDOT.MS.GOV
+2026-05-15 11:04:06,420 [INFO]     Downloading 3 attachment(s)...
+2026-05-15 11:04:06,423 [INFO]       [1/3] → 001_Attachment A RFX Response in MAGIC.pdf
+2026-05-15 11:04:30,306 [INFO]         ✓ 001_Attachment A RFX Response in MAGIC.pdf (1,744,502 bytes)
+2026-05-15 11:04:30,318 [INFO]       [2/3] → 002_Attachment B Magic Supplier Self- Service.pdf
+2026-05-15 11:05:01,591 [INFO]         ✓ 002_Attachment B Magic Supplier Self- Service.pdf (2,530,360 bytes)
+2026-05-15 11:05:01,598 [INFO]       [3/3] → 003_RFX 3160008055 District III Cable Barrier Bid Packet.pdf
+2026-05-15 11:05:08,400 [INFO]         ✓ 003_RFX 3160008055 District III Cable Barrier Bid Packet.pdf (821,466 bytes)
+2026-05-15 11:05:08,824 [INFO] 
+  [87/97] BidID 45279 | ETA ~0 min
+2026-05-15 11:05:08,851 [INFO]     Loaded cached detail: 1941-26-R-IFBD-00039-V03
+2026-05-15 11:05:08,851 [INFO]     Downloading 8 attachment(s)...
+2026-05-15 11:05:08,852 [INFO]       [1/8] SKIP (done): Addendum A Yazoo RX3160008022 Modular Office Trail
+2026-05-15 11:05:08,853 [INFO]       [2/8] SKIP (done): Attachment A RFX Response in MAGIC
+2026-05-15 11:05:08,853 [INFO]       [3/8] SKIP (done): Attachment B Magic Supplier Self- Service
+2026-05-15 11:05:08,853 [INFO]       [4/8] SKIP (done): Attachment C Specifications
+2026-05-15 11:05:08,856 [INFO]       [5/8] SKIP (done): Attachment D EEV Certification (7)
+2026-05-15 11:05:08,858 [INFO]       [6/8] SKIP (done): Attachment E- Example of Agency Contract
+2026-05-15 11:05:08,859 [INFO]       [7/8] SKIP (done): MDOT Standard Contract Addendum
+2026-05-15 11:05:08,859 [INFO]       [8/8] SKIP (done): RFX 3160008022 Bid Packet D3 Trailer Lease
+2026-05-15 11:05:09,628 [INFO] 
+  [88/97] BidID 45278 | ETA ~0 min
+2026-05-15 11:05:09,711 [INFO]     Loaded cached detail: 1941-26-R-IFBD-00038-V03
+2026-05-15 11:05:09,711 [INFO]     Downloading 8 attachment(s)...
+2026-05-15 11:05:09,712 [INFO]       [1/8] SKIP (done): Addendum A RFX3160008021 Hazelhurst Project Office
+2026-05-15 11:05:09,713 [INFO]       [2/8] SKIP (done): Attachment A RFX Response in MAGIC (8)
+2026-05-15 11:05:09,713 [INFO]       [3/8] SKIP (done): Attachment B Magic Supplier Self- Service (7)
+2026-05-15 11:05:09,714 [INFO]       [4/8] SKIP (done): Attachment C Specifications
+2026-05-15 11:05:09,714 [INFO]       [5/8] SKIP (done): Attachment D EEV Certification (7)
+2026-05-15 11:05:09,714 [INFO]       [6/8] SKIP (done): Attachment E-Example of Agency Contract
+2026-05-15 11:05:09,716 [INFO]       [7/8] SKIP (done): MDOT Standard Contract Addendum
+2026-05-15 11:05:09,716 [INFO]       [8/8] SKIP (done): RFX 3160008021 Bid Packet Huzelhurst Project Offic
+2026-05-15 11:05:10,045 [INFO] 
+  [89/97] BidID 45293 | ETA ~0 min
+2026-05-15 11:05:10,059 [INFO]     Loaded cached detail: 1464-26-R-IFBD-00010-V01
+2026-05-15 11:05:10,062 [INFO]     Downloading 2 attachment(s)...
+2026-05-15 11:05:10,062 [INFO]       [1/2] SKIP (done): RFx 310008045 Addendum 1 Questions and Answers
+2026-05-15 11:05:10,063 [INFO]       [2/2] SKIP (done): RFx 3160008045 Boat Registration Decal
+2026-05-15 11:05:10,633 [INFO] 
+  [90/97] BidID 44959 | ETA ~0 min
+2026-05-15 11:05:10,648 [INFO]     Loaded cached detail: 1531-26-R-RFQF-00005
+2026-05-15 11:05:10,648 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:05:10,650 [INFO]       [1/1] SKIP (done): RFQ 3140004550 Disability Determination & Appeals 
+2026-05-15 11:05:11,092 [INFO] 
+  [91/97] BidID 45316 | ETA ~0 min
+2026-05-15 11:05:11,846 [INFO]     3374-26-R-RFIN-00014-V01 — MS STATE HOSPITAL
+2026-05-15 11:05:11,848 [INFO]     Contact: Taneka Moore | TANEKA.MOORE@MSH.MS.GOV
+2026-05-15 11:05:11,848 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:05:11,848 [INFO]       [1/1] → 001_MOD RFx 3150006841.doc
+2026-05-15 11:05:13,392 [INFO]         ✓ 001_MOD RFx 3150006841.doc (28,672 bytes)
+2026-05-15 11:05:13,934 [INFO] 
+  [92/97] BidID 45115 | ETA ~0 min
+2026-05-15 11:05:13,953 [INFO]     Loaded cached detail: 3374-26-R-IFBD-00012
+2026-05-15 11:05:13,953 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:05:13,953 [INFO]       [1/1] SKIP (done): Bid Notice
+2026-05-15 11:05:14,280 [INFO] 
+  [93/97] BidID 45223 | ETA ~0 min
+2026-05-15 11:05:15,056 [INFO]     9275-26-R-RFIN-00046 — UNIV OF MS MEDICAL CENTER
+2026-05-15 11:05:15,057 [INFO]     Contact: Grant Banks | gabanks@umc.edu
+2026-05-15 11:05:15,057 [INFO]     Downloading 4 attachment(s)...
+2026-05-15 11:05:15,058 [INFO]       [1/4] → 001_Newspaper Advertisement.docx
+2026-05-15 11:05:16,599 [INFO]         ✓ 001_Newspaper Advertisement.docx (14,295 bytes)
+2026-05-15 11:05:16,604 [INFO]       [2/4] → 002_Notice of Intent - PDF.pdf
+2026-05-15 11:05:20,895 [INFO]         ✓ 002_Notice of Intent - PDF.pdf (232,793 bytes)
+2026-05-15 11:05:20,898 [INFO]       [3/4] → 003_Notice of Intent - Word.docx
+2026-05-15 11:05:22,142 [INFO]         ✓ 003_Notice of Intent - Word.docx (37,654 bytes)
+2026-05-15 11:05:22,148 [INFO]       [4/4] → 004_Vendor Sole Source Letter.pdf
+2026-05-15 11:05:24,415 [INFO]         ✓ 004_Vendor Sole Source Letter.pdf (127,075 bytes)
+2026-05-15 11:05:25,040 [INFO] 
+  [94/97] BidID 44991 | ETA ~0 min
+2026-05-15 11:05:25,065 [INFO]     Loaded cached detail: 9275-26-R-IFBD-00019
+2026-05-15 11:05:25,067 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:05:25,067 [INFO]       [1/1] SKIP (done): IFB 3755 Advertisement
+2026-05-15 11:05:25,704 [INFO] 
+  [95/97] BidID 45311 | ETA ~0 min
+2026-05-15 11:05:26,389 [INFO]     9280-26-R-IFBD-00050 — UNIVERSITY OF SOUTHERN MISSISSIPPI
+2026-05-15 11:05:26,389 [INFO]     Contact: Deidre Edwards | 
+2026-05-15 11:05:26,389 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:05:26,389 [INFO]       [1/1] → 001_USM RFP 26-46 Reed Green Renovation.pdf
+2026-05-15 11:05:28,290 [INFO]         ✓ 001_USM RFP 26-46 Reed Green Renovation.pdf (205,966 bytes)
+2026-05-15 11:05:28,870 [INFO] 
+  [96/97] BidID 45310 | ETA ~0 min
+2026-05-15 11:05:29,563 [INFO]     9280-26-R-IFBD-00049 — UNIVERSITY OF SOUTHERN MISSISSIPPI
+2026-05-15 11:05:29,563 [INFO]     Contact: Deidre Edwards | 
+2026-05-15 11:05:29,565 [INFO]     Downloading 1 attachment(s)...
+2026-05-15 11:05:29,565 [INFO]       [1/1] → 001_USM RFP 26-43 M.pdf
+2026-05-15 11:05:41,071 [INFO]         ✓ 001_USM RFP 26-43 M.pdf (1,572,827 bytes)
+2026-05-15 11:05:41,839 [INFO] 
+  [97/97] BidID 45216 | ETA ~0 min
+2026-05-15 11:05:41,854 [INFO]     Loaded cached detail: 9280-26-R-IFBD-00047
+2026-05-15 11:05:41,854 [INFO]     Downloading 4 attachment(s)...
+2026-05-15 11:05:41,854 [INFO]       [1/4] SKIP (done): 26_44 Bid Packet
+2026-05-15 11:05:41,855 [INFO]       [2/4] SKIP (done): 26_44 Filtration Components_Bid Specifications
+2026-05-15 11:05:41,856 [INFO]       [3/4] SKIP (done): Bid 26_44 Filtration System OHRC Bid Coversheet
+2026-05-15 11:05:41,856 [INFO]       [4/4] SKIP (done): Bid 26_44 Legal Ad_SH
+2026-05-15 11:05:42,441 [INFO] 
+── Saving combined output ──
+2026-05-15 11:05:42,465 [INFO]   Saved 97 records → scraped_data\all_bids_complete.json
+2026-05-15 11:05:42,467 [INFO] 
+============================================================
+2026-05-15 11:05:42,467 [INFO] DONE
+2026-05-15 11:05:42,467 [INFO]   Bids processed       : 97
+2026-05-15 11:05:42,469 [INFO]   Attachments downloaded: 28
+2026-05-15 11:05:42,469 [INFO]   Attachments failed   : 0
+2026-05-15 11:05:42,472 [INFO]   Output               : C:\Scraping\Mississippi-Procurement\scraped_data
+2026-05-15 11:05:42,473 [INFO] ============================================================

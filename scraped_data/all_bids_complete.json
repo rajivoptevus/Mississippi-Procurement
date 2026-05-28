@@ -1,0 +1,4066 @@
+[
+  {
+    "bid_id": 45288,
+    "smart_number": "1601-26-R-RFIN-00054",
+    "rfx_number": "3150006831",
+    "rfx_status": "Open",
+    "rfx_type": "Req. for Information",
+    "agency": "",
+    "description": "Sole Source No. 5002; for the sole source certification of Modeling System software maintenance for the Department of Transportation.",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-12 05:00 UTC",
+    "submission_date": "2026-05-27 05:00 UTC",
+    "opening_date": "2026-05-27 05:00 UTC",
+    "contact_name": "Valerie Luckett",
+    "contact_email": "VALERIE.LUCKETT@ITS.MS.GOV",
+    "contact_phone": "6014328218",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45288?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006831.PDF?ATTCGET&CLID=0200060000111FD193C7D830C76ECED8&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65755,
+        "description": "Sole Source No. 5002 URL",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SOLE%20SOURCE%20URL.PDF?PHIOGET&KPID=BD4C2DA7C1951EDFA0B5898ABA20D817&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "92007",
+        "category_description": "Serv CompSoftMicro"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:50:13.286413+00:00"
+  },
+  {
+    "bid_id": 45287,
+    "smart_number": "1601-26-R-RFIN-00053",
+    "rfx_number": "3150006830",
+    "rfx_status": "Open",
+    "rfx_type": "Req. for Information",
+    "agency": "",
+    "description": "Sole Source No. 4708; for the sole source certification of a medical imaging exchange solution for the University of Mississippi Medical Center.",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-12 05:00 UTC",
+    "submission_date": "2026-05-27 05:00 UTC",
+    "opening_date": "2026-05-27 05:00 UTC",
+    "contact_name": "Valerie Luckett",
+    "contact_email": "VALERIE.LUCKETT@ITS.MS.GOV",
+    "contact_phone": "6014328218",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45287?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006830.PDF?ATTCGET&CLID=02000600000A1FE193C83C59BB151373&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65754,
+        "description": "Sole Source No. 4708 URL",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SOLE%20SOURCE%20URL.PDF?PHIOGET&KPID=BD4C2DA7C1951EDFA0B5898ABA20D817&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "92007",
+        "category_description": "Serv CompSoftMicro"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:50:16.182117+00:00"
+  },
+  {
+    "bid_id": 45209,
+    "smart_number": "1130-26-R-RFPR-00004-V02",
+    "rfx_number": "3120003350",
+    "rfx_status": "Open",
+    "rfx_type": "Request for Proposal",
+    "agency": "",
+    "description": "Requests for Proposals for Fire Trucks and Fire Apparatus",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-01 05:00 UTC",
+    "submission_date": "2026-06-10 05:00 UTC",
+    "opening_date": "2026-06-10 05:00 UTC",
+    "contact_name": "Ramona Jones",
+    "contact_email": "RAMONA.JONES@DFA.MS.GOV",
+    "contact_phone": "6013599335",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45209?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003350%5FV4.PDF?ATTCGET&CLID=0200060000111FD1929411E919EB06EC&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65566,
+        "description": "Attachment A - RFP Terms and Conditions",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%20%2D%20RFP%20TERMS%20AND%20CONDITIONS.PDF?PHIOGET&KPID=0200060000111FE18FEA0A7CCED7389F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65565,
+        "description": "Attachment B - Scope of Work",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%20%2D%20SCOPE%20OF%20WORK.PDF?PHIOGET&KPID=0200060000111FE18FEA0B287B7BD89F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65564,
+        "description": "Attachment C - RFP Evaluation Plan",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%20%2D%20RFP%20EVALUATION%20PLAN.PDF?PHIOGET&KPID=0200060000111FE18FEA0C04D164589F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65563,
+        "description": "Attachment D - Sample Master Agreement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%20%2D%20SAMPLE%20MASTER%20AGREEMENT.PDF?PHIOGET&KPID=0200060000111FE18FEA0CAAE4CC589F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65572,
+        "description": "Attachment D - Sample Master Agreement_Appendix1Redline",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%20%2D%20SAMPLE%20MASTER%20AGREEMENT%5FAPPENDIX1REDLINE.DOCX?PHIOGET&KPID=0200060000111FD191FED9333F082603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65562,
+        "description": "Attachment E - Participation Information",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%20%2D%20PARTICIPATION%20INFORMATION.PDF?PHIOGET&KPID=0200060000111FE18FEA0DBF350AD89F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65561,
+        "description": "Attachment F - Protest Information",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20F%20%2D%20PROTEST%20INFORMATION.PDF?PHIOGET&KPID=0200060000111FE18FEA0E803420789F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65560,
+        "description": "Attachment G - Offeror Information, Acknowledgements, and Certif",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20G%20%2D%20OFFEROR%20INFORMATION%2C%20ACKNOWLEDGEMENTS%2C%20AND%20CERTIFICATIONS.PDF?PHIOGET&KPID=0200060000111FE18FEA105DE393F8A0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65573,
+        "description": "Attachment G - Offeror Information, Acknowledgements, and Certif",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20G%20%2D%20OFFEROR%20INFORMATION%2C%20ACKNOWLEDGEMENTS%2C%20AND%20CERTIFICATIONS.DOCX?PHIOGET&KPID=0200060000111FD191FEDA74668DE603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65574,
+        "description": "Attachment H - Offeror Response Worksheet",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20H%20%2D%20OFFEROR%20RESPONSE%20WORKSHEET.DOCX?PHIOGET&KPID=0200060000111FD191FEDC795D5DE603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65559,
+        "description": "Attachment H - Offeror Response Worksheet",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20H%20%2D%20OFFEROR%20RESPONSE%20WORKSHEET.PDF?PHIOGET&KPID=0200060000111FE18FEA110932D138A0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65568,
+        "description": "Attachment I - Cost Proposal",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20I%20%2D%20COST%20PROPOSAL.XLSX?PHIOGET&KPID=0200060000111FE190E0155D9D3D5E4C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65575,
+        "description": "Attachment J -  Proposed Modifications to Sample Master Agreemen",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20J%20%2D%20%20PROPOSED%20MODIFICATIONS%20TO%20SAMPLE%20MASTER%20AGREEMENT.DOCX?PHIOGET&KPID=0200060000111FD191FEDDA63CCF2603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65558,
+        "description": "Attachment J -  Proposed Modifications to Sample Master Agreemen",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20J%20%2D%20%20PROPOSED%20MODIFICATIONS%20TO%20SAMPLE%20MASTER%20AGREEMENT.PDF?PHIOGET&KPID=0200060000111FE18FEA11DDD8EED8A0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65576,
+        "description": "Attachment K - Claim of Business Confidentiality",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20K%20%2D%20CLAIM%20OF%20BUSINESS%20CONFIDENTIALITY.DOCX?PHIOGET&KPID=0200060000111FD191FEDED365E12603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65557,
+        "description": "Attachment K- Claim of Business Confidentiality word doc",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20K%20%2D%20CLAIM%20OF%20BUSINESS%20CONFIDENTIALITY.PDF?PHIOGET&KPID=0200060000111FE18FEA15D069CCF8A0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65567,
+        "description": "NASPO ValuePoint State of MS Fire Truck and Fire Apparatus Reque",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NASPO%20VALUEPOINT%20STATE%20OF%20MS%20FIRE%20TRUCK%20AND%20FIRE%20APPARATUS%20REQUEST%20FOR%20PROPOSALS%20OVERVIEW.PDF?PHIOGET&KPID=0200060000111FE18FEA02DB1AE0989F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65570,
+        "description": "NASPO ValuePoint State of MS Fire Truck and Fire Apparatus RFP 3",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NASPO%20VALUEPOINT%20STATE%20OF%20MS%20FIRE%20TRUCK%20AND%20FIRE%20APPARATUS%20RFP%203120003350%20AMENDMENT%201.PDF?PHIOGET&KPID=0200060000111FD191FE85710D35E5FD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65569,
+        "description": "States with ITP",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STATES%20WITH%20ITP.ZIP?PHIOGET&KPID=0200060000111FE190E02D7FAE347E4C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65571,
+        "description": "Supplier Self Service eLearning Instructions",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SUPPLIER%20SELF%20SERVICE%20ELEARNING%20INSTRUCTIONS.ZIP?PHIOGET&KPID=0200060000111FD191FE7E286B2065FD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "07000",
+        "category_description": "Automotive Vehicles"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:50:19.009333+00:00"
+  },
+  {
+    "bid_id": 45117,
+    "smart_number": "1130-26-R-NBID-00017",
+    "rfx_number": "3130002321",
+    "rfx_status": "Open",
+    "rfx_type": "Negotiated Bid",
+    "agency": "",
+    "description": "Maintenance, Repair, Operation (MRO) Negotiated Contract",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-01 05:00 UTC",
+    "submission_date": "2026-06-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "Kizzie Shorter",
+    "contact_email": "KIZZIE.SHORTER@DFA.MS.GOV",
+    "contact_phone": "6013595222",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45117?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3130002321.PDF?ATTCGET&CLID=0200060000111FE18FD0A92341F19769&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65347,
+        "description": "Attachment A-Items",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%2D%20445%20MRO%20DISCOUNT%20SPREADSHEET.XLSX?PHIOGET&KPID=0200060000111FE18EB400EC017AD0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65348,
+        "description": "Attachment B- Dealers List MRO 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%2D%20DEALERS%20LIST%20MRO%202026.XLSX?PHIOGET&KPID=0200060000111FE18EB4018CF9E5F0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65349,
+        "description": "Attachment C- Price List MRO 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%2D%20PRICE%20LIST%20MRO%202026.XLSX?PHIOGET&KPID=0200060000111FE18EB40262183550DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65350,
+        "description": "Attachment D- Internal Catalog Spreadsheet MRO 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%2D%20INTERNAL%20CATALOG%20SPREADSHEET%20MRO%202026.XLSX?PHIOGET&KPID=0200060000111FE18EB403BAF1C7D0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65351,
+        "description": "Attachment E- Purchase Summary MRO 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%2D%20PURCHASE%20SUMMARY%20MRO%202026.XLSX?PHIOGET&KPID=0200060000111FE18EB404D354D8F0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65352,
+        "description": "Attachment F- Purchase Summary Attestation",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20F%2D%20PURCHASE%20SUMMARY%20ATTESTATION.PDF?PHIOGET&KPID=0200060000111FE18EB405F2C2E370DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65353,
+        "description": "Attachment G- SOMS Terms and Conditions",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20G%2D%20SOMS%20TERMS%20AND%20CONDITIONS.PDF?PHIOGET&KPID=0200060000111FE18EB407E0E6A130DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65354,
+        "description": "Attachment H- Sample Contract",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20H%2D%20SAMPLE%20CONTRACT.PDF?PHIOGET&KPID=0200060000111FE18EB412BBF9EA70DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65355,
+        "description": "Format and Guidelines for Proposals- MRO 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/FORMAT%20AND%20GUIDELINES%20FOR%20PROPOSALS%2D%20MRO%202026.PDF?PHIOGET&KPID=0200060000111FE18EB41403E4F4F0DE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "44500",
+        "category_description": "Hand Tools Acc&Supp"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:52:02.578022+00:00"
+  },
+  {
+    "bid_id": 45150,
+    "smart_number": "1130-26-R-NBID-00016-V01",
+    "rfx_number": "3130002331",
+    "rfx_status": "Open",
+    "rfx_type": "Negotiated Bid",
+    "agency": "",
+    "description": "Laser Toner Cartridges",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-01 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "Lashun Smith",
+    "contact_email": "LASHUN.SMITH@DFA.MS.GOV",
+    "contact_phone": "6013591310",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45150?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3130002331%5FV2.PDF?ATTCGET&CLID=02000600000A1FD18FFF8BC62E925FC8&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65424,
+        "description": "Attachment B- Price List Toner 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%2D%20PRICE%20LIST%20TONER%202026.XLSX?PHIOGET&KPID=0200060000111FD18BA73ACFAD473E21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65425,
+        "description": "Attachment C- Internal Catalog Spreadsheet Toner 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%2D%20INTERNAL%20CATALOG%20SPREADSHEET%20TONER%202026.XLSX?PHIOGET&KPID=0200060000111FD18BA73C05C5601E21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65426,
+        "description": "Attachment D- Purchase Summary Toner 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%2D%20PURCHASE%20SUMMARY%20TONER%202026.XLSX?PHIOGET&KPID=0200060000111FD18BA73CE6213EDE21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65427,
+        "description": "Attachment E- Purchase Summary Attestation",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%2D%20PURCHASE%20SUMMARY%20ATTESTATION.PDF?PHIOGET&KPID=0200060000111FD18BA73E1B1D847E21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65428,
+        "description": "Attachment F- SOMS Terms and Conditions",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20F%2D%20SOMS%20TERMS%20AND%20CONDITIONS.PDF?PHIOGET&KPID=0200060000111FD18BA73F7B58107E21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65423,
+        "description": "Format and Guidelines for Proposals-Toner 2026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/FORMAT%20AND%20GUIDELINES%20FOR%20PROPOSALS%2DTONER%202026.PDF?PHIOGET&KPID=0200060000111FD18BA738E304C5BE21&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65429,
+        "description": "Format and Guidelines for Proposals-Toner 2026 Amended",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/FORMAT%20AND%20GUIDELINES%20FOR%20PROPOSALS%2DTONER%202026%20AMENDED.PDF?PHIOGET&KPID=0200060000111FE18FE6B87CDFF8387A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "20772",
+        "category_description": "CPU Access- Inks"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:52:26.026763+00:00"
+  },
+  {
+    "bid_id": 40954,
+    "smart_number": "1601-25-R-RFPR-00017",
+    "rfx_number": "3120003121",
+    "rfx_status": "Open",
+    "rfx_type": "Request for Proposal",
+    "agency": "",
+    "description": "General RFP 4599: Beginning Tuesday, March 25, 2025, RFP No. 4599 is being amended to add a Security Cameras and Access Control systems category.  Please see Amendment 2  Security Cameras and Access Control Systems on the ITS website for information on",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2025-03-25 05:00 UTC",
+    "submission_date": "2026-11-30 06:00 UTC",
+    "opening_date": "2026-11-30 06:00 UTC",
+    "contact_name": "Valerie Luckett",
+    "contact_email": "VALERIE.LUCKETT@ITS.MS.GOV",
+    "contact_phone": "6014328218",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/40954?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003121.PDF?ATTCGET&CLID=767FE80500261FE082B0B01E6C91D056&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 58740,
+        "description": "RFP No. 4599 URL",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=0200060000121FE081B7B0FA09E3B695&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "65596",
+        "category_description": "Video Captur Devices"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:52:45.266596+00:00"
+  },
+  {
+    "bid_id": 38017,
+    "smart_number": "1601-25-R-RFPR-00005",
+    "rfx_number": "3120002960",
+    "rfx_status": "Open",
+    "rfx_type": "Request for Proposal",
+    "agency": "",
+    "description": "General RFP 3850: to enhance the existing vendor pool to be used in the Managed Service Provider process for the acquisition of Information Systems Consulting Services for the State of Mississippi.  Proposals accepted until September 30, 2026.",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2024-08-20 05:00 UTC",
+    "submission_date": "2026-09-30 05:00 UTC",
+    "opening_date": "2026-09-30 05:00 UTC",
+    "contact_name": "Valerie Luckett",
+    "contact_email": "VALERIE.LUCKETT@ITS.MS.GOV",
+    "contact_phone": "6014328218",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/38017?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120002960.PDF?ATTCGET&CLID=174D924F2D821EDF97CB2183A3454867&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 54690,
+        "description": "General RFP No. 3850 URL",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%20URL.PDF?PHIOGET&KPID=174D924F2D821EEF96E6BAEC6A9E0FCD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91871",
+        "category_description": "Serv ConsultIT"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:52:47.951809+00:00"
+  },
+  {
+    "bid_id": 45178,
+    "smart_number": "9210-26-R-IFBD-00023",
+    "rfx_number": "3160008042",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "ALCORN STATE UNIVERSITY",
+    "description": "Invitation for Bid- Alcorn State University Walter Washington Roof Replacement, Lorman, MS",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-01 05:00 UTC",
+    "submission_date": "2026-06-04 05:00 UTC",
+    "opening_date": "2026-06-04 05:00 UTC",
+    "contact_name": "Mertha George",
+    "contact_email": "mgeorge@alcorn.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45178?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008042.PDF?ATTCGET&CLID=02000600000A1FE19180E199C4EC4597&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65502,
+        "description": "advertiisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20FOR%20BIDDING%20WALTER%20WASHINGTON%20ROOF.DOCX?PHIOGET&KPID=02000600000A1FE190CB1B8F11DFE301&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91473",
+        "category_description": "Serv ConsTradNewRoof"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:52:50.237835+00:00"
+  },
+  {
+    "bid_id": 45177,
+    "smart_number": "9210-26-R-IFBD-00022",
+    "rfx_number": "3160008041",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "ALCORN STATE UNIVERSITY",
+    "description": "Invitation for Bid -Alcorn State University Math and Science Building Roof Replacement, Lorman, MS",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-01 05:00 UTC",
+    "submission_date": "2026-06-04 05:00 UTC",
+    "opening_date": "2026-06-04 05:00 UTC",
+    "contact_name": "Mertha George",
+    "contact_email": "mgeorge@alcorn.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45177?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008041.PDF?ATTCGET&CLID=0200060000111FD19180DB28CEC2002C&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65501,
+        "description": "advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20FOR%20BIDDING%20MATH%20%26%20SCIENCE%20ROOF.DOCX?PHIOGET&KPID=02000600000A1FE190CAE2F9BADE62FE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91473",
+        "category_description": "Serv ConsTradNewRoof"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:52:53.231454+00:00"
+  },
+  {
+    "bid_id": 45176,
+    "smart_number": "9210-26-R-IFBD-00020",
+    "rfx_number": "3160008039",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "ALCORN STATE UNIVERSITY",
+    "description": "Invitation for Bid Alcorn State University Simmons Technology Roof Part 2 Replacement, Lorman, MS",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-01 05:00 UTC",
+    "submission_date": "2026-06-04 05:00 UTC",
+    "opening_date": "2026-06-04 05:00 UTC",
+    "contact_name": "Mertha George",
+    "contact_email": "mgeorge@alcorn.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45176?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008039.PDF?ATTCGET&CLID=02000600000A1FE19180D159FCD24597&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65500,
+        "description": "advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20FOR%20BIDDING%2DSIMMON%20ROOF%20PART%202.DOCX?PHIOGET&KPID=02000600000A1FE190CA7C204DC102FA&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91473",
+        "category_description": "Serv ConsTradNewRoof"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:52:55.831219+00:00"
+  },
+  {
+    "bid_id": 45226,
+    "smart_number": "9210-26-R-IFBD-00019-V01",
+    "rfx_number": "3160008003",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "ALCORN STATE UNIVERSITY",
+    "description": "Invitation for Bid- Alcorn State University Tennis Lighting, Lorman,MS",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-10 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": "2026-05-19 05:00 UTC",
+    "contact_name": "Mertha George",
+    "contact_email": "mgeorge@alcorn.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45226?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008003%5FV1.PDF?ATTCGET&CLID=02000600000A1FE192E1E5B5611D0F5C&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65620,
+        "description": "Addendum",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD192E1E1DD13692AB3&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65619,
+        "description": "advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20FOR%20BIDDING%2DTENNIS%20LIGHTING.DOCX?PHIOGET&KPID=0200060000111FE18CD78052A2F7864B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "28527",
+        "category_description": "Control Device Light"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:52:58.368631+00:00"
+  },
+  {
+    "bid_id": 45225,
+    "smart_number": "9210-26-R-IFBD-00018-V01",
+    "rfx_number": "3160008002",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "ALCORN STATE UNIVERSITY",
+    "description": " Invitation for Bid- Alcorn State University Tennis Court Renovation, Lorman, MS",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-10 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": "2026-05-19 05:00 UTC",
+    "contact_name": "Mertha George",
+    "contact_email": "mgeorge@alcorn.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45225?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008002%5FV1.PDF?ATTCGET&CLID=0200060000111FD192E1D6503CE6CAB2&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65618,
+        "description": "Addendum",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD192E1D16930ECEAB2&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65617,
+        "description": "advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20FOR%20BIDDING%2D%20TENNIS%20COURT.DOCX?PHIOGET&KPID=0200060000111FE18CD714417AA8C645&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91394",
+        "category_description": "Serv ConsHeavPavPark"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:17.499857+00:00"
+  },
+  {
+    "bid_id": 45095,
+    "smart_number": "3372-26-R-RFIN-00018",
+    "rfx_number": "3150006812",
+    "rfx_status": "Open",
+    "rfx_type": "Req. for Information",
+    "agency": "EAST MS STATE HOSPITAL",
+    "description": "RFA for RNs",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-22 05:00 UTC",
+    "submission_date": "2026-05-22 05:00 UTC",
+    "opening_date": "2026-05-22 05:00 UTC",
+    "contact_name": "Andrea Davis",
+    "contact_email": "ADAVIS@EMSH.MS.GOV",
+    "contact_phone": "6015764971",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45095?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006812.PDF?ATTCGET&CLID=0200060000111FE18FB8FA976527965F&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65323,
+        "description": "advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADVERTISEMENT%20REQUEST%20FOR%20APPLICATIONS%20RN%202026.DOCX?PHIOGET&KPID=0200060000111FE18E81F3F99879CE84&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65325,
+        "description": "Application",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/CONTRACT%20APPLICATION%2DREVISED%201%2D7%2D2025.PDF?PHIOGET&KPID=0200060000111FE18FB8BCAB8102565B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65324,
+        "description": "RFA",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/REGISTERED%20NURSE%20REQUEST%20FOR%20APPLICATIONS%20WITH%20ATTACHMENT%202026.DOCX?PHIOGET&KPID=0200060000111FE18FB8B3A623DC365B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94874",
+        "category_description": "Serv HealRelProfMed"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:32.281435+00:00"
+  },
+  {
+    "bid_id": 45221,
+    "smart_number": "9250-26-R-RFIN-00040",
+    "rfx_number": "3150006832",
+    "rfx_status": "Open",
+    "rfx_type": "Req. for Information",
+    "agency": "MISSISSIPPI STATE UNIVERSITY",
+    "description": "SOLE SOURCE REQUEST TO PURCHASE TBRI\u00ae Pocket Guides",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-05-27 05:00 UTC",
+    "opening_date": "2026-05-27 05:00 UTC",
+    "contact_name": "Debra Raines",
+    "contact_email": "draines@procurement.msstate.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45221?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006832.PDF?ATTCGET&CLID=0200060000111FD192DE1D148FCB8A61&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65602,
+        "description": "Notice",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NOTICE%20256%2D092.PDF?PHIOGET&KPID=0200060000111FD192DE1A79CD07AA60&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "49043",
+        "category_description": "Lab Eqpmt-Lab & Scie"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:38.038451+00:00"
+  },
+  {
+    "bid_id": 45217,
+    "smart_number": "9250-26-R-IFBD-00004",
+    "rfx_number": "3160008053",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MISSISSIPPI STATE UNIVERSITY",
+    "description": "BID SOLICITATION FOR HVAC AIR FILTER REPLACEMENT",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-06-16 05:00 UTC",
+    "opening_date": "2026-06-16 05:00 UTC",
+    "contact_name": "Debra Raines",
+    "contact_email": "draines@procurement.msstate.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45217?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008053.PDF?ATTCGET&CLID=02000600000A1FE192C3D6433A202E16&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65598,
+        "description": "Pricing spreadsheet",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BID%20PRICING%20SPREADSHEET.XLSX?PHIOGET&KPID=02000600000A1FE192AC79C6F40CED03&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65597,
+        "description": "RFP",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%5FMSU2026078%5FCAMPUS%5FSERVICES%5FAIR%5FFILTER%5FREPLACEMENT.PDF?PHIOGET&KPID=02000600000A1FE192AC784CD826ED03&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "03145",
+        "category_description": "AirCon,Heat EpFtrDp"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:40.733502+00:00"
+  },
+  {
+    "bid_id": 45211,
+    "smart_number": "9250-26-R-RFIN-00038",
+    "rfx_number": "3150006819",
+    "rfx_status": "Open",
+    "rfx_type": "Req. for Information",
+    "agency": "MISSISSIPPI STATE UNIVERSITY",
+    "description": "SOLE SOURCE REQUEST TO PURCHASE iGC-NOVA High Temperature Surface Energy Analyzer",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-07 05:00 UTC",
+    "submission_date": "2026-05-21 05:00 UTC",
+    "opening_date": "2026-05-21 05:00 UTC",
+    "contact_name": "Debra Raines",
+    "contact_email": "draines@procurement.msstate.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45211?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006819.PDF?ATTCGET&CLID=0200060000111FD19294547D1FB506F2&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65583,
+        "description": "Notice",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NOTICE%20256%2D090.PDF?PHIOGET&KPID=0200060000111FD1929452E0C24386F2&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "49043",
+        "category_description": "Lab Eqpmt-Lab & Scie"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:46.498496+00:00"
+  },
+  {
+    "bid_id": 45188,
+    "smart_number": "9240-26-R-IFBD-00019",
+    "rfx_number": "3160008050",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MISSISSIPPI UNIVERSITY FOR WOMEN",
+    "description": "Public Notice of Intent to Sole Source with OCLC",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-07 05:00 UTC",
+    "submission_date": "2026-06-04 05:00 UTC",
+    "opening_date": "2026-06-04 05:00 UTC",
+    "contact_name": "Melissa Buxton",
+    "contact_email": "mcbuxton@muw.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45188?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008050.PDF?ATTCGET&CLID=02000600000A1FE191B1D6ED8D3147EE&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65532,
+        "description": "OCLC and Library Sole Source letters",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "95635",
+        "category_description": "Serv LibraryInteData"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:49.848483+00:00"
+  },
+  {
+    "bid_id": 45215,
+    "smart_number": "9260-26-R-IFBD-00005",
+    "rfx_number": "3160008043",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MISSISSIPPI VALLEY STATE UNIVERSITY",
+    "description": "Maintaining the Landscape of the MVSU 243 acres camput",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-06-02 05:00 UTC",
+    "opening_date": "2026-06-02 05:00 UTC",
+    "contact_name": "Billy D Scott",
+    "contact_email": "BSCOTT@MVSU.EDU",
+    "contact_phone": "662",
+    "contact_fax": "254 3314",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45215?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008043.PDF?ATTCGET&CLID=0200060000111FD192AE4336220B4837&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65592,
+        "description": "Landscaping Rfx",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%20%288%29.PDF?PHIOGET&KPID=02000600000A1FE192AD736CDA248D12&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "98836",
+        "category_description": "Serv RecParkGrndMain"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:52.347279+00:00"
+  },
+  {
+    "bid_id": 45329,
+    "smart_number": "124-20260421114206 CCBS",
+    "rfx_number": "3170035741",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "sealed BIDS for   COUNTY ROAD 318 & COUNTY ROAD 382 EWP BANK \nSTABILIZATION (AWARD NO. NR254423XXXXC023)    will be received by the Calhoun \nCounty Board of Supervisors in the office of the Chancery Clerk in Pittsboro, MS until    \nMAY 21, 2026 @ 10:00 AM",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-21 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45329?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035741.PDF?ATTCGET&CLID=0200060000111FD193FBDE5A16DE5131&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65855,
+        "description": "CR 318 & CR 382 ADVERTISEMENT.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/124%2D20260421114206%20CCBS.PDF?PHIOGET&KPID=02000600000A1FE193FBD91B9928956A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "96833",
+        "category_description": "Serv PubWrkDitchMain"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:31:47.554158+00:00"
+  },
+  {
+    "bid_id": 45328,
+    "smart_number": "137-20260421105458 RCBS",
+    "rfx_number": "3170035740",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that written sealed term bids for gravel for the period of July 01, \n2026, through December 31, 2026, with an additional six-month period at the option of \nboth parties will be received by the Rankin County Board of Supervisors unti",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45328?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035740.PDF?ATTCGET&CLID=02000600000A1FE193FBBCAC9C97356A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65854,
+        "description": "Bid 26 300 7A Gravel .pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/137%2D20260421105458%20RCBS.PDF?PHIOGET&KPID=02000600000A1FE193FBB4CAE769D569&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "75077",
+        "category_description": "RoadMatnonasphSGrave"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:31:53.533897+00:00"
+  },
+  {
+    "bid_id": 45327,
+    "smart_number": "137-20260421105307 RCBS",
+    "rfx_number": "3170035739",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that written sealed term bids for crushed aggregates for the period \nof July 1, 2026, through December 31, 2026, with an additional six-month period at the \noption of both parties will be received by the Rankin County Board of Super",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45327?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035739.PDF?ATTCGET&CLID=02000600000A1FE193FB9F22F875D568&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65853,
+        "description": "Bid 26 300 6A Crushed Aggregates.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/137%2D20260421105307%20RCBS.PDF?PHIOGET&KPID=02000600000A1FE193FB9A07FFC0D568&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "75056",
+        "category_description": "RoadMatnonasphLightw"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:32:00.589662+00:00"
+  },
+  {
+    "bid_id": 45326,
+    "smart_number": "137-20260421104829 RCBS",
+    "rfx_number": "3170035738",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that written sealed term bids for polypropylene culverts for the period of \nJuly 1, 2026, through December 31, 2026, with an additional six-month period at the option of \nboth parties will be received by the Rankin County Board of S",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45326?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035738.PDF?ATTCGET&CLID=0200060000111FD193FB8611D671D12E&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65852,
+        "description": "Bid 26 300 5A Poly Culverts.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/137%2D20260421104829%20RCBS.PDF?PHIOGET&KPID=02000600000A1FE193FB7FA5D32F3568&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "21029",
+        "category_description": "Concrete- CasingPipe"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:32:05.796542+00:00"
+  },
+  {
+    "bid_id": 45325,
+    "smart_number": "137-20260421104356 RCBS",
+    "rfx_number": "3170035737",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that written sealed term bids for scrub seal, slurry seal, micro-surfacing and micro-surfacing (modified) for the period of July 1, 2026, through December 31, 2026, with an additional six-month period at the option of both parties,",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45325?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035737.PDF?ATTCGET&CLID=0200060000111FD193FB6E04ABAC912D&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65851,
+        "description": "Bid 26-300-3A Scrub Seal Slurry Seal Micro Surfacing.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/137%2D20260421104356%20RCBS.PDF?PHIOGET&KPID=02000600000A1FE193FB6883660D1568&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "74584",
+        "category_description": "RoadMaterSlurrySealS"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:32:10.711053+00:00"
+  },
+  {
+    "bid_id": 45324,
+    "smart_number": "137-20260421103813 RCBS",
+    "rfx_number": "3170035736",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that written sealed semi-annual term bids for asphalt for the period of July 1, 2026, through December 31, 2026, will be received by the Rankin County Board of Supervisors until 8:00 a.m. May 28, 2026. Paper bids can be submitted to",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45324?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035736.PDF?ATTCGET&CLID=02000600000A1FE193FB3D7BB567D568&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65850,
+        "description": "Bid 26-300-2A Asphalt.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/137%2D20260421103813%20RCBS.PDF?PHIOGET&KPID=02000600000A1FE193FB38BB4ACD9568&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "74502",
+        "category_description": "RoadMaterAsphaltACAs"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:32:26.863681+00:00"
+  },
+  {
+    "bid_id": 45323,
+    "smart_number": "338-20260421085306 MTC",
+    "rfx_number": "3170035735",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Proposals will be received by the Mississippi Transportation Commission at its offices at 401 North West \nStreet, Procurement Division, 5th Floor, Jackson, Mississippi, until 4:00 P.M., Tuesday, May 26, 2026 for \nthe following: \n Cafeteria Plan Administr",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-26 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45323?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035735.PDF?ATTCGET&CLID=02000600000A1FE193FB1758AC155564&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65849,
+        "description": "Cafeteria Plan Administrator Services.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/338%2D20260421085306%20MTC.PDF?PHIOGET&KPID=02000600000A1FE193FB12B5FDBC3564&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "95352",
+        "category_description": "Serv InsNotClassifd"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:32:47.482966+00:00"
+  },
+  {
+    "bid_id": 45322,
+    "smart_number": "338-20260421085134 MTC",
+    "rfx_number": "3170035734",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Proposals will be received by the Mississippi Transportation Commission at its offices at 401 North West \nStreet, Procurement Division, 5th Floor, Jackson, Mississippi, until 4:00 P.M., Tuesday, May 26, 2026 for \nthe following: \n Voluntary Group Vision I",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-26 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45322?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035734.PDF?ATTCGET&CLID=02000600000A1FE193FB00C58E205564&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65848,
+        "description": "Voluntary Group Vision Insurance.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/338%2D20260421085134%20MTC.PDF?PHIOGET&KPID=02000600000A1FE193FAFAFA6377B564&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "95348",
+        "category_description": "Serv InsHealth/Hosp"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:32:50.446773+00:00"
+  },
+  {
+    "bid_id": 45321,
+    "smart_number": "338-20260421084831 MTC",
+    "rfx_number": "3170035733",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Proposals will be received by the Mississippi Transportation Commission at its offices at 401 North West \nStreet, Procurement Division, 5th Floor, Jackson, Mississippi, until 4:00 P.M., Tuesday, May 26, 2026 for \nthe following: \n Voluntary Group Term Lif",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-26 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45321?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035733.PDF?ATTCGET&CLID=0200060000111FD193FAE922DB231126&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65847,
+        "description": "Voluntary Group Term Life Insurance.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/338%2D20260421084831%20MTC.PDF?PHIOGET&KPID=02000600000A1FE193FAE3AF0A5AB564&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "95363",
+        "category_description": "Serv InsLifeIns"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:32:53.826592+00:00"
+  },
+  {
+    "bid_id": 45320,
+    "smart_number": "19-20260421081759 Potts Camp",
+    "rfx_number": "3170035732",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Separate and sealed bids or electronic bids for the construction of CDBG 2024 SANITARY \nSEWER IMPROVEMENTS, CDBG NO. 1201-24-306-PF-01 will be received by the TOWN \nOF POTTS CAMP at their board room at 17S. CENTER ST., POTTS CAMP, MS 38659 until \n10:00 A.",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-27 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45320?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035732.PDF?ATTCGET&CLID=02000600000A1FE193FACA858ED89564&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65846,
+        "description": "00 11 13 Invitation for Bids CDBG 10190.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/19%2D20260421081759%20POTTS%20CAMP.PDF?PHIOGET&KPID=02000600000A1FE193FAC14F8F1F7563&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91356",
+        "category_description": "Serv ConstHeavyUtil"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:32:56.750225+00:00"
+  },
+  {
+    "bid_id": 45319,
+    "smart_number": "338-20260420165144 MTC",
+    "rfx_number": "3170035731",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Proposals will be received by the Mississippi Transportation Commission at its offices at 401 North West \nStreet, Procurement Division, 5th Floor, Jackson, Mississippi, until 4:00 P.M., Tuesday, May 26, 2026 for \nthe following: \n Voluntary Group Accident",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-26 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45319?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035731.PDF?ATTCGET&CLID=02000600000A1FE193FAAEAAC9845563&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65845,
+        "description": "Voluntary Group Accident Insurance.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/338%2D20260420165144%20MTC.PDF?PHIOGET&KPID=02000600000A1FE193FAA7C97A667561&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "95306",
+        "category_description": "Serv InsurAccident"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:33:00.205585+00:00"
+  },
+  {
+    "bid_id": 45318,
+    "smart_number": "338-20260420164643 MTC",
+    "rfx_number": "3170035730",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Proposals will be received by the Mississippi Transportation Commission at its offices at 401 North West \nStreet, Procurement Division, 5th Floor, Jackson, Mississippi, until 4:00 P.M., Tuesday, May 26, 2026 for \nthe following: \nVoluntary Group Dental Ins",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-26 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45318?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035730.PDF?ATTCGET&CLID=02000600000A1FE193FA9365E96E1561&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65844,
+        "description": "Dental Insurance.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/338%2D20260420164643%20MTC.PDF?PHIOGET&KPID=02000600000A1FE193FA86C8B5181561&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "95348",
+        "category_description": "Serv InsHealth/Hosp"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:33:04.757319+00:00"
+  },
+  {
+    "bid_id": 45317,
+    "smart_number": "147-20260420145257 Richland",
+    "rfx_number": "3170035689",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Bids for the construction of the 2026 Water System Improvements  Valve Replacements will be \nreceived by the City of Richland at Richland City Hall located at 380 Scarbrough Street, Richland, MS \n39218 or electronically at www.engserviceplans.com until 1",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-21 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45317?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035689.PDF?ATTCGET&CLID=02000600000A1FE193FA6F27EB94955F&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65843,
+        "description": "00 11 17 - C-111_Advertisement for Bid.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/147%2D20260420145257%20RICHLAND.PDF?PHIOGET&KPID=02000600000A1FE193FA5D9F2C48955E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "57895",
+        "category_description": "Water, Potable"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:33:07.701629+00:00"
+  },
+  {
+    "bid_id": 45308,
+    "smart_number": "2526-20260420145327 Greenville",
+    "rfx_number": "3170035688",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 5/7/2026 3:00 PM\nDescription: All Bidders are welcome to attend the pre-bid meeting held 3:00 p.m. (CST) on  Thursday, May 7, 2026, in the City of Greenville City Clerks Office, 340 Main St., Greenville, \nMississippi; 387",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-21 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45308?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035688.PDF?ATTCGET&CLID=0200060000111FD193F5A6CEC39A10F3&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65819,
+        "description": "Section 00075_Advertisement for Bids.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2526%2D20260420145327%20GREENVILLE.PDF?PHIOGET&KPID=02000600000A1FE193F59DC29937F523&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91345",
+        "category_description": "Serv ConstHeavySewer"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:33:11.435644+00:00"
+  },
+  {
+    "bid_id": 45307,
+    "smart_number": "2526-20260420114625 Greenville",
+    "rfx_number": "3170035687",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 5/7/2026 2:00 PM\nDescription: All Bidders are welcome to attend the pre-bid meeting held 2:00 p.m. (CST) on Thursday, May 7, 2026, in the City of Greenville City Council Chambers, 340 Main St., Greenville, Mississippi; \n38",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-21 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45307?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035687.PDF?ATTCGET&CLID=02000600000A1FE193F575BEBF56D523&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65818,
+        "description": "SECTION 00075 - ADVERTISEMENT FOR BIDS.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2526%2D20260420114625%20GREENVILLE.PDF?PHIOGET&KPID=02000600000A1FE193F567BCBE20B520&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91345",
+        "category_description": "Serv ConstHeavySewer"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:33:15.315566+00:00"
+  },
+  {
+    "bid_id": 45306,
+    "smart_number": "357-20260420114410 Madison",
+    "rfx_number": "3170035685",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The City of Madison is requesting sealed bids for construction. All bids shall be clearly marked Expand \nTerminal Apron  May 27, 2026 on the outside of the envelope. \nBids may be submitted to the attention of Ruth Gibbons at Madison City Hall, 120 Montg",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-27 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45306?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035685.PDF?ATTCGET&CLID=02000600000A1FE193F4EAB94E59F519&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65817,
+        "description": "Sec-A - Apron Expansion.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/357%2D20260420114410%20MADISON.PDF?PHIOGET&KPID=02000600000A1FE193F4E2E8A745B518&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90567",
+        "category_description": "Serv AirportRunGroov"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:33:21.742760+00:00"
+  },
+  {
+    "bid_id": 45305,
+    "smart_number": "65-20260417134036 LAA",
+    "rfx_number": "3170035727",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 5/21/2026 1:30:00 PM\nDescription: A pre-bid conference will be held May 21, 2026  at  1:30 p.m.   at the Airport Board Room. Bidders must be qualified under Mississippi Law and have a Certificate of Responsibility when app",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45305?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035727.PDF?ATTCGET&CLID=02000600000A1FE193F4A0B89B1AD517&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65816,
+        "description": "11375_Advertisement for Bids.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/65%2D20260417134036%20LAA.PDF?PHIOGET&KPID=0200060000111FD193E2A586B3267014&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "28527",
+        "category_description": "Control Device Light"
+      },
+      {
+        "category_number": "91219",
+        "category_description": "Serv ConstClearGrub"
+      },
+      {
+        "category_number": "91310",
+        "category_description": "Serv ConstHeavyAir"
+      },
+      {
+        "category_number": "91364",
+        "category_description": "Serv ConsHeavMainAir"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:33:25.362519+00:00"
+  },
+  {
+    "bid_id": 45304,
+    "smart_number": "357-20260420114111 Madison",
+    "rfx_number": "3170035684",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The City of Madison is requesting sealed bids for construction. All bids shall be clearly marked \nRehabilitate Runway 17-35, Improve Runway Safety Area, And Remove Connector Taxiway  May 27, \n2026 on the outside of the envelope. \n\nBids may be submitted",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-27 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45304?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035684.PDF?ATTCGET&CLID=02000600000A1FE193F4C8C7D1861518&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65815,
+        "description": "Sec-A - Runway Rehab..pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/357%2D20260420114111%20MADISON.PDF?PHIOGET&KPID=02000600000A1FE193F4C1CEBC58F518&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91310",
+        "category_description": "Serv ConstHeavyAir"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:33:31.667275+00:00"
+  },
+  {
+    "bid_id": 45302,
+    "smart_number": "44-20260416153622 HCPHC",
+    "rfx_number": "3170035726",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 5/7/2026 10:00 AM\nDescription: A pre-bid meeting for this project will be held on Thursday, May 7, 2026, at 10:00 A.M., Local Time at the Port \nBienville Industrial Park, David N. McDonald Business Center, 3060 Port and Ha",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-05-27 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45302?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035726.PDF?ATTCGET&CLID=0200060000111FD193E2814A4640900A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65813,
+        "description": "00090 Advertisement - HCPHC-REVISED.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/44%2D20260416153622%20HCPHC.PDF?PHIOGET&KPID=0200060000111FD193E27B335949700A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91219",
+        "category_description": "Serv ConstClearGrub"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:55.063808+00:00"
+  },
+  {
+    "bid_id": 45301,
+    "smart_number": "56-20260416090241 BSWC",
+    "rfx_number": "3170035725",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Sealed bids will be received by the Board of Supervisors of Walthall County Mississippi at the Walthall County Courthouse, \n200 Ball Avenue, Tylertown, Mississippi, until 10:00 A.M. on the 27th day of May 2026 and shortly   \nthereafter publicly opened for",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-05-27 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45301?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035725.PDF?ATTCGET&CLID=02000600000A1FE193E259D4B165946A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65812,
+        "description": "SAP-74(23)M Advertisement.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/56%2D20260416090241%20BSWC.PDF?PHIOGET&KPID=0200060000111FD193E2515D16F9100A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91371",
+        "category_description": "Serv ConsHeavMainHwy"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:53:57.947042+00:00"
+  },
+  {
+    "bid_id": 45300,
+    "smart_number": "75-20260415161329 UM",
+    "rfx_number": "3170035724",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "NOTICE IS HEREBY GIVEN THAT SEALED PROPOSALS WILL BE RECEIVED AT THE \nUNIVERSITY OF MISSISSIPPI, OFFICE OF PROCUREMENT SERVICES, 164 JEANETTE \nPHILLIPS DRIVE, UNIVERSITY, MS 38677 ON THURSDAY, MAY 28, 2026 UNTIL 1:00 PM \nAND OPENED IMMEDIATELY THEREAFTER",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45300?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035724.PDF?ATTCGET&CLID=0200060000111FD193E238ED4BB8900A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65811,
+        "description": "ADVERTISEMENT - RFP 813.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/75%2D20260415161329%20UM.PDF?PHIOGET&KPID=0200060000111FD193E23088FB78300A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "20811",
+        "category_description": "CPU Softw-Appl Softw"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:00.706730+00:00"
+  },
+  {
+    "bid_id": 45299,
+    "smart_number": "160-20260415123419 MCSD",
+    "rfx_number": "3170035723",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "A. Your firm is invited to submit an offer under seal to Owner for the construction of a facility located at Madison Central High School: \n 1417 Highland Colony Pkwy, Madison, MS 39110 \n Before 2 pm local standard time on the 21st day of May, 2026, for: \n",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-05-21 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45299?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035723.PDF?ATTCGET&CLID=02000600000A1FE193E215F4C1FDB46A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65810,
+        "description": "MC Press Box 00.1113 Advertisement for Bids_04-15-26.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/160%2D20260415123419%20MCSD.PDF?PHIOGET&KPID=0200060000111FD193E20285E8DA3007&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90917",
+        "category_description": "Serv BuildConstAthMn"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:03.580886+00:00"
+  },
+  {
+    "bid_id": 45296,
+    "smart_number": "56-20260430104715 JTTWA",
+    "rfx_number": "3170035722",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Bids for Contract No. 4 Security Fencing Improvements at Water Treatment Plant will be\nreceived by Jayess Topeka Tilton Water Association in Lawrence County, Mississippi, herein\ncalled the Owner, at the Office of Dungan Engineering located at 1574 High",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45296?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035722.PDF?ATTCGET&CLID=0200060000111FD193E1BE243640D006&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65797,
+        "description": "02 Advertisement for Bids.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/56%2D20260430104715%20JTTWA.PDF?PHIOGET&KPID=0200060000111FD193E1B729BD407006&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "33013",
+        "category_description": "Fencing, Chain Link"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:07.487943+00:00"
+  },
+  {
+    "bid_id": 45292,
+    "smart_number": "3541-20260506145608 Baldwyn",
+    "rfx_number": "3170035720",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The City of Baldwyn is seeking\nsealed bids for construction of a\nFarmers Market Building in the\nback yard of 202 S. 2nd Street in\nBaldwyn, MS 38824 also known as\nthe Baldwyn Municipal Court Build\ning.\nThese bids must be received by\n3:00 P.M., Wednesday,",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-05-20 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45292?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035720.PDF?ATTCGET&CLID=0200060000111FD193DB5C376A48CFA6&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65762,
+        "description": "Farmers Market Bid.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/3541%2D20260506145608%20BALDWYN.PDF?PHIOGET&KPID=0200060000111FD193DB56378EE66FA6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "15505",
+        "category_description": "Barier/Enclsr,Constr"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:13.418530+00:00"
+  },
+  {
+    "bid_id": 45291,
+    "smart_number": "1398-20260429100412 KWL",
+    "rfx_number": "3170035719",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that the Water and Light Commission of the City of Kosciusko, \nMississippi, will receive Electronic Bids via reverse auction for the purchase of ONE (1) \nNEW RUBBER TIRE BACKHOE. \nUnpriced bid proposals will be accepted until 10:00",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-05-18 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45291?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035719.PDF?ATTCGET&CLID=0200060000111FD193DB3EBA0179CFA5&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65761,
+        "description": "BID NOTICE - Backhoe April 2026.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1398%2D20260429100412%20KWL.PDF?PHIOGET&KPID=0200060000111FD193DB3969AE8E6FA4&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "76003",
+        "category_description": "RoadEarthBackhoe"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:16.285354+00:00"
+  },
+  {
+    "bid_id": 45290,
+    "smart_number": "222-20260504095206 GCSD",
+    "rfx_number": "3170035718",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The George County School District (GCSD), located in Lucedale, is soliciting quotations for Managed Print and Copier \nServices. \nSealed bids will be received until 9:00 a.m. on June 5, 2026, at which time they will be opened for review. The bid \nopening w",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-06-05 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45290?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035718.PDF?ATTCGET&CLID=0200060000111FD193DB2192163E0FA3&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65760,
+        "description": "RFQ_2026-001_Copier_and_Printer_Services_AD1",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFQ%5F2026%2D001%5FCOPIER%5FAND%5FPRINTER%5FSERVICES%5FAD1.PDF?PHIOGET&KPID=0200060000111FD193DB1C4D18186FA3&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "93927",
+        "category_description": "Serv OffEqMainCpyMac"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:19.845718+00:00"
+  },
+  {
+    "bid_id": 45286,
+    "smart_number": "1398-20260429094847 KWL",
+    "rfx_number": "3170035683",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that the Water and Light Commission of the City of Kosciusko, \nMississippi, will receive Electronic Bids via reverse auction for the purchase of ONE (1) \nNEW ARTICULATING / TELESCOPING AERIAL DEVICE.\n\nUnpriced bid proposals will be",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-12 05:00 UTC",
+    "submission_date": "2026-05-18 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45286?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035683.PDF?ATTCGET&CLID=02000600000A1FE193C722695337136D&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65753,
+        "description": "BID NOTICE - Articulating Telescoping Aerial Device April 2026.p",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1398%2D20260429094847%20KWL.PDF?PHIOGET&KPID=02000600000A1FE193C70A23ACCE536D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "07206",
+        "category_description": "Trks,Disel,Gas-Cl 6"
+      },
+      {
+        "category_number": "56018",
+        "category_description": "Conveyors, Bucket"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:22.601081+00:00"
+  },
+  {
+    "bid_id": 45285,
+    "smart_number": "2-20260428153405 MSU",
+    "rfx_number": "3170035682",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Proposals will be received in the Office of Procurement Services, Mississippi State University. \nSubmissions may be mailed to 405 Garrard Road East, Starkville, MS 39759\nSUBMISSION DEADLINE, WEDNESDAY, MAY 20, 2026  2:00 P.M.\nMSU2026069 RFP  SCHOLARSHIP",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-12 05:00 UTC",
+    "submission_date": "2026-05-20 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45285?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035682.PDF?ATTCGET&CLID=0200060000111FD193C66D5F73644EC6&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65752,
+        "description": "AD for RFP MSU2026069 RFP.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2%2D20260428153405%20MSU.PDF?PHIOGET&KPID=02000600000A1FE193C660C41787B364&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91829",
+        "category_description": "Serv ConsultCompSoft"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:25.779651+00:00"
+  },
+  {
+    "bid_id": 45284,
+    "smart_number": "1389-20260423135412 BSSC",
+    "rfx_number": "3170035681",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that the Board of Supervisors of Sunflower County, Mississippi will receive sealed bids until 10:00 a.m., Monday, May 18, 2026, at the Board of Supervisors Roo, in the Courthouse in the City of Indianola, Mississippi for the followi",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-12 05:00 UTC",
+    "submission_date": "2026-05-18 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45284?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035681.PDF?ATTCGET&CLID=02000600000A1FE193C6375ABBA9B35C&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65751,
+        "description": "SCAN_2026_4_23_18_59_9_76943.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1389%2D20260423135412%20BSSC.PDF?PHIOGET&KPID=02000600000A1FE193C61682B2FD3359&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "76033",
+        "category_description": "RoadEarthGradersMoto"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:29.926734+00:00"
+  },
+  {
+    "bid_id": 45283,
+    "smart_number": "384-20260424115406 BMCU",
+    "rfx_number": "3170035717",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Blue Mountain Christian University (BMCU) is issuing this Request for Quotations (RFQ) to \nsolicit pricing from qualified Women-Owned and Minority-Owned Businesses (W/MBEs)\nfor the furnishing of a new academic and training space. This solicitation is inte",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-12 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45283?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035717.PDF?ATTCGET&CLID=0200060000111FD193C2B4E10F8CCE87&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65750,
+        "description": "Legal notice to Bidders - REQUEST FOR QUOTATIONS Tables and Chai",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/384%2D20260424115406%20BMCU.PDF?PHIOGET&KPID=0200060000111FD193C2607771DEEE85&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "26546",
+        "category_description": "Material Vinyl Auto"
+      },
+      {
+        "category_number": "42506",
+        "category_description": "Chairs, Metal"
+      },
+      {
+        "category_number": "42520",
+        "category_description": "Desks & Tables, Met"
+      },
+      {
+        "category_number": "57883",
+        "category_description": "Store Fixtures"
+      },
+      {
+        "category_number": "78532",
+        "category_description": "SchoolEquipClassroom"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:33.603717+00:00"
+  },
+  {
+    "bid_id": 45281,
+    "smart_number": "75-20260423145208 UM",
+    "rfx_number": "3170035714",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "NOTICE IS HEREBY GIVEN THAT THE UNIVERSITY OF MISSISSIPPI ANTICIPATES \nPURCHASING THE ITEMS LISTED BELOW AS SOLE SOURCE PURCHASES. \nITSS 475 - VALT 1-E Camera License\nANYONE OBJECTING TO THESE PURCHASES AS A SOLE SOURCE SHALL FOLLOW THE LINK \nBELOW FOR FU",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-12 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45281?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035714.PDF?ATTCGET&CLID=0200060000111FD193C1D715D0920E7D&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65748,
+        "description": "ITSS 475 - VALT 1-E Camera License.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/75%2D20260423145208%20UM.PDF?PHIOGET&KPID=0200060000111FD193C1CDE9DCE76E7D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "20880",
+        "category_description": "CPU Softw-Software"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:40.768782+00:00"
+  },
+  {
+    "bid_id": 45275,
+    "smart_number": "164-20260421150936 OSSD",
+    "rfx_number": "3170035708",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that sealed bids will be received by the Board of Trustees of the \nOcean Springs School District, in the Board Room at the Central Office, 2300 \nGovernment Street, Ocean Springs, Mississippi, until 2:00 pm, local time, on Thursday \n",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45275?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035708.PDF?ATTCGET&CLID=0200060000111FD193AF88F7E487ADB1&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65728,
+        "description": "003-ADVERTISEMENT-Asbestos Abatement UE.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/164%2D20260421150936%20OSSD.PDF?PHIOGET&KPID=0200060000111FD193AF837C4839CDB1&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90930",
+        "category_description": "Serv BuildConstOther"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:46.361776+00:00"
+  },
+  {
+    "bid_id": 45274,
+    "smart_number": "124-20260421115050 Pittsboro",
+    "rfx_number": "3170035706",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Sealed bids will be received until MAY 19, 2026 @ 10:00 AM , and then publicly opened and read at the \nCalhoun County Courthouse in the Chancery Clerk Office in Pittsboro, MS, P.O. Box 8, Pittsboro, MS \n38951 for furnishing all labor, materials and equipm",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45274?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035706.PDF?ATTCGET&CLID=0200060000111FD193AF5C9007556DB0&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65727,
+        "description": "CALHOUN COUNTY AIRPORT ADV.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/124%2D20260421115050%20PITTSBORO.PDF?PHIOGET&KPID=0200060000111FD193AF561C2459EDAF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91310",
+        "category_description": "Serv ConstHeavyAir"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:49.764450+00:00"
+  },
+  {
+    "bid_id": 45270,
+    "smart_number": "77-20260423082006 DCS",
+    "rfx_number": "3170035699",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Unpriced Proposals will be received by the DeSoto County School Board of Education, 5 East South Street, Hernando, MS \n38632 or electronically at www.centralbidding.com, at the date and time specified on the BID NOTICE. Neither dating of \nthe Unpriced Pro",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45270?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035699.PDF?ATTCGET&CLID=02000600000A1FE193AE6646B25D5237&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65723,
+        "description": "77-20260423082006 DCS",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/77%2D20260423082006%20DCS.PDF?PHIOGET&KPID=0200060000111FD193AE588F811D8DA1&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "80548",
+        "category_description": "SportGoodsFootballeq"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:54:53.016841+00:00"
+  },
+  {
+    "bid_id": 45269,
+    "smart_number": "1428-20260422152859 Clarksdale",
+    "rfx_number": "3170035698",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 5/6/2026 10:00 AM\nDescription: Located at 121 Sunflower Ave Clarksdale MS 38614 bidders are required to attend\n\n--------------------------------------------------------------------------------------------------------------",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45269?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035698.PDF?ATTCGET&CLID=02000600000A1FE193AE39D5A9455232&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65722,
+        "description": "1428-20260422152859 Clarksdale",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1428%2D20260422152859%20CLARKSDALE.PDF?PHIOGET&KPID=0200060000111FD193AE1F9973ED6D9C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "15508",
+        "category_description": "Bridge/Prefabricatd"
+      },
+      {
+        "category_number": "21026",
+        "category_description": "Concrete- Chairs"
+      },
+      {
+        "category_number": "91313",
+        "category_description": "Serv ConstHeavyBrid"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:02.886025+00:00"
+  },
+  {
+    "bid_id": 45268,
+    "smart_number": "124-20260421115231 Winona",
+    "rfx_number": "3170035697",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Sealed bids subject to the conditions and provisions presented herein will be received until\n WEDNESDAY, MAY 20, 2026 @ 10:00AM and then publicly opened and read at the Economic \nDevelopment Partnership of Montgomery County office located at 701 Summit St",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-20 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45268?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035697.PDF?ATTCGET&CLID=02000600000A1FE193ADFE4E9E7D922D&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65721,
+        "description": "124-20260421115231 Winona",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/124%2D20260421115231%20WINONA.PDF?PHIOGET&KPID=0200060000111FD193ADF71FD1CF6D9C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90910",
+        "category_description": "Serv BuildConstAirFa"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:05.831941+00:00"
+  },
+  {
+    "bid_id": 45266,
+    "smart_number": "137-20260421111603 Rankin",
+    "rfx_number": "3170035695",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The purpose of this Request for Proposals (RFP) is to solicit sealed proposals to establish a \ncontract through competitive negotiation for the purchase of a fully integrated Public Safety \nSoftware Systems for the Rankin County Sheriffs Department (RCSD",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-22 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45266?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035695.PDF?ATTCGET&CLID=02000600000A1FE193AD973EBAA6922B&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65719,
+        "description": "137-20260421111603 Rankin",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/137%2D20260421111603%20RANKIN.PDF?PHIOGET&KPID=0200060000111FD193AD8F4025850D9B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "20857",
+        "category_description": "CPU Softw-Law Enforc"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:12.100915+00:00"
+  },
+  {
+    "bid_id": 45265,
+    "smart_number": "49-20260421103906 BPSD",
+    "rfx_number": "3170035694",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The Biloxi Public School District (the District) through the Office of Special Education as part of its \nrequirement to implement the provisions of Individuals with Disabilities Education Act (IDEA) and \nMississippi Policies and Procedures State Board",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45265?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035694.PDF?ATTCGET&CLID=02000600000A1FE193AD6C185AFED22A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65718,
+        "description": "49-20260421103906 BPSD",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/49%2D20260421103906%20BPSD.PDF?PHIOGET&KPID=0200060000111FD193AD63DA12AFAD99&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94886",
+        "category_description": "Serv HealRelTherReh"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:19.745866+00:00"
+  },
+  {
+    "bid_id": 45264,
+    "smart_number": "49-20260421103643 BPSD",
+    "rfx_number": "3170035693",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The Biloxi Public School District (the District) through the Office of Special Education as part of its \nrequirement to implement the provisions of Individuals with Disabilities Education Act (IDEA) and \nMississippi Policies and Procedures State Board",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45264?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035693.PDF?ATTCGET&CLID=0200060000111FD193AD4359E862CD99&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65717,
+        "description": "BCBA RFP 26 Kellogg Grant.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/49%2D20260421103643%20BPSD.PDF?PHIOGET&KPID=0200060000111FD193AD3C415C7A6D96&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94886",
+        "category_description": "Serv HealRelTherReh"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:22.859866+00:00"
+  },
+  {
+    "bid_id": 45263,
+    "smart_number": "49-20260421103356 BPSD",
+    "rfx_number": "3170035692",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The Biloxi Public School District (District), through the Office of Special Education, is soliciting \nproposals from qualified providers to deliver school-based physical therapy services in accordance \nwith:\n Individuals with Disabilities Education Act",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45263?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035692.PDF?ATTCGET&CLID=0200060000111FD193AD23101FC2CD95&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65716,
+        "description": "49-20260421103356 BPSD",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/49%2D20260421103356%20BPSD.PDF?PHIOGET&KPID=0200060000111FD193AD1495EAAA2D94&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94886",
+        "category_description": "Serv HealRelTherReh"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:26.009051+00:00"
+  },
+  {
+    "bid_id": 45261,
+    "smart_number": "49-20260421103014 BPSD",
+    "rfx_number": "3170035691",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The Biloxi Public School District (the District) through the Office of Special Education as part of its \nrequirement to implement the provisions of Individuals with Disabilities Education Act (IDEA) and \nMississippi Policies and Procedures State Board",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45261?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035691.PDF?ATTCGET&CLID=0200060000111FD193ACF66926C1CD94&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65711,
+        "description": "SY26 RFP ASL Interpreter.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/49%2D20260421103014%20BPSD.PDF?PHIOGET&KPID=0200060000111FD193ACED65FE6DAD94&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "96167",
+        "category_description": "Serv MiscNo1SignLang"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:31.083877+00:00"
+  },
+  {
+    "bid_id": 45260,
+    "smart_number": "49-20260421102445 BPSD",
+    "rfx_number": "3170035690",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The Biloxi Public School District (the District) through the Office of Special Education as part of its \nrequirement to implement the provisions of Individuals with Disabilities Education Act (IDEA) and \nMississippi Policies and Procedures State Board",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45260?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035690.PDF?ATTCGET&CLID=0200060000111FD193ACD292F61B2D94&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65710,
+        "description": "SY26 RFP Speech Therapy.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/49%2D20260421102445%20BPSD.PDF?PHIOGET&KPID=0200060000111FD193ACC6F32A80AD93&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94886",
+        "category_description": "Serv HealRelTherReh"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:35.578583+00:00"
+  },
+  {
+    "bid_id": 45258,
+    "smart_number": "1454-20260417103630 JMAA",
+    "rfx_number": "3170035679",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 4/30/2026 10:30 AM\nDescription: An Optional Pre-Bid Conference will be held at 10:30AM on Thursday, April 30, 2026 at the Staff Conference Room, Third Floor of the Main Terminal Building at JACKSON-MEDGAR WILEY EVERS INTER",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45258?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035679.PDF?ATTCGET&CLID=0200060000111FD193AB582AD0EA8D80&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65708,
+        "description": "JAN Rbilitation of Runway 16L-34R - Legal Notice.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1454%2D20260417103630%20JMAA.PDF?PHIOGET&KPID=02000600000A1FE193AB4838B2ECB218&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "74580",
+        "category_description": "RoadMaterRubberAspha"
+      },
+      {
+        "category_number": "90560",
+        "category_description": "AirportServRemoveRub"
+      },
+      {
+        "category_number": "90567",
+        "category_description": "Serv AirportRunGroov"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:42.130039+00:00"
+  },
+  {
+    "bid_id": 45257,
+    "smart_number": "113-20260416143240 DCBS",
+    "rfx_number": "3170035678",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 4/30/2026 10:30 AM\nDescription: Pre-Bid Meeting is scheduled for: 10:30 AM on the 30th day of April, 2026.\n\n------------------------------------------------------------------------------------------------------------------",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45257?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035678.PDF?ATTCGET&CLID=0200060000111FD193AB15B324FFAD80&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65707,
+        "description": "113-20260416143240 DCBS",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/113%2D20260416143240%20DCBS.PDF?PHIOGET&KPID=02000600000A1FE193AB026EF7DD3216&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "15538",
+        "category_description": "Cnstr Shed/Field Off"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:45.181046+00:00"
+  },
+  {
+    "bid_id": 45256,
+    "smart_number": "61-20260416112813 Bay St Louis",
+    "rfx_number": "3170035677",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 4/30/2026 10:00 AM\nDescription: A Non-Mandatory Pre-Bid Meeting is scheduled for Thursday, April 30, 2026 @ 10:00 AM. Meet in the lobby of Bay St. Louis City Hall, 688 US-90, Bay St. Louis, Mississippi 39620. After the mee",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45256?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035677.PDF?ATTCGET&CLID=0200060000111FD193AA8FD108EC0D7A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65706,
+        "description": "61-20260416112813 Bay St Louis",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/61%2D20260416112813%20BAY%20ST%20LOUIS.PDF?PHIOGET&KPID=02000600000A1FE193AA865DEF691216&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91891",
+        "category_description": "Serv ConsultRoofing"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:55:48.429556+00:00"
+  },
+  {
+    "bid_id": 45253,
+    "smart_number": "78-20260416102552 BSIC",
+    "rfx_number": "3170035674",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Sealed bids or electronic bids will be received by the Board of Supervisors of Itawamba County, Mississippi until 10:00 AM on the\n18th day of May, 2026 and shortly thereafter publicly opened for the construction of 0.056 mile of BOX CULVERT AND APPROACHES",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-18 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45253?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035674.PDF?ATTCGET&CLID=02000600000A1FE193AA326253B33212&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65703,
+        "description": "78-20260416102552 BSIC",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/78%2D20260416102552%20BSIC.PDF?PHIOGET&KPID=02000600000A1FE193AA21FE9FCE5210&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91327",
+        "category_description": "Serv ConstHeavyHwyRd"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:56:01.507807+00:00"
+  },
+  {
+    "bid_id": 45252,
+    "smart_number": "7-20260416095739 Jackson",
+    "rfx_number": "3170035673",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Notice is hereby given that the City of Jackson will receive written sealed bids until the hour of 3:30 p.m. May 19, 2026 at the Municipal Clerk's office located in the city hall for the furnishing of materials and for the construction of that certain pro",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45252?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035673.PDF?ATTCGET&CLID=02000600000A1FE193AA093736A1D210&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65702,
+        "description": "7-20260416095739 Jackson",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/7%2D20260416095739%20JACKSON.PDF?PHIOGET&KPID=02000600000A1FE193A9975D891CB20C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65701,
+        "description": "Street_Resurfacing_COJ-RS-01_(2)2 (1)",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D01%5F%282%292%20%281%29.PDF?PHIOGET&KPID=02000600000A1FE193A9994A6036120C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65700,
+        "description": "Street_Resurfacing_COJ-RS-01_(3)3",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D01%5F%283%293.PDF?PHIOGET&KPID=02000600000A1FE193A99C68E211720C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65699,
+        "description": "Street_Resurfacing_COJ-RS-01_(4)4",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D01%5F%284%294.PDF?PHIOGET&KPID=02000600000A1FE193A99E3386A2D20C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65698,
+        "description": "Street_Resurfacing_COJ-RS-01_(5)5",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D01%5F%285%295.PDF?PHIOGET&KPID=02000600000A1FE193A99FC36D4B320C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65697,
+        "description": "Street_Resurfacing_COJ-RS-01_(6)6",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D01%5F%286%296.PDF?PHIOGET&KPID=02000600000A1FE193A9A1D0D19C920C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65695,
+        "description": "Street_Resurfacing_COJ-RS-03_(1)14",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D03%5F%281%2914.PDF?PHIOGET&KPID=02000600000A1FE193A9AA3E0634D20D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65694,
+        "description": "Street_Resurfacing_COJ-RS-03_(2)15",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D03%5F%282%2915.PDF?PHIOGET&KPID=02000600000A1FE193A9AD1ED014F20D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65693,
+        "description": "Street_Resurfacing_COJ-RS-03_(3)16",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D03%5F%283%2916.PDF?PHIOGET&KPID=02000600000A1FE193A9B07D171E920D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65692,
+        "description": "Street_Resurfacing_COJ-RS-03_(4)17",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D03%5F%284%2917.PDF?PHIOGET&KPID=02000600000A1FE193A9B2C17950520D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65691,
+        "description": "Street_Resurfacing_COJ-RS-03_(5)18",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D03%5F%285%2918.PDF?PHIOGET&KPID=02000600000A1FE193A9B512561FF20D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65689,
+        "description": "Street_Resurfacing_COJ-RS-03_(6)19",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D03%5F%286%2919.PDF?PHIOGET&KPID=02000600000A1FE193A9BD0736AFD20D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65690,
+        "description": "Street_Resurfacing_COJ-RS-03_(6)19",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D03%5F%286%2919.PDF?PHIOGET&KPID=02000600000A1FE193A9B79B4FE4D20D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65688,
+        "description": "Street_Resurfacing_COJ-RS-04_(1)20",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D04%5F%281%2920.PDF?PHIOGET&KPID=02000600000A1FE193A9C36A40B6120D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65687,
+        "description": "Street_Resurfacing_COJ-RS-04_(2)21",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D04%5F%282%2921.PDF?PHIOGET&KPID=02000600000A1FE193A9C56B586CD20D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65680,
+        "description": "Street_Resurfacing_COJ-RS-04_(2)21",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D04%5F%282%2921.PDF?PHIOGET&KPID=02000600000A1FE193A9C94CAAB2120D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65681,
+        "description": "Street_Resurfacing_COJ-RS-04_(3)22",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D04%5F%283%2922.PDF?PHIOGET&KPID=02000600000A1FE193A9CA0A182F520D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65682,
+        "description": "Street_Resurfacing_COJ-RS-04_(4)23",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D04%5F%284%2923.PDF?PHIOGET&KPID=02000600000A1FE193A9CC41F44C920D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65683,
+        "description": "Street_Resurfacing_COJ-RS-04_(5)24",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D04%5F%285%2924.PDF?PHIOGET&KPID=02000600000A1FE193A9CDEE8FE2120D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65684,
+        "description": "Street_Resurfacing_COJ-RS-04_(5)24",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D04%5F%285%2924.PDF?PHIOGET&KPID=02000600000A1FE193A9CFC353AD520D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65685,
+        "description": "Street_Resurfacing_COJ-RS-05_(1)25",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D05%5F%281%2925.PDF?PHIOGET&KPID=02000600000A1FE193A9D178A7BB520D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65686,
+        "description": "Street_Resurfacing_COJ-RS-05_(2)26",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D05%5F%282%2926.PDF?PHIOGET&KPID=02000600000A1FE193A9D3DB270D120D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65679,
+        "description": "Street_Resurfacing_COJ-RS-05_(2)26",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D05%5F%282%2926.PDF?PHIOGET&KPID=02000600000A1FE193A9D634688BB20D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65678,
+        "description": "Street_Resurfacing_COJ-RS-05_(3)27",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D05%5F%283%2927.PDF?PHIOGET&KPID=02000600000A1FE193A9D86176ED320D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65677,
+        "description": "Street_Resurfacing_COJ-RS-05_(4)28",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D05%5F%284%2928.PDF?PHIOGET&KPID=02000600000A1FE193A9D9E50ACCF20D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65675,
+        "description": "Street_Resurfacing_COJ-RS-05_(5)29",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D05%5F%285%2929.PDF?PHIOGET&KPID=02000600000A1FE193A9DF06FAA4320E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65676,
+        "description": "Street_Resurfacing_COJ-RS-05_(5)29",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D05%5F%285%2929.PDF?PHIOGET&KPID=02000600000A1FE193A9DC0936C0D20E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65674,
+        "description": "Street_Resurfacing_COJ-RS-06_(1)30",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D06%5F%281%2930.PDF?PHIOGET&KPID=02000600000A1FE193A9E0D37571B20E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65673,
+        "description": "Street_Resurfacing_COJ-RS-06_(2)31",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D06%5F%282%2931.PDF?PHIOGET&KPID=02000600000A1FE193A9E2EA805A520E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65661,
+        "description": "Street_Resurfacing_COJ-RS-06_(3)32",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D06%5F%283%2932.PDF?PHIOGET&KPID=02000600000A1FE193A9E4E45E14D20E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65662,
+        "description": "Street_Resurfacing_COJ-RS-06_(4)33",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D06%5F%284%2933.PDF?PHIOGET&KPID=02000600000A1FE193A9E73B2345920E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65663,
+        "description": "Street_Resurfacing_COJ-RS-06_(5)34",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D06%5F%285%2934.PDF?PHIOGET&KPID=02000600000A1FE193A9E8D9B221120E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65664,
+        "description": "Street_Resurfacing_COJ-RS-06_(6)35",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D06%5F%286%2935.PDF?PHIOGET&KPID=02000600000A1FE193A9EB752F72320E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65665,
+        "description": "Street_Resurfacing_COJ-RS-06_(6)35",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D06%5F%286%2935.PDF?PHIOGET&KPID=02000600000A1FE193A9ED2F36A2D20E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65666,
+        "description": "Street_Resurfacing_COJ-RS-07_(1)36",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D07%5F%281%2936.PDF?PHIOGET&KPID=02000600000A1FE193A9F0AC046A120E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65667,
+        "description": "Street_Resurfacing_COJ-RS-07_(2)37",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D07%5F%282%2937.PDF?PHIOGET&KPID=02000600000A1FE193A9F2704D65720E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65668,
+        "description": "Street_Resurfacing_COJ-RS-07_(3)38",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D07%5F%283%2938.PDF?PHIOGET&KPID=02000600000A1FE193A9F3F43A85720E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65669,
+        "description": "Street_Resurfacing_COJ-RS-07_(3)38",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D07%5F%283%2938.PDF?PHIOGET&KPID=02000600000A1FE193A9F630130ED20E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65670,
+        "description": "Street_Resurfacing_COJ-RS-07_(4)39",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D07%5F%284%2939.PDF?PHIOGET&KPID=02000600000A1FE193A9F81F6388F20F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65671,
+        "description": "Street_Resurfacing_COJ-RS-07_(5)40",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D07%5F%285%2940.PDF?PHIOGET&KPID=02000600000A1FE193A9FA5BDE88B20F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65672,
+        "description": "Street_Resurfacing_COJ-RS-07_(6)41",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%2DRS%2D07%5F%286%2941.PDF?PHIOGET&KPID=02000600000A1FE193A9FC8BEFA4920F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65696,
+        "description": "Street_Resurfacing_COJ_-RS-02_(7)13",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STREET%5FRESURFACING%5FCOJ%5F%2DRS%2D02%5F%287%2913.PDF?PHIOGET&KPID=02000600000A1FE193A9A4049D52320D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91276",
+        "category_description": "Serv ConstStripSt"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T09:56:04.333388+00:00"
+  },
+  {
+    "bid_id": 45251,
+    "smart_number": "77-20260416092923 DCS",
+    "rfx_number": "3170035672",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Unpriced Proposals will be received by the DeSoto County School Board of Education, 5 East South Street, Hernando, MS 38632 or electronically at www.centralbidding.com, at the date and time specified on the BID NOTICE. Neither dating of the Unpriced Propo",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-18 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45251?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035672.PDF?ATTCGET&CLID=02000600000A1FE193A97543DC37920A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65660,
+        "description": "Bid Packer 395-PAPER-DCS262.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/77%2D20260416092923%20DCS.PDF?PHIOGET&KPID=02000600000A1FE193A96D44C076520A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "64533",
+        "category_description": "Copy Paper Special"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:04:51.166870+00:00"
+  },
+  {
+    "bid_id": 45250,
+    "smart_number": "56-20260416081753 BSMC",
+    "rfx_number": "3170035671",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Sealed bids will be received by the Board of Supervisors of Marion County Mississippi at the Marion County Board of \nSupervisors Office, Columbia, Mississippi, until 10:00 A.M. on the 20th day of May 2026 and shortly thereafter publicly \nopened for the co",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-20 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45250?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035671.PDF?ATTCGET&CLID=0200060000111FD193A94C6212494D69&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65659,
+        "description": "LSBP-46(20) Advertisement.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/56%2D20260416081753%20BSMC.PDF?PHIOGET&KPID=02000600000A1FE193A943EC6FB73205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91366",
+        "category_description": "Serv ConsHeavMainBrd"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:04:59.605201+00:00"
+  },
+  {
+    "bid_id": 45249,
+    "smart_number": "7-20260416074521 Jackson",
+    "rfx_number": "3170035670",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "NOTICE is hereby given that the City of Jackson will receive written sealed bids until the \nhour of 3:30 PM on Tuesday, May 19, 2026 at the Municipal Clerks Office for the furnishing of \nall labor, materials, and equipment necessary for the construction",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45249?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035670.PDF?ATTCGET&CLID=0200060000111FD193A92A227E2E4D69&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65654,
+        "description": "1 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1%20CITY%5FOF%5FJACKSON%5FINFRASTRUCTURE%5FIMPROVEMENTS%5F%28CREEK%5FCLEARING%29%5FCOJ%2DCC%2D04%5F%281%294.PDF?PHIOGET&KPID=02000600000A1FE193A9203F1E9A9205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65655,
+        "description": "2 City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_C",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2%20CITY%5FOF%5FJACKSON%5FINFRASTRUCTURE%5FIMPROVEMENTS%5F%28CREEK%5FCLEARING%29%5FCOJ%2DCC%2D05%5F%281%295.PDF?PHIOGET&KPID=02000600000A1FE193A922CB72CA5205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65656,
+        "description": "City of Jackson Infrastructure Improvements (Creek Clearing) COJ",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/7%2D20260416074521%20JACKSON.PDF?PHIOGET&KPID=02000600000A1FE193A918DB0098F205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65657,
+        "description": "City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/CITY%5FOF%5FJACKSON%5FINFRASTRUCTURE%5FIMPROVEMENTS%5F%28CREEK%5FCLEARING%29%5FCOJ%2DCC%2D02%5F%281%292.PDF?PHIOGET&KPID=02000600000A1FE193A91A69569B1205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65658,
+        "description": "City_of_Jackson_Infrastructure_Improvements_(Creek_Clearing)_COJ",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/CITY%5FOF%5FJACKSON%5FINFRASTRUCTURE%5FIMPROVEMENTS%5F%28CREEK%5FCLEARING%29%5FCOJ%2DCC%2D03%5F%281%293.PDF?PHIOGET&KPID=02000600000A1FE193A91CF2F4BFB205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91219",
+        "category_description": "Serv ConstClearGrub"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:05:02.737309+00:00"
+  },
+  {
+    "bid_id": 45247,
+    "smart_number": "22-20260415134623 NWMCC",
+    "rfx_number": "3170035668",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Pre-Bid Conference:\nDate & Time: 5/8/2026 10:00 AM\nDescription: Evaluate current acoustical and lighting systems. \n\n-------------------------------------------------------------------------------------------------------------------------------\nSynopsis De",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45247?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035668.PDF?ATTCGET&CLID=02000600000A1FE193A8D88EC6E95202&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65652,
+        "description": "Ad Bid 26-005-14 -FACILITIES FINE ARTS AUDITORIUM ACOUSTIC UPGRA",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/22%2D20260415134623%20NWMCC.PDF?PHIOGET&KPID=02000600000A1FE193A8BCE50D729202&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "85546",
+        "category_description": "Lighting Control Sys"
+      },
+      {
+        "category_number": "85570",
+        "category_description": "Sound Effects Equip"
+      },
+      {
+        "category_number": "91484",
+        "category_description": "Serv ConsTradNoClass"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:06:42.561495+00:00"
+  },
+  {
+    "bid_id": 45231,
+    "smart_number": "255-20260501160534 Brandon",
+    "rfx_number": "3170035638",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "Separate written sealed BIDS for a General Contract for the furnishing of all labor and materials for the construction of:\n\n2026 RANKIN FIRST OFFSITE SEWER IMPROVEMENTS\n\nwill be received by the mayor and Board of Alderman of the CITY OF BRANDON herein aft",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-08 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45231?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035638.PDF?ATTCGET&CLID=0200060000111FD192E52720C8374AE6&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65634,
+        "description": "2026 Rankin First Offsite Sewer Improvements.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/255%2D20260501160534%20BRANDON.PDF?PHIOGET&KPID=0200060000111FD192E51CC7EF0CEAE6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65635,
+        "description": "B-11397- Addendum 3",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/B%2D11397%2D%20ADDENDUM%203.PDF?PHIOGET&KPID=0200060000111FD192E51DAEF0E80AE6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65632,
+        "description": "B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/B%2D11397%5F%2D%5F2026%5FRANKIN%5FFIRST%5FOFFSITE%5FSEWER%5FIMPROVEMENTS%5F%2D%5FADDENDUM%5F%231%5FPACKET2.PDF?PHIOGET&KPID=0200060000111FD192E51F50FBFA8AE6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65633,
+        "description": "B-11397_-_2026_Rankin_First_Offsite_Sewer_Improvements_-_Addendu",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/B%2D11397%5F%2D%5F2026%5FRANKIN%5FFIRST%5FOFFSITE%5FSEWER%5FIMPROVEMENTS%5F%2D%5FADDENDUM%5F%232%5FPACKET3.PDF?PHIOGET&KPID=0200060000111FD192E52102B6F94AE6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91345",
+        "category_description": "Serv ConstHeavySewer"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:06:48.773676+00:00"
+  },
+  {
+    "bid_id": 45043,
+    "smart_number": "198-20260407084622 TCBS",
+    "rfx_number": "3170035490",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The Tunica County Board of Supervisors requests proposals from qualified firms or individuals to provide \nengineering services for work related to the implementation of approved Department of Transportation \n(DOT) Safe Streets for All (SS4A)  Comprehensi",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-17 05:00 UTC",
+    "submission_date": "2026-05-18 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45043?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035490.PDF?ATTCGET&CLID=0200060000111FE18ED18B3F532F11EF&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65236,
+        "description": "REQUEST FOR QUALIFICATIONS FOR ENGINEERING SERVICES -SS4A CSAP.p",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/198%2D20260407084622%20TCBS.PDF?PHIOGET&KPID=02000600000A1FD18CD385F34D95AC1B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "92536",
+        "category_description": "Serv ProfessEngNoCla"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:07:22.792312+00:00"
+  },
+  {
+    "bid_id": 45042,
+    "smart_number": "313-20260407082919 PHWD",
+    "rfx_number": "3170035489",
+    "rfx_status": "Open",
+    "rfx_type": "MDA - RFx",
+    "agency": "MPTAP",
+    "description": "The Pat Harrison Waterway District, Mississippi, will receive bids for the Flint Creek Water Park Horse Trail, \nFederal Aid Project No. STP-0282-00(012) LPA108818/701000 no later than 1:00 P.M., Local Time, May 19, \n2026, at the Pat Harrison Waterway Dist",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-17 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": null,
+    "contact_name": "BID BANK",
+    "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45042?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035489.PDF?ATTCGET&CLID=02000600000A1FD18ED17875521C17BE&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65235,
+        "description": "4-901 Advertisement.pdf",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/313%2D20260407082919%20PHWD.PDF?PHIOGET&KPID=02000600000A1FD18CD3686465792C1A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90930",
+        "category_description": "Serv BuildConstOther"
+      },
+      {
+        "category_number": "91226",
+        "category_description": "Serv ConstHikeBike"
+      },
+      {
+        "category_number": "98863",
+        "category_description": "Serv RecParkPrkAreCo"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:07:26.617857+00:00"
+  },
+  {
+    "bid_id": 45066,
+    "smart_number": "1470-26-R-IFBD-00005",
+    "rfx_number": "3160007906",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT ENVIRONMENTAL QUALITY",
+    "description": "IFB Solicitation for Professional Services for Visible Emissions Evaluation Training and Certification Sessions (Smoke School).",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-21 05:00 UTC",
+    "submission_date": "2026-06-03 05:00 UTC",
+    "opening_date": "2026-06-03 05:00 UTC",
+    "contact_name": "Aveleka Moore",
+    "contact_email": "AMOORE@MDEQ.MS.GOV",
+    "contact_phone": "6019615107",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45066?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160007906.PDF?ATTCGET&CLID=02000600000A1FD18FB095815485DBD8&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65283,
+        "description": "RFx3160007906 MDEQ-IFB04212026",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX3160007906%20MDEQ%2DIFB04212026.PDF?PHIOGET&KPID=02000600000A1FD18FAFB41A9CA8BBCE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "96258",
+        "category_description": "Serv MiscNo2Profess"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:07:29.894872+00:00"
+  },
+  {
+    "bid_id": 45186,
+    "smart_number": "1130-26-R-IFBD-00062",
+    "rfx_number": "3160008044",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+    "description": "Bureau of Building\nGS# 211-075 Soccer Press Box \nMississippi Gulf Coast Community College\n",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-05 05:00 UTC",
+    "submission_date": "2026-06-04 05:00 UTC",
+    "opening_date": "2026-06-04 05:00 UTC",
+    "contact_name": "Kimberly Manning",
+    "contact_email": "KIMBERLY.MANNING@DFA.MS.GOV",
+    "contact_phone": "6013593621",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45186?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008044.PDF?ATTCGET&CLID=0200060000111FD191AE02233368E26A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65529,
+        "description": "Bid Ad",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/211%2D075%20CONSTRUCTION%20BID%20AD%2006042026.PDF?PHIOGET&KPID=0200060000111FE190FC668074DF5FFC&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90922",
+        "category_description": "Serv BuildConstNoRe"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:07:34.516165+00:00"
+  },
+  {
+    "bid_id": 45169,
+    "smart_number": "1130-26-R-IFBD-00051",
+    "rfx_number": "3160007981",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+    "description": "The Mississippi Department of Finance and Administration (DFA), Office of Procurement and Contracts, has issued an Invitation for Bids (IFB) for the purpose of securing a qualified vendor to provide integrated pest control services for the Office of Capit",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-28 05:00 UTC",
+    "submission_date": "2026-06-09 05:00 UTC",
+    "opening_date": "2026-06-09 05:00 UTC",
+    "contact_name": "Terri Ashley",
+    "contact_email": "TERRI.ASHLEY@DFA.MS.GOV",
+    "contact_phone": "6013596580",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45169?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160007981.PDF?ATTCGET&CLID=02000600000A1FE190E50B4E3B06C44D&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65480,
+        "description": "IFB - Int. Pest Services",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160007981%20%2D%20INTEGRATED%20PEST%20MANAGEMENT%20SERVICES%20IFB.PDF?PHIOGET&KPID=0200060000111FE190E4DA9DC5D37E9A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91059",
+        "category_description": "Serv BuildPestCntrl"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:07:37.331782+00:00"
+  },
+  {
+    "bid_id": 44951,
+    "smart_number": "1130-26-R-IFBD-00060",
+    "rfx_number": "3160008014",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+    "description": "Bureau of Building\nGS#103-317 JOC-Dormitory Repairs (Various)\n(Jackson State University)\n",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-16 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": "2026-05-19 05:00 UTC",
+    "contact_name": "Adrian Massey",
+    "contact_email": "ADRIAN.MASSEY@DFA.MS.GOV",
+    "contact_phone": "6012599284",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/44951?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008014.PDF?ATTCGET&CLID=02000600000A1FD18DE77FFF8F085304&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65058,
+        "description": "Bid Ad",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/103%2D317%20CONSTRUCTION%20BID%20AD%2005192026.PDF?PHIOGET&KPID=02000600000A1FD18DE77673D76F3304&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90922",
+        "category_description": "Serv BuildConstNoRe"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:07:42.110928+00:00"
+  },
+  {
+    "bid_id": 45183,
+    "smart_number": "1130-26-R-IFBD-00057-V02",
+    "rfx_number": "3160008010",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+    "description": "The Mississippi Department of Finance and Administration (DFA), Office of Procurement and Contracts, has issued an Invitation for Bids (IFB) for the purpose of securing a qualified vendor to provide boiler maintenance services for the Office of Capitol Fa",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-14 05:00 UTC",
+    "submission_date": "2026-05-15 05:00 UTC",
+    "opening_date": "2026-05-15 05:00 UTC",
+    "contact_name": "Alicia Coleman",
+    "contact_email": "ALICIA.COLEMAN@DFA.MS.GOV",
+    "contact_phone": "6018509059",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45183?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008010%5FV2.PDF?ATTCGET&CLID=0200060000111FD19199D8767F9B4166&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65521,
+        "description": "IFB Amendment One",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD19199B33FF826E166&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65520,
+        "description": "IFB for Boiler Maintenance",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BOILER%20MAINTENANCE%20IFB%20FINAL.PDF?PHIOGET&KPID=02000600000A1FD18E8161F4361EB428&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91036",
+        "category_description": "Serv BuildHeatingAC"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:07:45.305429+00:00"
+  },
+  {
+    "bid_id": 45222,
+    "smart_number": "1301-26-R-RFPR-00004",
+    "rfx_number": "3120003351",
+    "rfx_status": "Open",
+    "rfx_type": "Request for Proposal",
+    "agency": "MS DEPT OF HEALTH",
+    "description": "Request for RFP Exemption for the procurement of professional services related to the development of a Comprehensive Statewide Health Plan.",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-08 05:00 UTC",
+    "submission_date": "2026-06-04 05:00 UTC",
+    "opening_date": "2026-06-04 05:00 UTC",
+    "contact_name": "Patricia Slack",
+    "contact_email": "PATRICIA.SLACK@MSDH.MS.GOV",
+    "contact_phone": "6013593225",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45222?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003351.PDF?ATTCGET&CLID=0200060000111FD192DE514E39706A61&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65603,
+        "description": "RFP_Comp State Health Plan",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFP%2DRFX3180002944%2D2026%2D05%2D07%2D15%2D25%2D56.PDF?PHIOGET&KPID=0200060000111FD192DE3E1A9EF60A61&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65604,
+        "description": "Statement of Compliance",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/[B]%20%5FRFP%5FSTATEMENT%5FOF%5FCOMPLIANCE%5F3120002944.PDF?PHIOGET&KPID=0200060000111FD192DE3F9291360A61&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91878",
+        "category_description": "Serv ConsutlMedical"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:08:00.015832+00:00"
+  },
+  {
+    "bid_id": 45187,
+    "smart_number": "1301-26-R-IFBD-00062",
+    "rfx_number": "3160008033",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF HEALTH",
+    "description": "he Agency wants assistance to provide Cessation Training and Nicotine Dependence Treatment Services.The Contractor will promote and facilitate 2 (two) trainings for Tobacco Treatment Specialists statewide (virtual format), provide support regarding the im",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-04 05:00 UTC",
+    "submission_date": "2026-06-03 05:00 UTC",
+    "opening_date": "2026-06-03 05:00 UTC",
+    "contact_name": "Patricia Youngblood",
+    "contact_email": "PATRICIA.YOUNGBLOOD@MSDH.MS.GOV",
+    "contact_phone": "6013593499",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45187?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008033.PDF?ATTCGET&CLID=0200060000111FD191B207EF0F3B429A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65531,
+        "description": "Draft Copy",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2026%20%5FBAA%5F1063E%20%281%29.PDF?PHIOGET&KPID=02000600000A1FE191B2057F290FE7EE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65530,
+        "description": "IFB",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%2DRFX%2D3160008033%2DCESSATION%20TRAINING%20AND%20NICOTINE%20DEPENDENCE%20TREATMENT%20SERVICES.PDF?PHIOGET&KPID=02000600000A1FE191B200C7D695C7EE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "92416",
+        "category_description": "Serv EduTrainCoursDe"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:08:07.896880+00:00"
+  },
+  {
+    "bid_id": 45175,
+    "smart_number": "1301-26-R-IFBD-00064",
+    "rfx_number": "3160008028",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF HEALTH",
+    "description": "The Mississippi State Department of Health (MSDH), Office of State Health Planning and Research, will accept submissions until 11:00 a.m. CST, Monday, June 1, 2026, from interested bidders to assist in a statewide assessment, provide financial education a",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-29 05:00 UTC",
+    "submission_date": "2026-06-01 05:00 UTC",
+    "opening_date": "2026-06-01 05:00 UTC",
+    "contact_name": "Hannah Wright",
+    "contact_email": "HANNAH.WRIGHT@MSDH.MS.GOV",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45175?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008028.PDF?ATTCGET&CLID=0200060000111FE190FC64FEB62DDFFC&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65498,
+        "description": "Advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008028%20%20FLEX%20FY26%20FINANCIAL%20AND%20OPERATIONAL%20IMPROVEMENT%20FOR%20MISSISSIPPI%60S%20CAHS%20AD.PDF?PHIOGET&KPID=0200060000111FE190FC3B59B3F61FF7&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65499,
+        "description": "Invitations for Bid",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%20RFX%203160008028%20FLEX%20FY%202026%20FINANCIAL%20AND%20OPERATIONAL%20IMPROVEMENT%20FOR%20MISSISSIPPI%60S%20CAHS.PDF?PHIOGET&KPID=0200060000111FE190FC5AB949F63FFB&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94649",
+        "category_description": "Serv Financial Other"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:08:14.993700+00:00"
+  },
+  {
+    "bid_id": 45298,
+    "smart_number": "1301-26-R-IFBD-00063-V01",
+    "rfx_number": "3160008035",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF HEALTH",
+    "description": "The Mississippi State Department of Health (MSDH), Office of Communicable Disease, will accept submissions until 11:00 a.m. CST, Friday, May 29, 2026, from interested bidders in becoming the Third-Party Administrator for the Ryan White Part B Program. The",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-28 05:00 UTC",
+    "submission_date": "2026-05-29 05:00 UTC",
+    "opening_date": "2026-05-29 05:00 UTC",
+    "contact_name": "Hannah Wright",
+    "contact_email": "HANNAH.WRIGHT@MSDH.MS.GOV",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45298?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008035%5FV1.PDF?ATTCGET&CLID=0200060000111FD193E2163BD5941009&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65806,
+        "description": "Advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%20%203160008035%20RYRAN%20WHITE%20PART%20B%20AD.PDF?PHIOGET&KPID=02000600000A1FD19081E0D1F0D17FE3&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65808,
+        "description": "Business Associate Agreement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2026%5F%5FBAA%5F1063E.PDF?PHIOGET&KPID=02000600000A1FD19081F8AC3D2F9FE5&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65807,
+        "description": "IFB RFx- 3160008035 Ryan White Part B Third Party Administrator",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%20RFX%2D3160008035%20RYAN%20WHITE%20PART%20B%20THIRD%20PARTY%20ADMINISTRATOR%20%28TPA%29%20IMPLEMENTATION.PDF?PHIOGET&KPID=02000600000A1FD19081F689CDDF1FE5&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65809,
+        "description": "Question & Answer Report IFB RFx 3160008035",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD193E210A69E40F007&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "95352",
+        "category_description": "Serv InsNotClassifd"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:08:20.613680+00:00"
+  },
+  {
+    "bid_id": 45081,
+    "smart_number": "1301-26-R-IFBD-00061-V01",
+    "rfx_number": "3160008012",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF HEALTH",
+    "description": "The Agency wants assistance to facilitate the support of the establishment and leadership of the Mississippi Alliance for Cardiovascular Health (MACH) and the Diabetes Advisory Council.  \nThe facilitator will provide leadership, coordination, and learning",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-28 05:00 UTC",
+    "submission_date": "2026-05-29 05:00 UTC",
+    "opening_date": "2026-05-29 05:00 UTC",
+    "contact_name": "Patricia Youngblood",
+    "contact_email": "PATRICIA.YOUNGBLOOD@MSDH.MS.GOV",
+    "contact_phone": "6013593499",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45081?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008012%5FV1.PDF?ATTCGET&CLID=0200060000111FE18FB618D1634FD63F&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65308,
+        "description": "Copy Business Associate Agreement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2026%20%5FBAA%5F1063E%20%282%29.PDF?PHIOGET&KPID=0200060000111FE18CBEC750DF7D0510&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65309,
+        "description": "RFx3160008012-IFB",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FE18FB6162ED466363F&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91800",
+        "category_description": "Serv Consulting"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:08:34.045679+00:00"
+  },
+  {
+    "bid_id": 45032,
+    "smart_number": "1301-26-R-IFBD-00052",
+    "rfx_number": "3160007974",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF HEALTH",
+    "description": "The Mississippi State Department of Health (MSDH), Office of Bureau of Acute Care Systems, will accept submissions until 10:00 a.m. CST, Thursday, May 21, 2026, from interested bidders to provide assistance for Registered Nurse(s) (RN) to complete trauma",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-20 05:00 UTC",
+    "submission_date": "2026-05-21 05:00 UTC",
+    "opening_date": "2026-05-21 05:00 UTC",
+    "contact_name": "Hannah Wright",
+    "contact_email": "HANNAH.WRIGHT@MSDH.MS.GOV",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45032?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160007974.PDF?ATTCGET&CLID=0200060000111FE18ED034175339B1E2&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65223,
+        "description": "IFB RFx-3160007974 Trauma Care RN Consultant for MSDH",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%20RFX%2D3160007974%20TRAUMA%20CARE%20RN%20CONSULTANT%20FOR%20MSDH.PDF?PHIOGET&KPID=02000600000A1FD18ECE42442A0CB799&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65222,
+        "description": "RFx 3160007974 Trauma Care RN Consultant for MSDH AD",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160007974%20TRAUMA%20CARE%20RN%20CONSULTANT%20FOR%20MSDH%20AD.PDF?PHIOGET&KPID=02000600000A1FD18ECE3C5E61591799&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65225,
+        "description": "Sample Business Associate Agreement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/[B]%202026%5F%5FBAA%5F1063E.PDF?PHIOGET&KPID=02000600000A1FD18ECE56B867407799&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65224,
+        "description": "Trauma System of Care Rules & Regulations",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/TRAUMA%5FSYSTEM%5FOF%5FCARE%5FRULES%5F%26%5FREGULATIONS.PDF?PHIOGET&KPID=02000600000A1FD18ECE53683E64F799&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94864",
+        "category_description": "Serv HealRelNursing"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:08:41.984599+00:00"
+  },
+  {
+    "bid_id": 45213,
+    "smart_number": "1450-26-R-IFBD-00010-V01",
+    "rfx_number": "3160008051",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF MARINE RESOURCES",
+    "description": "DMR Staging Site Material Deployment",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-13 05:00 UTC",
+    "submission_date": "2026-06-18 05:00 UTC",
+    "opening_date": "2026-06-18 05:00 UTC",
+    "contact_name": "Rickey Kinnard",
+    "contact_email": "RICK.KINNARD@DMR.MS.GOV",
+    "contact_phone": "6624537500",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45213?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008051%5FV1.PDF?ATTCGET&CLID=0200060000111FD192978AFB8965C72A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65587,
+        "description": "Advertisement MDMR Staging Site Material Deployment",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD19297876D6D31E72A&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65586,
+        "description": "Staging Site Material Deployment_final",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STAGING%20SITE%20MATERIAL%20DEPLOYMENT%5FFINAL.PDF?PHIOGET&KPID=02000600000A1FE192975B672D25CC28&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "95935",
+        "category_description": "Serv MarineGeneral"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:08:57.173872+00:00"
+  },
+  {
+    "bid_id": 45065,
+    "smart_number": "1181-26-R-IFBD-00001",
+    "rfx_number": "3160008020",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF REVENUE",
+    "description": "Title Print and Mail Services",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-23 05:00 UTC",
+    "submission_date": "2026-05-19 05:00 UTC",
+    "opening_date": "2026-05-19 05:00 UTC",
+    "contact_name": "Nyla Kendrick",
+    "contact_email": "NYLA.KENDRICK@DOR.MS.GOV",
+    "contact_phone": "6019237680",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45065?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008020.PDF?ATTCGET&CLID=02000600000A1FD18FA0690880177B1B&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65282,
+        "description": "IFB - Title Print and Mail Services",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/TITLE%20PRINT%20AND%20MAIL%20SERVICES%202026%20FINAL.PDF?PHIOGET&KPID=02000600000A1FD18F9ECCC23BD8DB02&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "96200",
+        "category_description": "Serv MiscNo2NoClas"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:09:03.704531+00:00"
+  },
+  {
+    "bid_id": 45228,
+    "smart_number": "1941-26-R-IFBD-00041",
+    "rfx_number": "3160008055",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF TRANSPORTATION",
+    "description": "RFX 3160008055 - Cable Barrier Repair- MDOT District III\nProject Number : 310264/301000\nAgency Contract for Cable Barrier Repair\nDistrict III\nMississippi Department of Transportation\n\nBids can be submitted electronically through the MAGIC portal or \n\nSeal",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-15 05:00 UTC",
+    "submission_date": "2026-06-04 05:00 UTC",
+    "opening_date": "2026-06-04 05:00 UTC",
+    "contact_name": "Ashley Harrell",
+    "contact_email": "AHARRELL@MDOT.MS.GOV",
+    "contact_phone": "6019614119",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45228?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008055.PDF?ATTCGET&CLID=02000600000A1FE192E31BC1BE526F6D&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65624,
+        "description": "Attachment A RFX Response in MAGIC",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%20RFX%20RESPONSE%20IN%20MAGIC%20%283%29.PDF?PHIOGET&KPID=0200060000121FD090A9350C4CBECD9E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65623,
+        "description": "Attachment B Magic Supplier Self- Service",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%20MAGIC%20SUPPLIER%20SELF%2D%20SERVICE%20%284%29.PDF?PHIOGET&KPID=0200060000121FD090A9385006488D9F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65625,
+        "description": "RFX 3160008055 District III Cable Barrier Bid Packet",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008055%20DISTRICT%20III%20CABLE%20BARRIER%20BID%20PACKET.PDF?PHIOGET&KPID=02000600000A1FE192E313589B5D0F6D&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91371",
+        "category_description": "Serv ConsHeavMainHwy"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:34:06.406783+00:00"
+  },
+  {
+    "bid_id": 45279,
+    "smart_number": "1941-26-R-IFBD-00039-V03",
+    "rfx_number": "3160008022",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF TRANSPORTATION",
+    "description": "RFX 3160008022 District III Headquarters Modular Office Trailer Lease Contract\n\nAgency Contract for Lease of Modular Officer Trailer\nMississippi Department of Transportation\n\nJuly 1. 2026 through June 30, 2027\n\nBids can be submitted electronically through",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-23 05:00 UTC",
+    "submission_date": "2026-05-20 05:00 UTC",
+    "opening_date": "2026-05-20 05:00 UTC",
+    "contact_name": "Ashley Harrell",
+    "contact_email": "AHARRELL@MDOT.MS.GOV",
+    "contact_phone": "6019614119",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45279?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008022%5FV4.PDF?ATTCGET&CLID=0200060000111FD193C1DC3F131AAE7E&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65745,
+        "description": "Addendum A Yazoo RX3160008022 Modular Office Trailer",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADDENDUM%20A%20YAZOO%20RX3160008022%20MODULAR%20OFFICE%20TRAILER.PDF?PHIOGET&KPID=0200060000111FD193B059BB21AFEDC3&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65739,
+        "description": "Attachment A RFX Response in MAGIC",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%20RFX%20RESPONSE%20IN%20MAGIC.PDF?PHIOGET&KPID=02000600000A1FD18F9A99D6C4845ACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65740,
+        "description": "Attachment B Magic Supplier Self- Service",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%20MAGIC%20SUPPLIER%20SELF%2D%20SERVICE.PDF?PHIOGET&KPID=02000600000A1FD18F9A9AAEB559FACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65741,
+        "description": "Attachment C Specifications",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%20SPECIFICATIONS.PDF?PHIOGET&KPID=02000600000A1FD18F9A9FAA25FF7ACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65742,
+        "description": "Attachment D EEV Certification (7)",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%20EEV%20CERTIFICATION%20%287%29.PDF?PHIOGET&KPID=02000600000A1FD18F9AA17E71C01ACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65743,
+        "description": "Attachment E- Example of Agency Contract",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%2D%20EXAMPLE%20OF%20AGENCY%20CONTRACT.PDF?PHIOGET&KPID=02000600000A1FD18F9AAC645F515ACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65746,
+        "description": "MDOT Standard Contract Addendum",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/MDOT%20STANDARD%20CONTRACT%20ADDENDUM.PDF?PHIOGET&KPID=0200060000111FD193B05ADAB0522DC3&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65744,
+        "description": "RFX 3160008022 Bid Packet D3 Trailer Lease",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008022%20BID%20PACKET%20D3%20TRAILER%20LEASE.PDF?PHIOGET&KPID=02000600000A1FD18F9AADF08B45BACF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "97584",
+        "category_description": "Serv RentTrailer"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:09:27.810119+00:00"
+  },
+  {
+    "bid_id": 45278,
+    "smart_number": "1941-26-R-IFBD-00038-V03",
+    "rfx_number": "3160008021",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF TRANSPORTATION",
+    "description": "RFX 3160008021 Hazelhurst Project Office Modular Office Trailer Lease Contract\n\nAgency Contract for Lease of Modular Officer Trailer\nMississippi Department of Transportation\n\nJuly 1. 2026 through June 30, 2027\n\nBids can be submitted electronically through",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-23 05:00 UTC",
+    "submission_date": "2026-05-20 05:00 UTC",
+    "opening_date": "2026-05-20 05:00 UTC",
+    "contact_name": "Ashley Harrell",
+    "contact_email": "AHARRELL@MDOT.MS.GOV",
+    "contact_phone": "6019614119",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45278?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008021%5FV4.PDF?ATTCGET&CLID=0200060000111FD193C1D46A6889EE7D&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65737,
+        "description": "Addendum A RFX3160008021 Hazelhurst Project Office",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ADDENDUM%20A%20RFX3160008021%20HAZELHURST%20PROJECT%20OFFICE.PDF?PHIOGET&KPID=0200060000111FD193B04CC0831C6DBE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65731,
+        "description": "Attachment A RFX Response in MAGIC (8)",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%20RFX%20RESPONSE%20IN%20MAGIC%20%288%29.PDF?PHIOGET&KPID=02000600000A1FD18F9ACA1CD2723AD0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65732,
+        "description": "Attachment B Magic Supplier Self- Service (7)",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%20MAGIC%20SUPPLIER%20SELF%2D%20SERVICE%20%287%29.PDF?PHIOGET&KPID=02000600000A1FD18F9ACB1336865AD0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65733,
+        "description": "Attachment C Specifications",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%20SPECIFICATIONS.PDF?PHIOGET&KPID=02000600000A1FD18F9ACC45A9F21AD0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65734,
+        "description": "Attachment D EEV Certification (7)",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%20EEV%20CERTIFICATION%20%287%29.PDF?PHIOGET&KPID=02000600000A1FD18F9ACD7A1D7C3AD0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65736,
+        "description": "Attachment E-Example of Agency Contract",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%2DEXAMPLE%20OF%20AGENCY%20CONTRACT.PDF?PHIOGET&KPID=02000600000A1FD18FCA4896124FBD0E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65738,
+        "description": "MDOT Standard Contract Addendum",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/MDOT%20STANDARD%20CONTRACT%20ADDENDUM.PDF?PHIOGET&KPID=0200060000111FD193B04DA1BC61ADBE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65735,
+        "description": "RFX 3160008021 Bid Packet Huzelhurst Project Office Trailer Leas",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008021%20BID%20PACKET%20HUZELHURST%20PROJECT%20OFFICE%20TRAILER%20LEASE.PDF?PHIOGET&KPID=02000600000A1FD18F9B05CB2B06FAD2&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "97584",
+        "category_description": "Serv RentTrailer"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:10:06.304757+00:00"
+  },
+  {
+    "bid_id": 45293,
+    "smart_number": "1464-26-R-IFBD-00010-V01",
+    "rfx_number": "3160008045",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS DEPT OF WILDLIFE, FISHERIES AND PARKS",
+    "description": "The purchase of a minimum of One Hundred Fifteen Thousand (115,000) and a Maximum of Two Hundred Thousand (200,000) Boat Registration Decals.",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-05 05:00 UTC",
+    "submission_date": "2026-05-20 05:00 UTC",
+    "opening_date": "2026-05-20 05:00 UTC",
+    "contact_name": "John Lee",
+    "contact_email": "JOHNLEE@WFP.MS.GOV",
+    "contact_phone": "6018089266",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45293?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008045%5FV1.PDF?ATTCGET&CLID=02000600000A1FE193DBFE97FFB59422&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65764,
+        "description": "RFx 310008045 Addendum 1 Questions and Answers",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=02000600000A1FE193DBFA962D7C7421&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65763,
+        "description": "RFx 3160008045 Boat Registration Decal",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%203160008045%20BOAT%20REGISTRATION%20DECAL.PDF?PHIOGET&KPID=0200060000111FD19193ACC7A1226114&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "25540",
+        "category_description": "Decals Inv & Other"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:10:59.234056+00:00"
+  },
+  {
+    "bid_id": 44959,
+    "smart_number": "1531-26-R-RFQF-00005",
+    "rfx_number": "3140004550",
+    "rfx_status": "Open",
+    "rfx_type": "RFQ - Formal",
+    "agency": "MS PUBLIC EMPLOYEES RETIREMENT",
+    "description": "Public Employees' Retirement System of Mississippi is soliciting proposals from qualified organizations for Disability Determination and Disability Appeal Services to augment its disability retirement application and review process by obtaining Medical Bo",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-14 05:00 UTC",
+    "submission_date": "2026-06-01 05:00 UTC",
+    "opening_date": "2026-06-01 05:00 UTC",
+    "contact_name": "JUDY MILLER",
+    "contact_email": "jmiller@pers.ms.gov",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/44959?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3140004550.PDF?ATTCGET&CLID=0200060000111FE18E851F5C56C66EAB&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65078,
+        "description": "RFQ 3140004550 Disability Determination & Appeals Services 04132",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFQ%203140004550%20DISABILITY%20DETERMINATION%20%26%20APPEALS%20SERVICES%20041326.PDF?PHIOGET&KPID=0200060000111FE18DF18F9CD9BECDE8&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "91876",
+        "category_description": "Serv ConsultMarket"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:11:05.501936+00:00"
+  },
+  {
+    "bid_id": 45316,
+    "smart_number": "3374-26-R-RFIN-00014-V01",
+    "rfx_number": "3150006841",
+    "rfx_status": "Open",
+    "rfx_type": "Req. for Information",
+    "agency": "MS STATE HOSPITAL",
+    "description": "MOD for MS State Hospital. $90 per hour. Average 24 hours per week. 4 year contract.",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": "2026-05-28 05:00 UTC",
+    "contact_name": "Taneka Moore",
+    "contact_email": "TANEKA.MOORE@MSH.MS.GOV",
+    "contact_phone": "6019615557",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45316?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006841%5FV1.PDF?ATTCGET&CLID=0200060000111FD193FA60A387055123&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65842,
+        "description": "MOD RFx 3150006841",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/MOD%20AD.DOC?PHIOGET&KPID=0200060000111FD193F9F84753A4311E&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94874",
+        "category_description": "Serv HealRelProfMed"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:35:11.843301+00:00"
+  },
+  {
+    "bid_id": 45115,
+    "smart_number": "3374-26-R-IFBD-00012",
+    "rfx_number": "3160008005",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "MS STATE HOSPITAL",
+    "description": "Radiology IFB",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-22 05:00 UTC",
+    "submission_date": "2026-05-22 05:00 UTC",
+    "opening_date": "2026-05-22 05:00 UTC",
+    "contact_name": "Jennifer Boler",
+    "contact_email": "JENNIFER.BOLER@MSH.MS.GOV",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45115?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008005.PDF?ATTCGET&CLID=0200060000111FE18FCCA801C2395724&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65345,
+        "description": "Bid Notice",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BID%20NOTICE.PDF?PHIOGET&KPID=0200060000111FE18FCB364ECA4D770F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "94874",
+        "category_description": "Serv HealRelProfMed"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:11:30.309181+00:00"
+  },
+  {
+    "bid_id": 45223,
+    "smart_number": "9275-26-R-RFIN-00046",
+    "rfx_number": "3150006827",
+    "rfx_status": "Open",
+    "rfx_type": "Req. for Information",
+    "agency": "UNIV OF MS MEDICAL CENTER",
+    "description": "QGenda is a centralized scheduling platform that allows physicians and residents mobile access to call, work and rotation schedules and immediately alerts parties impacted by scheduling changes. QGenda helps manage physician and resident call schedules, t",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-05-28 05:00 UTC",
+    "opening_date": "2026-05-28 05:00 UTC",
+    "contact_name": "Grant Banks",
+    "contact_email": "gabanks@umc.edu",
+    "contact_phone": "601 815 5295",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45223?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006827.PDF?ATTCGET&CLID=02000600000A1FE192DF0E2DC4B38F39&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65608,
+        "description": "Newspaper Advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SS9733%20FORM%20FOR%20%20NEWSPAPER%20ADVERTISEMENT%5FREVISED.DOCX?PHIOGET&KPID=02000600000A1FE192DF088621AC2F39&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65605,
+        "description": "Notice of Intent - PDF",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SS%209733%20%2D%20NOTICE%20OF%20INTENT%20TO%20CERTIFY%20SOLE%20SOURCE.PDF?PHIOGET&KPID=02000600000A1FE192DF05D6353C6F39&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65606,
+        "description": "Notice of Intent - Word",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SS%209733%20%2D%20NOTICE%20OF%20INTENT%20TO%20CERTIFY%20SOLE%20SOURCE%20SAVE%20AS%20WORD.DOCX?PHIOGET&KPID=02000600000A1FE192DF06C19A5A8F39&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65607,
+        "description": "Vendor Sole Source Letter",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SS%209733%20VENDOR%20LETTER.PDF?PHIOGET&KPID=02000600000A1FE192DF078DB33ECF39&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "46500",
+        "category_description": "Hospital & Surgical"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:35:15.051446+00:00"
+  },
+  {
+    "bid_id": 44991,
+    "smart_number": "9275-26-R-IFBD-00019",
+    "rfx_number": "3160008032",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "UNIV OF MS MEDICAL CENTER",
+    "description": "Bid Solicitation for IFB 3755 for SCPR426 ENT Lab Renovation",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-04-22 05:00 UTC",
+    "submission_date": "2026-05-21 05:00 UTC",
+    "opening_date": "2026-05-21 05:00 UTC",
+    "contact_name": "Wyatt Williamson",
+    "contact_email": "wlwilliamson@umc.edu",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/44991?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008032.PDF?ATTCGET&CLID=0200060000111FE18EB5CDEE405090FF&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65131,
+        "description": "IFB 3755 Advertisement",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/IFB%203755%20SCPR426%20ENT%20LAB%20RENOVATION%20ADVERTISEMENT.PDF?PHIOGET&KPID=0200060000111FE18EB5CC27D84AD0FF&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90900",
+        "category_description": "Serv BuildConstrNew"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:11:48.212845+00:00"
+  },
+  {
+    "bid_id": 45311,
+    "smart_number": "9280-26-R-IFBD-00050",
+    "rfx_number": "3160008074",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+    "description": "Your firm is invited to submit an offer under seal to Owner for construction of a facility located at the office of the Physical Plant Department, The University of Southern Mississippi, at 3105 West 4th Street, Hattiesburg, MS, 39406 before 2:00 pm local",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-06-18 05:00 UTC",
+    "opening_date": "2026-06-18 05:00 UTC",
+    "contact_name": "Deidre Edwards",
+    "contact_email": "",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45311?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008074.PDF?ATTCGET&CLID=02000600000A1FE193F68C92BA3B552F&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65824,
+        "description": "USM RFP 26-46 Reed Green Renovation",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/LEGAL%20ADVERTISEMENT%20%2D%20USM%20RFP.PDF?PHIOGET&KPID=02000600000A1FE193F6812443A3352F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "90916",
+        "category_description": "Serv BuildConstAthFa"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:35:26.386146+00:00"
+  },
+  {
+    "bid_id": 45310,
+    "smart_number": "9280-26-R-IFBD-00049",
+    "rfx_number": "3160008073",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+    "description": "Sealed proposals will be received in the Office of the Director of Procurement Services, The University of Southern Mississippi, 118 College Drive #5003, Bond Hall, Room 214, Hattiesburg, Mississippi, until Wednesday, June 3, 2026, at 2:00 p.m. for the pu",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-14 05:00 UTC",
+    "submission_date": "2026-06-03 05:00 UTC",
+    "opening_date": "2026-06-03 05:00 UTC",
+    "contact_name": "Deidre Edwards",
+    "contact_email": "",
+    "contact_phone": "",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45310?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008073.PDF?ATTCGET&CLID=02000600000A1FE193F673800EDD952A&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65823,
+        "description": "USM RFP 26-43 M",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/USM%20RFP%2026%2D43%20M%2EM%2E%20ROBERTS%20STADIUM%20SIGNAGE.PDF?PHIOGET&KPID=02000600000A1FE193F65EAABF961529&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "80186",
+        "category_description": "Signs, Miscellaneous"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-15T05:35:29.554186+00:00"
+  },
+  {
+    "bid_id": 45216,
+    "smart_number": "9280-26-R-IFBD-00047",
+    "rfx_number": "3160008049",
+    "rfx_status": "Open",
+    "rfx_type": "Invitation for Bid",
+    "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+    "description": "Filtration Components and Associated Items for Oyster Hatchery and Research Center as\nper attached specifications",
+    "major_procurement_category": "",
+    "sub_procurement_category": "",
+    "advertised_date": "2026-05-11 05:00 UTC",
+    "submission_date": "2026-05-29 05:00 UTC",
+    "opening_date": "2026-05-29 05:00 UTC",
+    "contact_name": "Millissa Stork",
+    "contact_email": "millissa.stork@usm.edu",
+    "contact_phone": "2288188001",
+    "contact_fax": "",
+    "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45216?AppId=1",
+    "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008049.PDF?ATTCGET&CLID=0200060000111FD192B0B1661A990853&SAP-CLIENT=100",
+    "attachments": [
+      {
+        "attachment_id": 65593,
+        "description": "26_44 Bid Packet",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER"
+      },
+      {
+        "attachment_id": 65596,
+        "description": "26_44 Filtration Components_Bid Specifications",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/26%5F44%20FILTRATION%20COMPONENTS%5FBID%20SPECIFICATIONS.PDF?PHIOGET&KPID=0200060000111FD192B093E80336A853&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65594,
+        "description": "Bid 26_44 Filtration System OHRC Bid Coversheet",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BID%2026%5F44%20FILTRATION%20SYSTEM%20OHRC%20BID%20COVERSHEET.PDF?PHIOGET&KPID=0200060000111FD192B0917598B82853&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      },
+      {
+        "attachment_id": 65595,
+        "description": "Bid 26_44 Legal Ad_SH",
+        "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BID%2026%5F44%20LEGAL%20AD%5FSH.PDF?PHIOGET&KPID=0200060000111FD192B092E16D06C853&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+      }
+    ],
+    "items": [
+      {
+        "category_number": "17532",
+        "category_description": "ChemLabFilterApparat"
+      }
+    ],
+    "awards": [],
+    "scraped_at": "2026-05-14T10:11:51.629655+00:00"
+  }
+]

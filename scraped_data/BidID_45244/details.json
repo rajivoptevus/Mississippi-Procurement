@@ -1,0 +1,35 @@
+{
+  "bid_id": 45244,
+  "smart_number": "61-20260415102916 PGSD",
+  "rfx_number": "3170035665",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Pre-Bid Conference:\n Date & Time: 4/28/2026 10:00 AM\n Description: A Non-Mandatory Pre-Bid Meeting is scheduled for Tuesday, April 28, 2026, at 10 AM. Meet in the lobby of Pascagoula School District Central Office located at 1006 Community Avenue, Pascago",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45244?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035665.PDF?ATTCGET&CLID=0200060000111FD193A849410499ED67&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65649,
+      "description": "Advertisement for Bids.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/61%2D20260415102916%20PGSD.PDF?PHIOGET&KPID=02000600000A1FE193A83989F7D571FC&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91891",
+      "category_description": "Serv ConsultRoofing"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:06:45.089208+00:00"
+}

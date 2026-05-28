@@ -1,0 +1,35 @@
+{
+  "bid_id": 45066,
+  "smart_number": "1470-26-R-IFBD-00005",
+  "rfx_number": "3160007906",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT ENVIRONMENTAL QUALITY",
+  "description": "IFB Solicitation for Professional Services for Visible Emissions Evaluation Training and Certification Sessions (Smoke School).",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-21 05:00 UTC",
+  "submission_date": "2026-06-03 05:00 UTC",
+  "opening_date": "2026-06-03 05:00 UTC",
+  "contact_name": "Aveleka Moore",
+  "contact_email": "AMOORE@MDEQ.MS.GOV",
+  "contact_phone": "6019615107",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45066?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160007906.PDF?ATTCGET&CLID=02000600000A1FD18FB095815485DBD8&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65283,
+      "description": "RFx3160007906 MDEQ-IFB04212026",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX3160007906%20MDEQ%2DIFB04212026.PDF?PHIOGET&KPID=02000600000A1FD18FAFB41A9CA8BBCE&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "96258",
+      "category_description": "Serv MiscNo2Profess"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:07:29.894872+00:00"
+}

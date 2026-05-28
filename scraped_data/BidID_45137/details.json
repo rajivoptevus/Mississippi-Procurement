@@ -1,0 +1,50 @@
+{
+  "bid_id": 45137,
+  "smart_number": "9280-26-R-RFQI-00009",
+  "rfx_number": "3140004560",
+  "rfx_status": "Open",
+  "rfx_type": "RFQ - Informal",
+  "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+  "description": "SSP 26-025 Pure Biomass closed-system photobioreactor",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-27 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": "2026-05-14 05:00 UTC",
+  "contact_name": "Millissa Stork",
+  "contact_email": "millissa.stork@usm.edu",
+  "contact_phone": "2288188001",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45137?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3140004560.PDF?ATTCGET&CLID=0200060000111FE18FE9A6EC4EFA189C&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65395,
+      "description": "Department Letter",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SSP%2026%5F025%20DEPARTMENT%20LETTER.PDF?PHIOGET&KPID=02000600000A1FD18FE96C7DF7925E93&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65392,
+      "description": "Legal Ad",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/USM%20SSP%2026%5F025%20ADVERTISEMENT.PDF?PHIOGET&KPID=02000600000A1FD18FE962B04E687E93&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65394,
+      "description": "Questionaire",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SSP%2026%5F025%20PUREBIOMASS%20QUESTIONAIRE.PDF?PHIOGET&KPID=02000600000A1FD18FE9671D5F0E5E93&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65393,
+      "description": "Vendor Letter",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SSP%2026%5F025%20VENDOR%20LETTER.PDF?PHIOGET&KPID=02000600000A1FD18FE96586B3F23E93&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "49043",
+      "category_description": "Lab Eqpmt-Lab & Scie"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:12:01.843787+00:00"
+}

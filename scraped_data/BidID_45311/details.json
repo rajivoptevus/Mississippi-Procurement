@@ -1,0 +1,35 @@
+{
+  "bid_id": 45311,
+  "smart_number": "9280-26-R-IFBD-00050",
+  "rfx_number": "3160008074",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+  "description": "Your firm is invited to submit an offer under seal to Owner for construction of a facility located at the office of the Physical Plant Department, The University of Southern Mississippi, at 3105 West 4th Street, Hattiesburg, MS, 39406 before 2:00 pm local",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-06-18 05:00 UTC",
+  "opening_date": "2026-06-18 05:00 UTC",
+  "contact_name": "Deidre Edwards",
+  "contact_email": "",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45311?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008074.PDF?ATTCGET&CLID=02000600000A1FE193F68C92BA3B552F&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65824,
+      "description": "USM RFP 26-46 Reed Green Renovation",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/LEGAL%20ADVERTISEMENT%20%2D%20USM%20RFP.PDF?PHIOGET&KPID=02000600000A1FE193F6812443A3352F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90916",
+      "category_description": "Serv BuildConstAthFa"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:35:26.386146+00:00"
+}

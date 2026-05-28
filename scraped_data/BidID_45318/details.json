@@ -1,0 +1,35 @@
+{
+  "bid_id": 45318,
+  "smart_number": "338-20260420164643 MTC",
+  "rfx_number": "3170035730",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Proposals will be received by the Mississippi Transportation Commission at its offices at 401 North West \nStreet, Procurement Division, 5th Floor, Jackson, Mississippi, until 4:00 P.M., Tuesday, May 26, 2026 for \nthe following: \nVoluntary Group Dental Ins",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-05-26 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45318?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035730.PDF?ATTCGET&CLID=02000600000A1FE193FA9365E96E1561&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65844,
+      "description": "Dental Insurance.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/338%2D20260420164643%20MTC.PDF?PHIOGET&KPID=02000600000A1FE193FA86C8B5181561&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "95348",
+      "category_description": "Serv InsHealth/Hosp"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:33:04.757319+00:00"
+}

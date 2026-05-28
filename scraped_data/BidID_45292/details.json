@@ -1,0 +1,35 @@
+{
+  "bid_id": 45292,
+  "smart_number": "3541-20260506145608 Baldwyn",
+  "rfx_number": "3170035720",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "The City of Baldwyn is seeking\nsealed bids for construction of a\nFarmers Market Building in the\nback yard of 202 S. 2nd Street in\nBaldwyn, MS 38824 also known as\nthe Baldwyn Municipal Court Build\ning.\nThese bids must be received by\n3:00 P.M., Wednesday,",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-13 05:00 UTC",
+  "submission_date": "2026-05-20 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45292?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035720.PDF?ATTCGET&CLID=0200060000111FD193DB5C376A48CFA6&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65762,
+      "description": "Farmers Market Bid.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/3541%2D20260506145608%20BALDWYN.PDF?PHIOGET&KPID=0200060000111FD193DB56378EE66FA6&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "15505",
+      "category_description": "Barier/Enclsr,Constr"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:13.418530+00:00"
+}

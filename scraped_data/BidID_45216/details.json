@@ -1,0 +1,50 @@
+{
+  "bid_id": 45216,
+  "smart_number": "9280-26-R-IFBD-00047",
+  "rfx_number": "3160008049",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+  "description": "Filtration Components and Associated Items for Oyster Hatchery and Research Center as\nper attached specifications",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-29 05:00 UTC",
+  "opening_date": "2026-05-29 05:00 UTC",
+  "contact_name": "Millissa Stork",
+  "contact_email": "millissa.stork@usm.edu",
+  "contact_phone": "2288188001",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45216?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008049.PDF?ATTCGET&CLID=0200060000111FD192B0B1661A990853&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65593,
+      "description": "26_44 Bid Packet",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER"
+    },
+    {
+      "attachment_id": 65596,
+      "description": "26_44 Filtration Components_Bid Specifications",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/26%5F44%20FILTRATION%20COMPONENTS%5FBID%20SPECIFICATIONS.PDF?PHIOGET&KPID=0200060000111FD192B093E80336A853&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65594,
+      "description": "Bid 26_44 Filtration System OHRC Bid Coversheet",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BID%2026%5F44%20FILTRATION%20SYSTEM%20OHRC%20BID%20COVERSHEET.PDF?PHIOGET&KPID=0200060000111FD192B0917598B82853&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65595,
+      "description": "Bid 26_44 Legal Ad_SH",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BID%2026%5F44%20LEGAL%20AD%5FSH.PDF?PHIOGET&KPID=0200060000111FD192B092E16D06C853&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "17532",
+      "category_description": "ChemLabFilterApparat"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:11:51.629655+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "bid_id": 45257,
+  "smart_number": "113-20260416143240 DCBS",
+  "rfx_number": "3170035678",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Pre-Bid Conference:\nDate & Time: 4/30/2026 10:30 AM\nDescription: Pre-Bid Meeting is scheduled for: 10:30 AM on the 30th day of April, 2026.\n\n------------------------------------------------------------------------------------------------------------------",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45257?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035678.PDF?ATTCGET&CLID=0200060000111FD193AB15B324FFAD80&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65707,
+      "description": "113-20260416143240 DCBS",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/113%2D20260416143240%20DCBS.PDF?PHIOGET&KPID=02000600000A1FE193AB026EF7DD3216&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "15538",
+      "category_description": "Cnstr Shed/Field Off"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:55:45.181046+00:00"
+}

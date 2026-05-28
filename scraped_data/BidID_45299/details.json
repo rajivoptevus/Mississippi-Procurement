@@ -1,0 +1,35 @@
+{
+  "bid_id": 45299,
+  "smart_number": "160-20260415123419 MCSD",
+  "rfx_number": "3170035723",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "A. Your firm is invited to submit an offer under seal to Owner for the construction of a facility located at Madison Central High School: \n 1417 Highland Colony Pkwy, Madison, MS 39110 \n Before 2 pm local standard time on the 21st day of May, 2026, for: \n",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-13 05:00 UTC",
+  "submission_date": "2026-05-21 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45299?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035723.PDF?ATTCGET&CLID=02000600000A1FE193E215F4C1FDB46A&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65810,
+      "description": "MC Press Box 00.1113 Advertisement for Bids_04-15-26.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/160%2D20260415123419%20MCSD.PDF?PHIOGET&KPID=0200060000111FD193E20285E8DA3007&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90917",
+      "category_description": "Serv BuildConstAthMn"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:03.580886+00:00"
+}

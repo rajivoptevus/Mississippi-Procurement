@@ -1,0 +1,35 @@
+{
+  "bid_id": 45253,
+  "smart_number": "78-20260416102552 BSIC",
+  "rfx_number": "3170035674",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Sealed bids or electronic bids will be received by the Board of Supervisors of Itawamba County, Mississippi until 10:00 AM on the\n18th day of May, 2026 and shortly thereafter publicly opened for the construction of 0.056 mile of BOX CULVERT AND APPROACHES",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-18 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45253?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035674.PDF?ATTCGET&CLID=02000600000A1FE193AA326253B33212&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65703,
+      "description": "78-20260416102552 BSIC",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/78%2D20260416102552%20BSIC.PDF?PHIOGET&KPID=02000600000A1FE193AA21FE9FCE5210&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91327",
+      "category_description": "Serv ConstHeavyHwyRd"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:56:01.507807+00:00"
+}

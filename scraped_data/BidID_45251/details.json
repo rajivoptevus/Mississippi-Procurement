@@ -1,0 +1,35 @@
+{
+  "bid_id": 45251,
+  "smart_number": "77-20260416092923 DCS",
+  "rfx_number": "3170035672",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Unpriced Proposals will be received by the DeSoto County School Board of Education, 5 East South Street, Hernando, MS 38632 or electronically at www.centralbidding.com, at the date and time specified on the BID NOTICE. Neither dating of the Unpriced Propo",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-18 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45251?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035672.PDF?ATTCGET&CLID=02000600000A1FE193A97543DC37920A&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65660,
+      "description": "Bid Packer 395-PAPER-DCS262.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/77%2D20260416092923%20DCS.PDF?PHIOGET&KPID=02000600000A1FE193A96D44C076520A&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "64533",
+      "category_description": "Copy Paper Special"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:04:51.166870+00:00"
+}

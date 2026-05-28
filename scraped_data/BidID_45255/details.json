@@ -1,0 +1,39 @@
+{
+  "bid_id": 45255,
+  "smart_number": "364-20260416110550 Canton",
+  "rfx_number": "3170035676",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "NOTICE is hereby given that the City of Canton, Mississippi will receive written sealed or \nelectronic bids until the hour of 10:00 AM (CT) on THURSDAY, MAY 14, 2026 at City Clerk Office, \n226 East Peace Street, Canton, MS 39046, for the furnishing of all",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45255?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035676.PDF?ATTCGET&CLID=02000600000A1FE193AA6A7C72879213&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65705,
+      "description": "364-20260416110550 Canton",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/364%2D20260416110550%20CANTON.PDF?PHIOGET&KPID=02000600000A1FE193AA5F60DC3EB213&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "74502",
+      "category_description": "RoadMaterAsphaltACAs"
+    },
+    {
+      "category_number": "91345",
+      "category_description": "Serv ConstHeavySewer"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:55:52.068226+00:00"
+}

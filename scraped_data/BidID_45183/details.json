@@ -1,0 +1,40 @@
+{
+  "bid_id": 45183,
+  "smart_number": "1130-26-R-IFBD-00057-V02",
+  "rfx_number": "3160008010",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT FINANCE AND ADMINISTRATION",
+  "description": "The Mississippi Department of Finance and Administration (DFA), Office of Procurement and Contracts, has issued an Invitation for Bids (IFB) for the purpose of securing a qualified vendor to provide boiler maintenance services for the Office of Capitol Fa",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-14 05:00 UTC",
+  "submission_date": "2026-05-15 05:00 UTC",
+  "opening_date": "2026-05-15 05:00 UTC",
+  "contact_name": "Alicia Coleman",
+  "contact_email": "ALICIA.COLEMAN@DFA.MS.GOV",
+  "contact_phone": "6018509059",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45183?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008010%5FV2.PDF?ATTCGET&CLID=0200060000111FD19199D8767F9B4166&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65521,
+      "description": "IFB Amendment One",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD19199B33FF826E166&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65520,
+      "description": "IFB for Boiler Maintenance",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BOILER%20MAINTENANCE%20IFB%20FINAL.PDF?PHIOGET&KPID=02000600000A1FD18E8161F4361EB428&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91036",
+      "category_description": "Serv BuildHeatingAC"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:07:45.305429+00:00"
+}

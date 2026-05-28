@@ -1,0 +1,35 @@
+{
+  "bid_id": 45284,
+  "smart_number": "1389-20260423135412 BSSC",
+  "rfx_number": "3170035681",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Notice is hereby given that the Board of Supervisors of Sunflower County, Mississippi will receive sealed bids until 10:00 a.m., Monday, May 18, 2026, at the Board of Supervisors Roo, in the Courthouse in the City of Indianola, Mississippi for the followi",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-12 05:00 UTC",
+  "submission_date": "2026-05-18 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45284?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035681.PDF?ATTCGET&CLID=02000600000A1FE193C6375ABBA9B35C&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65751,
+      "description": "SCAN_2026_4_23_18_59_9_76943.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/1389%2D20260423135412%20BSSC.PDF?PHIOGET&KPID=02000600000A1FE193C61682B2FD3359&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "76033",
+      "category_description": "RoadEarthGradersMoto"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:29.926734+00:00"
+}

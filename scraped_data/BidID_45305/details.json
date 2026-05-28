@@ -1,0 +1,47 @@
+{
+  "bid_id": 45305,
+  "smart_number": "65-20260417134036 LAA",
+  "rfx_number": "3170035727",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Pre-Bid Conference:\nDate & Time: 5/21/2026 1:30:00 PM\nDescription: A pre-bid conference will be held May 21, 2026  at  1:30 p.m.   at the Airport Board Room. Bidders must be qualified under Mississippi Law and have a Certificate of Responsibility when app",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-05-28 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45305?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035727.PDF?ATTCGET&CLID=02000600000A1FE193F4A0B89B1AD517&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65816,
+      "description": "11375_Advertisement for Bids.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/65%2D20260417134036%20LAA.PDF?PHIOGET&KPID=0200060000111FD193E2A586B3267014&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "28527",
+      "category_description": "Control Device Light"
+    },
+    {
+      "category_number": "91219",
+      "category_description": "Serv ConstClearGrub"
+    },
+    {
+      "category_number": "91310",
+      "category_description": "Serv ConstHeavyAir"
+    },
+    {
+      "category_number": "91364",
+      "category_description": "Serv ConsHeavMainAir"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:33:25.362519+00:00"
+}

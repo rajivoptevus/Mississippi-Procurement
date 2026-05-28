@@ -1,0 +1,35 @@
+{
+  "bid_id": 45287,
+  "smart_number": "1601-26-R-RFIN-00053",
+  "rfx_number": "3150006830",
+  "rfx_status": "Open",
+  "rfx_type": "Req. for Information",
+  "agency": "",
+  "description": "Sole Source No. 4708; for the sole source certification of a medical imaging exchange solution for the University of Mississippi Medical Center.",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-12 05:00 UTC",
+  "submission_date": "2026-05-27 05:00 UTC",
+  "opening_date": "2026-05-27 05:00 UTC",
+  "contact_name": "Valerie Luckett",
+  "contact_email": "VALERIE.LUCKETT@ITS.MS.GOV",
+  "contact_phone": "6014328218",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45287?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006830.PDF?ATTCGET&CLID=02000600000A1FE193C83C59BB151373&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65754,
+      "description": "Sole Source No. 4708 URL",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SOLE%20SOURCE%20URL.PDF?PHIOGET&KPID=BD4C2DA7C1951EDFA0B5898ABA20D817&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "92007",
+      "category_description": "Serv CompSoftMicro"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:50:16.182117+00:00"
+}

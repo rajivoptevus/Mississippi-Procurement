@@ -1,0 +1,35 @@
+{
+  "bid_id": 45310,
+  "smart_number": "9280-26-R-IFBD-00049",
+  "rfx_number": "3160008073",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+  "description": "Sealed proposals will be received in the Office of the Director of Procurement Services, The University of Southern Mississippi, 118 College Drive #5003, Bond Hall, Room 214, Hattiesburg, Mississippi, until Wednesday, June 3, 2026, at 2:00 p.m. for the pu",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-06-03 05:00 UTC",
+  "opening_date": "2026-06-03 05:00 UTC",
+  "contact_name": "Deidre Edwards",
+  "contact_email": "",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45310?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008073.PDF?ATTCGET&CLID=02000600000A1FE193F673800EDD952A&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65823,
+      "description": "USM RFP 26-43 M",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/USM%20RFP%2026%2D43%20M%2EM%2E%20ROBERTS%20STADIUM%20SIGNAGE.PDF?PHIOGET&KPID=02000600000A1FE193F65EAABF961529&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "80186",
+      "category_description": "Signs, Miscellaneous"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:35:29.554186+00:00"
+}

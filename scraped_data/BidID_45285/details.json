@@ -1,0 +1,35 @@
+{
+  "bid_id": 45285,
+  "smart_number": "2-20260428153405 MSU",
+  "rfx_number": "3170035682",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Proposals will be received in the Office of Procurement Services, Mississippi State University. \nSubmissions may be mailed to 405 Garrard Road East, Starkville, MS 39759\nSUBMISSION DEADLINE, WEDNESDAY, MAY 20, 2026  2:00 P.M.\nMSU2026069 RFP  SCHOLARSHIP",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-12 05:00 UTC",
+  "submission_date": "2026-05-20 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45285?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035682.PDF?ATTCGET&CLID=0200060000111FD193C66D5F73644EC6&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65752,
+      "description": "AD for RFP MSU2026069 RFP.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/2%2D20260428153405%20MSU.PDF?PHIOGET&KPID=02000600000A1FE193C660C41787B364&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91829",
+      "category_description": "Serv ConsultCompSoft"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:25.779651+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "bid_id": 45247,
+  "smart_number": "22-20260415134623 NWMCC",
+  "rfx_number": "3170035668",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Pre-Bid Conference:\nDate & Time: 5/8/2026 10:00 AM\nDescription: Evaluate current acoustical and lighting systems. \n\n-------------------------------------------------------------------------------------------------------------------------------\nSynopsis De",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45247?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035668.PDF?ATTCGET&CLID=02000600000A1FE193A8D88EC6E95202&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65652,
+      "description": "Ad Bid 26-005-14 -FACILITIES FINE ARTS AUDITORIUM ACOUSTIC UPGRA",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/22%2D20260415134623%20NWMCC.PDF?PHIOGET&KPID=02000600000A1FE193A8BCE50D729202&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "85546",
+      "category_description": "Lighting Control Sys"
+    },
+    {
+      "category_number": "85570",
+      "category_description": "Sound Effects Equip"
+    },
+    {
+      "category_number": "91484",
+      "category_description": "Serv ConsTradNoClass"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:06:42.561495+00:00"
+}

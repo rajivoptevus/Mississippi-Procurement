@@ -1,0 +1,35 @@
+{
+  "bid_id": 45264,
+  "smart_number": "49-20260421103643 BPSD",
+  "rfx_number": "3170035693",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "The Biloxi Public School District (the District) through the Office of Special Education as part of its \nrequirement to implement the provisions of Individuals with Disabilities Education Act (IDEA) and \nMississippi Policies and Procedures State Board",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-15 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45264?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035693.PDF?ATTCGET&CLID=0200060000111FD193AD4359E862CD99&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65717,
+      "description": "BCBA RFP 26 Kellogg Grant.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/49%2D20260421103643%20BPSD.PDF?PHIOGET&KPID=0200060000111FD193AD3C415C7A6D96&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "94886",
+      "category_description": "Serv HealRelTherReh"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:55:22.859866+00:00"
+}

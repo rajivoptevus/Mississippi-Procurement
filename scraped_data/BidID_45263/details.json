@@ -1,0 +1,35 @@
+{
+  "bid_id": 45263,
+  "smart_number": "49-20260421103356 BPSD",
+  "rfx_number": "3170035692",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "The Biloxi Public School District (District), through the Office of Special Education, is soliciting \nproposals from qualified providers to deliver school-based physical therapy services in accordance \nwith:\n Individuals with Disabilities Education Act",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-15 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45263?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035692.PDF?ATTCGET&CLID=0200060000111FD193AD23101FC2CD95&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65716,
+      "description": "49-20260421103356 BPSD",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/49%2D20260421103356%20BPSD.PDF?PHIOGET&KPID=0200060000111FD193AD1495EAAA2D94&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "94886",
+      "category_description": "Serv HealRelTherReh"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:55:26.009051+00:00"
+}

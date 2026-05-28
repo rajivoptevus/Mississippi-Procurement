@@ -1,0 +1,35 @@
+{
+  "bid_id": 45250,
+  "smart_number": "56-20260416081753 BSMC",
+  "rfx_number": "3170035671",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Sealed bids will be received by the Board of Supervisors of Marion County Mississippi at the Marion County Board of \nSupervisors Office, Columbia, Mississippi, until 10:00 A.M. on the 20th day of May 2026 and shortly thereafter publicly \nopened for the co",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-05-20 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45250?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035671.PDF?ATTCGET&CLID=0200060000111FD193A94C6212494D69&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65659,
+      "description": "LSBP-46(20) Advertisement.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/56%2D20260416081753%20BSMC.PDF?PHIOGET&KPID=02000600000A1FE193A943EC6FB73205&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91366",
+      "category_description": "Serv ConsHeavMainBrd"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:04:59.605201+00:00"
+}

@@ -1,0 +1,130 @@
+{
+  "bid_id": 45209,
+  "smart_number": "1130-26-R-RFPR-00004-V02",
+  "rfx_number": "3120003350",
+  "rfx_status": "Open",
+  "rfx_type": "Request for Proposal",
+  "agency": "",
+  "description": "Requests for Proposals for Fire Trucks and Fire Apparatus",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-01 05:00 UTC",
+  "submission_date": "2026-06-10 05:00 UTC",
+  "opening_date": "2026-06-10 05:00 UTC",
+  "contact_name": "Ramona Jones",
+  "contact_email": "RAMONA.JONES@DFA.MS.GOV",
+  "contact_phone": "6013599335",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45209?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3120003350%5FV4.PDF?ATTCGET&CLID=0200060000111FD1929411E919EB06EC&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65566,
+      "description": "Attachment A - RFP Terms and Conditions",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20A%20%2D%20RFP%20TERMS%20AND%20CONDITIONS.PDF?PHIOGET&KPID=0200060000111FE18FEA0A7CCED7389F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65565,
+      "description": "Attachment B - Scope of Work",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20B%20%2D%20SCOPE%20OF%20WORK.PDF?PHIOGET&KPID=0200060000111FE18FEA0B287B7BD89F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65564,
+      "description": "Attachment C - RFP Evaluation Plan",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20C%20%2D%20RFP%20EVALUATION%20PLAN.PDF?PHIOGET&KPID=0200060000111FE18FEA0C04D164589F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65563,
+      "description": "Attachment D - Sample Master Agreement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%20%2D%20SAMPLE%20MASTER%20AGREEMENT.PDF?PHIOGET&KPID=0200060000111FE18FEA0CAAE4CC589F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65572,
+      "description": "Attachment D - Sample Master Agreement_Appendix1Redline",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20D%20%2D%20SAMPLE%20MASTER%20AGREEMENT%5FAPPENDIX1REDLINE.DOCX?PHIOGET&KPID=0200060000111FD191FED9333F082603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65562,
+      "description": "Attachment E - Participation Information",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20E%20%2D%20PARTICIPATION%20INFORMATION.PDF?PHIOGET&KPID=0200060000111FE18FEA0DBF350AD89F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65561,
+      "description": "Attachment F - Protest Information",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20F%20%2D%20PROTEST%20INFORMATION.PDF?PHIOGET&KPID=0200060000111FE18FEA0E803420789F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65560,
+      "description": "Attachment G - Offeror Information, Acknowledgements, and Certif",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20G%20%2D%20OFFEROR%20INFORMATION%2C%20ACKNOWLEDGEMENTS%2C%20AND%20CERTIFICATIONS.PDF?PHIOGET&KPID=0200060000111FE18FEA105DE393F8A0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65573,
+      "description": "Attachment G - Offeror Information, Acknowledgements, and Certif",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20G%20%2D%20OFFEROR%20INFORMATION%2C%20ACKNOWLEDGEMENTS%2C%20AND%20CERTIFICATIONS.DOCX?PHIOGET&KPID=0200060000111FD191FEDA74668DE603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65574,
+      "description": "Attachment H - Offeror Response Worksheet",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20H%20%2D%20OFFEROR%20RESPONSE%20WORKSHEET.DOCX?PHIOGET&KPID=0200060000111FD191FEDC795D5DE603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65559,
+      "description": "Attachment H - Offeror Response Worksheet",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20H%20%2D%20OFFEROR%20RESPONSE%20WORKSHEET.PDF?PHIOGET&KPID=0200060000111FE18FEA110932D138A0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65568,
+      "description": "Attachment I - Cost Proposal",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20I%20%2D%20COST%20PROPOSAL.XLSX?PHIOGET&KPID=0200060000111FE190E0155D9D3D5E4C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65575,
+      "description": "Attachment J -  Proposed Modifications to Sample Master Agreemen",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20J%20%2D%20%20PROPOSED%20MODIFICATIONS%20TO%20SAMPLE%20MASTER%20AGREEMENT.DOCX?PHIOGET&KPID=0200060000111FD191FEDDA63CCF2603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65558,
+      "description": "Attachment J -  Proposed Modifications to Sample Master Agreemen",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20J%20%2D%20%20PROPOSED%20MODIFICATIONS%20TO%20SAMPLE%20MASTER%20AGREEMENT.PDF?PHIOGET&KPID=0200060000111FE18FEA11DDD8EED8A0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65576,
+      "description": "Attachment K - Claim of Business Confidentiality",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20K%20%2D%20CLAIM%20OF%20BUSINESS%20CONFIDENTIALITY.DOCX?PHIOGET&KPID=0200060000111FD191FEDED365E12603&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65557,
+      "description": "Attachment K- Claim of Business Confidentiality word doc",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/ATTACHMENT%20K%20%2D%20CLAIM%20OF%20BUSINESS%20CONFIDENTIALITY.PDF?PHIOGET&KPID=0200060000111FE18FEA15D069CCF8A0&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65567,
+      "description": "NASPO ValuePoint State of MS Fire Truck and Fire Apparatus Reque",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NASPO%20VALUEPOINT%20STATE%20OF%20MS%20FIRE%20TRUCK%20AND%20FIRE%20APPARATUS%20REQUEST%20FOR%20PROPOSALS%20OVERVIEW.PDF?PHIOGET&KPID=0200060000111FE18FEA02DB1AE0989F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65570,
+      "description": "NASPO ValuePoint State of MS Fire Truck and Fire Apparatus RFP 3",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NASPO%20VALUEPOINT%20STATE%20OF%20MS%20FIRE%20TRUCK%20AND%20FIRE%20APPARATUS%20RFP%203120003350%20AMENDMENT%201.PDF?PHIOGET&KPID=0200060000111FD191FE85710D35E5FD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65569,
+      "description": "States with ITP",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STATES%20WITH%20ITP.ZIP?PHIOGET&KPID=0200060000111FE190E02D7FAE347E4C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65571,
+      "description": "Supplier Self Service eLearning Instructions",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SUPPLIER%20SELF%20SERVICE%20ELEARNING%20INSTRUCTIONS.ZIP?PHIOGET&KPID=0200060000111FD191FE7E286B2065FD&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "07000",
+      "category_description": "Automotive Vehicles"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:50:19.009333+00:00"
+}

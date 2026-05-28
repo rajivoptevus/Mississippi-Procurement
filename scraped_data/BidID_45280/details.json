@@ -1,0 +1,35 @@
+{
+  "bid_id": 45280,
+  "smart_number": "363-20260429103540 MGCCC",
+  "rfx_number": "3170035713",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Notice is hereby given that sealed bids (or at the Bidders option, electronically submitted Bids) will be \nreceived by Mississippi Gulf Coast Community College in the Bryant Center Conference Room, 102 of \nthe Tradition Campus of Mississippi Gulf Coast C",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-12 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45280?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035713.PDF?ATTCGET&CLID=02000600000A1FE193C18B7641C3930E&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65747,
+      "description": "Bryant Maintenance Adv.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/363%2D20260429103540%20MGCCC.PDF?PHIOGET&KPID=0200060000111FD193C1842EED7C4E7C&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90924",
+      "category_description": "Serv BuildConstComm"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:54:43.478549+00:00"
+}

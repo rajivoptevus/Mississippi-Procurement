@@ -1,0 +1,35 @@
+{
+  "bid_id": 45114,
+  "smart_number": "82-20260403115724 Newton",
+  "rfx_number": "3170035596",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "Pre-Bid Conference:\nDate & Time: 5/5/2026 2:00 PM\nDescription: A pre-bid conference is planned for this project on Tuesday, May 5, 2026 @ 2:00 PM in the Airport Conference Room @ the James H. Easom Field Airport in Newton, MS. It is strongly recommended t",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-22 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45114?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035596.PDF?ATTCGET&CLID=0200060000111FE18FCB8C7B72D65716&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65344,
+      "description": "15796.024_Section_A-Notice to Contractors.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/82%2D20260403115724%20NEWTON.PDF?PHIOGET&KPID=02000600000A1FD18FCB7FE7E3EEFD1B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "92508",
+      "category_description": "Serv ProfessEngAirpo"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:07:17.210432+00:00"
+}

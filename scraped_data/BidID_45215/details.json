@@ -1,0 +1,35 @@
+{
+  "bid_id": 45215,
+  "smart_number": "9260-26-R-IFBD-00005",
+  "rfx_number": "3160008043",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MISSISSIPPI VALLEY STATE UNIVERSITY",
+  "description": "Maintaining the Landscape of the MVSU 243 acres camput",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-11 05:00 UTC",
+  "submission_date": "2026-06-02 05:00 UTC",
+  "opening_date": "2026-06-02 05:00 UTC",
+  "contact_name": "Billy D Scott",
+  "contact_email": "BSCOTT@MVSU.EDU",
+  "contact_phone": "662",
+  "contact_fax": "254 3314",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45215?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008043.PDF?ATTCGET&CLID=0200060000111FD192AE4336220B4837&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65592,
+      "description": "Landscaping Rfx",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFX%20%288%29.PDF?PHIOGET&KPID=02000600000A1FE192AD736CDA248D12&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "98836",
+      "category_description": "Serv RecParkGrndMain"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T09:53:52.347279+00:00"
+}

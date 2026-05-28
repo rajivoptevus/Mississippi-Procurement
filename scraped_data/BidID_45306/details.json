@@ -1,0 +1,35 @@
+{
+  "bid_id": 45306,
+  "smart_number": "357-20260420114410 Madison",
+  "rfx_number": "3170035685",
+  "rfx_status": "Open",
+  "rfx_type": "MDA - RFx",
+  "agency": "MPTAP",
+  "description": "The City of Madison is requesting sealed bids for construction. All bids shall be clearly marked Expand \nTerminal Apron  May 27, 2026 on the outside of the envelope. \nBids may be submitted to the attention of Ruth Gibbons at Madison City Hall, 120 Montg",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-05-27 05:00 UTC",
+  "opening_date": null,
+  "contact_name": "BID BANK",
+  "contact_email": "PROCUREMENTBID@MISSISSIPPI.ORG",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45306?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3170035685.PDF?ATTCGET&CLID=02000600000A1FE193F4EAB94E59F519&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65817,
+      "description": "Sec-A - Apron Expansion.pdf",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/357%2D20260420114410%20MADISON.PDF?PHIOGET&KPID=02000600000A1FE193F4E2E8A745B518&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "90567",
+      "category_description": "Serv AirportRunGroov"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:33:21.742760+00:00"
+}

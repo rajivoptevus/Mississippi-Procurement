@@ -1,0 +1,35 @@
+{
+  "bid_id": 45146,
+  "smart_number": "1301-26-R-RFIN-00005",
+  "rfx_number": "3150006813",
+  "rfx_status": "Open",
+  "rfx_type": "Req. for Information",
+  "agency": "MS DEPT OF HEALTH",
+  "description": "The MSDH proposes to purchase sufficient illumine kits and reagents to perform WGS\n(Whole Genome Sequencing) using the MiSeq sequencers & on SARS-CoV-2 specimens to detect SARS mutations and SARS variant strains circulating in the MS population.\n\nSOLE SOU",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-28 05:00 UTC",
+  "submission_date": "2026-05-14 05:00 UTC",
+  "opening_date": "2026-05-14 05:00 UTC",
+  "contact_name": "Cynthia Brasher",
+  "contact_email": "CYNTHIA.BRASHER@MSDH.MS.GOV",
+  "contact_phone": "6015767011",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45146?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006813.PDF?ATTCGET&CLID=0200060000111FE18FFC52C5AC8C1977&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65407,
+      "description": "Note of Proposed Sole Source",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NOTICE%20OF%20PROPOSED%20SOLE%20SOURCE%20%230301%2D0133%20RFX%203150006813.DOCX?PHIOGET&KPID=0200060000111FE18FFC27533F667976&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "19336",
+      "category_description": "ClinLabDiagReagentsS"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:08:31.740740+00:00"
+}

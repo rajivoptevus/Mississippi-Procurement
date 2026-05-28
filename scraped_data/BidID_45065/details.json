@@ -1,0 +1,35 @@
+{
+  "bid_id": 45065,
+  "smart_number": "1181-26-R-IFBD-00001",
+  "rfx_number": "3160008020",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF REVENUE",
+  "description": "Title Print and Mail Services",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-23 05:00 UTC",
+  "submission_date": "2026-05-19 05:00 UTC",
+  "opening_date": "2026-05-19 05:00 UTC",
+  "contact_name": "Nyla Kendrick",
+  "contact_email": "NYLA.KENDRICK@DOR.MS.GOV",
+  "contact_phone": "6019237680",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45065?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008020.PDF?ATTCGET&CLID=02000600000A1FD18FA0690880177B1B&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65282,
+      "description": "IFB - Title Print and Mail Services",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/TITLE%20PRINT%20AND%20MAIL%20SERVICES%202026%20FINAL.PDF?PHIOGET&KPID=02000600000A1FD18F9ECCC23BD8DB02&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "96200",
+      "category_description": "Serv MiscNo2NoClas"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:09:03.704531+00:00"
+}

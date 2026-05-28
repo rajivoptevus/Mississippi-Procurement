@@ -1,0 +1,50 @@
+{
+  "bid_id": 45223,
+  "smart_number": "9275-26-R-RFIN-00046",
+  "rfx_number": "3150006827",
+  "rfx_status": "Open",
+  "rfx_type": "Req. for Information",
+  "agency": "UNIV OF MS MEDICAL CENTER",
+  "description": "QGenda is a centralized scheduling platform that allows physicians and residents mobile access to call, work and rotation schedules and immediately alerts parties impacted by scheduling changes. QGenda helps manage physician and resident call schedules, t",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-14 05:00 UTC",
+  "submission_date": "2026-05-28 05:00 UTC",
+  "opening_date": "2026-05-28 05:00 UTC",
+  "contact_name": "Grant Banks",
+  "contact_email": "gabanks@umc.edu",
+  "contact_phone": "601 815 5295",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45223?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3150006827.PDF?ATTCGET&CLID=02000600000A1FE192DF0E2DC4B38F39&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65608,
+      "description": "Newspaper Advertisement",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SS9733%20FORM%20FOR%20%20NEWSPAPER%20ADVERTISEMENT%5FREVISED.DOCX?PHIOGET&KPID=02000600000A1FE192DF088621AC2F39&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65605,
+      "description": "Notice of Intent - PDF",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SS%209733%20%2D%20NOTICE%20OF%20INTENT%20TO%20CERTIFY%20SOLE%20SOURCE.PDF?PHIOGET&KPID=02000600000A1FE192DF05D6353C6F39&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65606,
+      "description": "Notice of Intent - Word",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SS%209733%20%2D%20NOTICE%20OF%20INTENT%20TO%20CERTIFY%20SOLE%20SOURCE%20SAVE%20AS%20WORD.DOCX?PHIOGET&KPID=02000600000A1FE192DF06C19A5A8F39&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65607,
+      "description": "Vendor Sole Source Letter",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SS%209733%20VENDOR%20LETTER.PDF?PHIOGET&KPID=02000600000A1FE192DF078DB33ECF39&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "46500",
+      "category_description": "Hospital & Surgical"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-15T05:35:15.051446+00:00"
+}

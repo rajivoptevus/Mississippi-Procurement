@@ -1,0 +1,35 @@
+{
+  "bid_id": 45115,
+  "smart_number": "3374-26-R-IFBD-00012",
+  "rfx_number": "3160008005",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS STATE HOSPITAL",
+  "description": "Radiology IFB",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-22 05:00 UTC",
+  "submission_date": "2026-05-22 05:00 UTC",
+  "opening_date": "2026-05-22 05:00 UTC",
+  "contact_name": "Jennifer Boler",
+  "contact_email": "JENNIFER.BOLER@MSH.MS.GOV",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45115?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008005.PDF?ATTCGET&CLID=0200060000111FE18FCCA801C2395724&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65345,
+      "description": "Bid Notice",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/BID%20NOTICE.PDF?PHIOGET&KPID=0200060000111FE18FCB364ECA4D770F&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "94874",
+      "category_description": "Serv HealRelProfMed"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:11:30.309181+00:00"
+}

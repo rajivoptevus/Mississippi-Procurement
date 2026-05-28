@@ -1,0 +1,35 @@
+{
+  "bid_id": 44959,
+  "smart_number": "1531-26-R-RFQF-00005",
+  "rfx_number": "3140004550",
+  "rfx_status": "Open",
+  "rfx_type": "RFQ - Formal",
+  "agency": "MS PUBLIC EMPLOYEES RETIREMENT",
+  "description": "Public Employees' Retirement System of Mississippi is soliciting proposals from qualified organizations for Disability Determination and Disability Appeal Services to augment its disability retirement application and review process by obtaining Medical Bo",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-04-14 05:00 UTC",
+  "submission_date": "2026-06-01 05:00 UTC",
+  "opening_date": "2026-06-01 05:00 UTC",
+  "contact_name": "JUDY MILLER",
+  "contact_email": "jmiller@pers.ms.gov",
+  "contact_phone": "",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/44959?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3140004550.PDF?ATTCGET&CLID=0200060000111FE18E851F5C56C66EAB&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65078,
+      "description": "RFQ 3140004550 Disability Determination & Appeals Services 04132",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/RFQ%203140004550%20DISABILITY%20DETERMINATION%20%26%20APPEALS%20SERVICES%20041326.PDF?PHIOGET&KPID=0200060000111FE18DF18F9CD9BECDE8&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "91876",
+      "category_description": "Serv ConsultMarket"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:11:05.501936+00:00"
+}

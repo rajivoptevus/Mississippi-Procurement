@@ -1,0 +1,40 @@
+{
+  "bid_id": 45213,
+  "smart_number": "1450-26-R-IFBD-00010-V01",
+  "rfx_number": "3160008051",
+  "rfx_status": "Open",
+  "rfx_type": "Invitation for Bid",
+  "agency": "MS DEPT OF MARINE RESOURCES",
+  "description": "DMR Staging Site Material Deployment",
+  "major_procurement_category": "",
+  "sub_procurement_category": "",
+  "advertised_date": "2026-05-13 05:00 UTC",
+  "submission_date": "2026-06-18 05:00 UTC",
+  "opening_date": "2026-06-18 05:00 UTC",
+  "contact_name": "Rickey Kinnard",
+  "contact_email": "RICK.KINNARD@DMR.MS.GOV",
+  "contact_phone": "6624537500",
+  "contact_fax": "",
+  "detail_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45213?AppId=1",
+  "pdf_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/SYN%5FBID%5FFORM%5F3160008051%5FV1.PDF?ATTCGET&CLID=0200060000111FD192978AFB8965C72A&SAP-CLIENT=100",
+  "attachments": [
+    {
+      "attachment_id": 65587,
+      "description": "Advertisement MDMR Staging Site Material Deployment",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/?ATTKGET&KPID=0200060000111FD19297876D6D31E72A&KPCLASS=BBP_L_DOC&SAP-CLIENT=100"
+    },
+    {
+      "attachment_id": 65586,
+      "description": "Staging Site Material Deployment_final",
+      "url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/STAGING%20SITE%20MATERIAL%20DEPLOYMENT%5FFINAL.PDF?PHIOGET&KPID=02000600000A1FE192975B672D25CC28&KPCLASS=BBP_P_DOC&SAP-CLIENT=100"
+    }
+  ],
+  "items": [
+    {
+      "category_number": "95935",
+      "category_description": "Serv MarineGeneral"
+    }
+  ],
+  "awards": [],
+  "scraped_at": "2026-05-14T10:08:57.173872+00:00"
+}
