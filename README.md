@@ -17,10 +17,6 @@ Step       File                       Status       Purpose
 
 Output: 115 RFP rows, 289 doc rows.
 
-
-
-Approx 1,200+ bid records with attachments in scraped_data/
-
 Phase 2: Database & Azure Setup
 Step	File	    Purpose	                                                    Result
 4	    check_db.py	Diagnostic - check UUID rows and source distribution	Informational only
